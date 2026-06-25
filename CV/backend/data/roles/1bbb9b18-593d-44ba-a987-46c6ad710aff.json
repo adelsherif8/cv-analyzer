@@ -1,0 +1,68 @@
+{
+  "title": "Frontend Engineer",
+  "description": "Envision Employment Solutions is currently looking for a Frontend Engineer for one of our partners, a global leader in consulting, digital transformation, technology, and engineering services.\n\n\nThis position might require flexibility to work on US times and flexibility to travel abroad when needed. \n\n\n\nRequirements:\n3+ years of experience as a fulltime senior Web developer\nHave implemented at least one full web application/application portal of non-trivial size based on StencilJS / Angular / React / Vue, preference is for React\nExperience with HTML5 and or responsive web design principles\nExperience with CSS architectures such as ITCSS and or BEM\nExperience with consuming backend API\u2019s in order to build dynamic web applications that persist data\nExperience developing event-driven front-ends relying on websockets or similar transports.\nExperience with TypeScript\nA solid understanding of building applications that adhere to web security best practices\nExperience working in an agile team.\nExperience with version control systems based on Git (Gitlab / Bitbucket etc.)\nExperience with package managers such as npm\nExperience with test-driven-design principles\nPassionate about DevOps and automation including the setup of CI/CD pipelines (Gitlab advantageous)\n\n",
+  "required_skills": [
+    {
+      "name": "React (or SPA framework: React/Angular/Vue/Stencil)",
+      "weight": 0.3,
+      "critical": false,
+      "is_bonus": false,
+      "category": "General"
+    },
+    {
+      "name": "HTML5, CSS3 & Responsive Layout (incl. ITCSS/BEM)",
+      "weight": 0.1,
+      "critical": false,
+      "is_bonus": false,
+      "category": "General"
+    },
+    {
+      "name": "TypeScript",
+      "weight": 0.1,
+      "critical": false,
+      "is_bonus": false,
+      "category": "General"
+    },
+    {
+      "name": "API Integration & State Management (REST/GraphQL)",
+      "weight": 0.2,
+      "critical": false,
+      "is_bonus": false,
+      "category": "General"
+    },
+    {
+      "name": "Testing & TDD (Jest / React Testing Library / Cypress)",
+      "weight": 0.1,
+      "critical": false,
+      "is_bonus": false,
+      "category": "General"
+    },
+    {
+      "name": "Real-time Front-ends (WebSockets / SSE)",
+      "weight": 0.1,
+      "critical": false,
+      "is_bonus": false,
+      "category": "General"
+    },
+    {
+      "name": "Web Security Best Practices (OWASP, auth, XSS/CSRF)",
+      "weight": 0.1,
+      "critical": false,
+      "is_bonus": false,
+      "category": "General"
+    },
+    {
+      "name": "DevOps & CI/CD (GitLab/GitHub Actions, npm workflows)",
+      "weight": 0.1,
+      "critical": false,
+      "is_bonus": false,
+      "category": "General"
+    }
+  ],
+  "seniority": "mid",
+  "nice_to_have": [],
+  "must_have_keywords": [],
+  "locale": "en",
+  "id": "1bbb9b18-593d-44ba-a987-46c6ad710aff",
+  "created_at": "2025-08-19 19:57:22.684811"
+}

@@ -1,0 +1,41 @@
+Sarah Chen
+Frontend Developer
+sarah.chen@email.com | (555) 987-6543
+LinkedIn: linkedin.com/in/sarahchen
+
+EXPERIENCE
+
+Frontend Developer | WebAgency Co | 2022 - Present
+• Developed responsive websites using HTML, CSS, JavaScript, and React
+• Created mobile-first designs with CSS Grid and Flexbox
+• Worked on e-commerce projects using various platforms including some Shopify work
+• Collaborated with UX designers to implement pixel-perfect layouts
+• Optimized website performance and accessibility
+
+Junior Web Developer | StartupTech | 2021 - 2022
+• Built landing pages and marketing websites using HTML, CSS, and JavaScript
+• Learned React and modern development workflows
+• Assisted with website maintenance and bug fixes
+• Gained exposure to e-commerce development
+
+Intern | DigitalCorp | Summer 2021
+• Supported development team with HTML/CSS tasks
+• Learned version control with Git
+• Created documentation for development processes
+
+TECHNICAL SKILLS
+• Languages: HTML5, CSS3, JavaScript (ES6), TypeScript
+• Frameworks: React, Vue.js, Bootstrap
+• Tools: Git, VS Code, Chrome DevTools, Figma
+• Basic exposure to: Shopify Liquid, WordPress, Node.js
+
+PROJECTS
+• Personal portfolio website built with React (2023)
+• E-commerce mockup with product catalog and cart functionality (2022)
+• Responsive business website with contact forms (2021)
+
+EDUCATION
+Bachelor of Web Development | State University | 2021
+Frontend Development Bootcamp | CodeSchool | 2020
+
+3 years experience in frontend development with growing expertise in modern frameworks and e-commerce platforms.

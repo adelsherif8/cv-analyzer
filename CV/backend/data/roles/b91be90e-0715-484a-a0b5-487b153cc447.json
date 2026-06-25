@@ -1,0 +1,12 @@
+{
+  "title": "Sales Man",
+  "description": "Sales man",
+  "required_skills": [
+    {
+      "name": "SalesMan",
+      "weight": 1.0
+    }
+  ],
+  "id": "b91be90e-0715-484a-a0b5-487b153cc447",
+  "created_at": "2025-08-17 02:19:11.565578"
+}

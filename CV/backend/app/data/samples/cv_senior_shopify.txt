@@ -1,0 +1,42 @@
+Alex Thompson
+Senior Shopify Developer
+alex.thompson@email.com | (555) 123-4567
+Portfolio: https://github.com/alexthompson | https://alexthompson.dev
+
+EXPERIENCE
+
+Senior Shopify Developer | TechCommerce Solutions | 2021 - Present
+• Developed 15+ custom Shopify themes using Liquid, HTML5, CSS3, and JavaScript
+• Built theme app extensions and custom sections that increased conversion rates by 25%
+• Optimized store speed achieving 90+ PageSpeed scores, reducing load time from 3.2s to 1.1s
+• Implemented A/B tests on product pages resulting in 18% improvement in add-to-cart rates
+• Collaborated with design team to create pixel-perfect responsive layouts
+
+Frontend Developer | ShopifyPlus Agency | 2019 - 2021
+• Customized Dawn theme for 8 high-volume stores processing $1M+ monthly revenue
+• Created custom checkout experiences using Shopify Scripts and checkout extensions
+• Developed headless Shopify solutions using React and Shopify Storefront API
+• Managed code deployments using Git and automated testing workflows
+
+Junior Developer | WebDev Studio | 2018 - 2019
+• Built responsive websites using HTML, CSS, JavaScript, and WordPress
+• Learned Shopify development and completed Shopify certification
+• Contributed to open-source Shopify theme projects
+
+TECHNICAL SKILLS
+• Languages: Liquid, JavaScript (ES6+), HTML5, CSS3, SCSS
+• Frameworks: React, Vue.js, jQuery
+• Shopify: Theme development, App development, Storefront API, Admin API
+• Tools: Git, Webpack, Shopify CLI, Chrome DevTools
+• Performance: Core Web Vitals optimization, image optimization, lazy loading
+
+PROJECTS
+• Custom B2B Shopify Plus theme with tiered pricing (2023)
+• Multi-currency theme with geolocation features (2022)
+• Headless Shopify store with React frontend achieving 95 Lighthouse score (2022)
+
+EDUCATION
+Bachelor of Computer Science | Tech University | 2018
+Shopify Theme Development Certification | 2019
+
+5 years experience in Shopify development with proven track record of performance optimization and conversion improvement.

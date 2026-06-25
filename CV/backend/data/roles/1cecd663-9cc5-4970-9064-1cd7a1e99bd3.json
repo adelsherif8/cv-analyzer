@@ -1,0 +1,24 @@
+{
+  "title": "Frontend Shopify Developer",
+  "description": "We are looking for a skilled Frontend Shopify Developer to join our team. \nYou will be responsible for building, customizing, and optimizing Shopify themes \nusing Liquid, HTML, CSS, and JavaScript. The ideal candidate has a strong eye \nfor design, experience with responsive development, and familiarity with \nShopify apps and APIs.\n",
+  "required_skills": [
+    {
+      "name": "Liquid Templating",
+      "weight": 0.4
+    },
+    {
+      "name": "HTML / CSS",
+      "weight": 0.2
+    },
+    {
+      "name": "JavaScript (ES6+)",
+      "weight": 0.2
+    },
+    {
+      "name": "Shopify Theme Customization",
+      "weight": 0.2
+    }
+  ],
+  "id": "1cecd663-9cc5-4970-9064-1cd7a1e99bd3",
+  "created_at": "2025-08-17 01:52:39.718243"
+}

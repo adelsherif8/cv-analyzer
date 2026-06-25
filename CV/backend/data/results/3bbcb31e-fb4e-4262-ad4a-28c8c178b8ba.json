@@ -1,0 +1,370 @@
+{
+  "role_id": "3bbcb31e-fb4e-4262-ad4a-28c8c178b8ba",
+  "results": [
+    {
+      "candidate_id": "e44b70a2-778b-45cd-ac0c-138603bc6661",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 1.8,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Adel Atya Cvmay \u2013 Frontend Developer (React / Shopify)**",
+        "**\ud83d\udccb Executive Summary**\nJunior professional with 2 years of experience. Strengths: JavaScript (ES6+) & Frontend Best Practices  . Development areas: React.js Development (components, hooks, state management)  , Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  . Limited fit - significant skill gaps present.",
+        "**\ud83d\udd27 Skills Assessment**\n",
+        "**React.js Development (components, hooks, state management)  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ** \u2013 <span class='text-orange-500 font-bold'>Adequate (6.0/10)</span>",
+        "  \u2022 Evidence: Developed automated workflows using Zapier and GoHighLevel to streamline lead ge...",
+        "  \u2022 Evidence: Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong f...",
+        "",
+        "**JavaScript (ES6+) & Frontend Best Practices  ** \u2013 <span class='text-orange-500 font-bold'>Adequate (6.5/10)</span>",
+        "  \u2022 Evidence: Built fully responsive websites using WordPress, Shopify (Liquid), and React for...",
+        "  \u2022 Evidence: Developed a custom React-based portfolio to showcase front-end projects, design ...",
+        "",
+        "**API Integration & Performance Optimization  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**\u2705 Key Strengths**",
+        "\u2022 Practical Experience: 2 years of hands-on application",
+        "\u2022 Results-Oriented: Track record of delivering measurable business impact",
+        "**\u26a0\ufe0f Development Areas**",
+        "\u2022 Standard Considerations: Typical onboarding and skill refinement expected for role requirements",
+        "**\ud83c\udfaf Hiring Recommendation: Limited Match (1.8/10)**",
+        "Decision: Significant investment required - evaluate alternative roles",
+        "Onboarding: 3-4 months comprehensive development program required",
+        "**\ud83d\udd04 Alternative Role Considerations**",
+        "1. Entry-level Frontend Developer (React / Shopify) - Based on demonstrated skills and experience level",
+        "2. Full Stack Developer - Based on demonstrated skills and experience level",
+        "3. Frontend Developer - Based on demonstrated skills and experience level"
+      ],
+      "cv_summary": "**Adel Atya Cvmay** - Junior software development candidate with 2 years of professional experience. **Strong in:** JavaScript (ES6+) & Frontend Best Practices  , HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  . **Moderate fit** (1.8/10) for this position.",
+      "suggested_roles": [
+        "Entry-level Frontend Developer (React / Shopify)",
+        "Full Stack Developer",
+        "Frontend Developer",
+        "Backend Developer"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Adel Atya Front-End Engineer Workflow Automator Wo...",
+      "candidate_details": {
+        "name": "Adel Atya Cvmay",
+        "email": "adelsherif8@gmail.com",
+        "phone": null,
+        "location": "responsive, fa",
+        "linkedin": "https://linkedin.com/in/adel-sherif-551467309/",
+        "github": null,
+        "portfolio": null,
+        "other_links": [
+          "https://adelemad.netlify.app",
+          "https://instagram.com/adelsherif8/",
+          "https://citycentredentistry.com/clear-aligners",
+          "https://cftgroup.ca",
+          "https://cft-storage.com",
+          "https://qualitylandscapes.ca",
+          "https://autoshippers.ca",
+          "https://placidessentials.com",
+          "https://invisalign.wesmiledentistry.ca",
+          "https://paste.dental",
+          "https://thesafetails.com"
+        ]
+      },
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": {
+        "React.js Development (components, hooks, state management)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ": {
+          "score": 5.9624999999999995,
+          "evidence": [
+            "Developed automated workflows using Zapier and GoHighLevel to streamline lead generation, appointment booking, and CRM communication.",
+            "Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong foundation in UX/UI design and performance optimization.",
+            "using Zapier and GoHighLevel to streamline lead generation, appointment booking, and CRM communication."
+          ],
+          "years_experience": 0.0
+        },
+        "JavaScript (ES6+) & Frontend Best Practices  ": {
+          "score": 6.5249999999999995,
+          "evidence": [
+            "Built fully responsive websites using WordPress, Shopify (Liquid), and React for clients across industries including dental, logistics, landscaping, and e-commerce.",
+            "Developed a custom React-based portfolio to showcase front-end projects, design skills, and automation workflows.",
+            "app Developed a custom React-based portfolio to showcase front-end projects, design skills, and automation workflows."
+          ],
+          "years_experience": 0.0
+        },
+        "API Integration & Performance Optimization  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        }
+      }
+    },
+    {
+      "candidate_id": "eab65177-eefe-43e4-a6c7-a94b4a79953d",
+      "file_name": "test_junior_developer_cv.txt",
+      "fit_score": 0.0,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Test Junior Developer \u2013 Frontend Developer (React / Shopify)**",
+        "**\ud83d\udccb Executive Summary**\nEntry-level candidate with 1 years of experience. Development areas: React.js Development (components, hooks, state management)  , Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  . Limited fit - significant skill gaps present.",
+        "**\ud83d\udd27 Skills Assessment**\n",
+        "**React.js Development (components, hooks, state management)  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**JavaScript (ES6+) & Frontend Best Practices  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**API Integration & Performance Optimization  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**\u2705 Key Strengths**",
+        "\u2022 Growth Potential: Demonstrates learning ability and adaptability",
+        "**\u26a0\ufe0f Development Areas**",
+        "\u2022 Limited Experience: May require additional mentoring and extended onboarding period",
+        "**\ud83c\udfaf Hiring Recommendation: Limited Match (0.0/10)**",
+        "Decision: Significant investment required - evaluate alternative roles",
+        "Onboarding: 3-4 months comprehensive development program required",
+        "**\ud83d\udd04 Alternative Role Considerations**",
+        "1. Entry-level Frontend Developer (React / Shopify) - Based on demonstrated skills and experience level",
+        "2. Software Developer - Based on demonstrated skills and experience level",
+        "3. Technical Specialist - Based on demonstrated skills and experience level"
+      ],
+      "cv_summary": "**Test Junior Developer** - Junior software development candidate with 1 years of professional experience. **Strong in:** . **Moderate fit** (0.0/10) for this position.",
+      "suggested_roles": [
+        "Entry-level Frontend Developer (React / Shopify)",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 1.0,
+      "last_role": "Mike Johnson - Junior Developer EDUCATION Bachelor...",
+      "candidate_details": {
+        "name": "Test Junior Developer",
+        "email": null,
+        "phone": null,
+        "location": "HTML, CS",
+        "linkedin": null,
+        "github": null,
+        "portfolio": null,
+        "other_links": []
+      },
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": {
+        "React.js Development (components, hooks, state management)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "JavaScript (ES6+) & Frontend Best Practices  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "API Integration & Performance Optimization  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        }
+      }
+    },
+    {
+      "candidate_id": "1cc25ae9-f485-46eb-985e-00412a90f59b",
+      "file_name": "sales_development_rep.txt",
+      "fit_score": 0.0,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Sales Development Rep \u2013 Frontend Developer (React / Shopify)**",
+        "**\ud83d\udccb Executive Summary**\nJunior professional with 3 years of experience. Development areas: React.js Development (components, hooks, state management)  , Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  . Limited fit - significant skill gaps present.",
+        "**\ud83d\udd27 Skills Assessment**\n",
+        "**React.js Development (components, hooks, state management)  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**JavaScript (ES6+) & Frontend Best Practices  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**API Integration & Performance Optimization  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**\u2705 Key Strengths**",
+        "\u2022 Practical Experience: 3 years of hands-on application",
+        "\u2022 Leadership Experience: Proven ability to guide teams and manage responsibilities",
+        "\u2022 Results-Oriented: Track record of delivering measurable business impact",
+        "**\u26a0\ufe0f Development Areas**",
+        "\u2022 Standard Considerations: Typical onboarding and skill refinement expected for role requirements",
+        "**\ud83c\udfaf Hiring Recommendation: Limited Match (0.0/10)**",
+        "Decision: Significant investment required - evaluate alternative roles",
+        "Onboarding: 3-4 months comprehensive development program required",
+        "**\ud83d\udd04 Alternative Role Considerations**",
+        "1. Entry-level Frontend Developer (React / Shopify) - Based on demonstrated skills and experience level",
+        "2. Software Developer - Based on demonstrated skills and experience level",
+        "3. Technical Specialist - Based on demonstrated skills and experience level"
+      ],
+      "cv_summary": "**Sales Development Rep** - Mid-Level software development candidate with 3 years of professional experience. **Strong in:** . **Moderate fit** (0.0/10) for this position.",
+      "suggested_roles": [
+        "Entry-level Frontend Developer (React / Shopify)",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 3.0,
+      "last_role": "Not clearly specified",
+      "candidate_details": {
+        "name": "Sales Development Rep",
+        "email": "marcus.johnson@email.com",
+        "phone": "+1 (555) 890-1234",
+        "location": "prospecting, le",
+        "linkedin": "https://linkedin.com/in/marcusjohnsonsales",
+        "github": null,
+        "portfolio": null,
+        "other_links": []
+      },
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": {
+        "React.js Development (components, hooks, state management)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "JavaScript (ES6+) & Frontend Best Practices  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "API Integration & Performance Optimization  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        }
+      }
+    },
+    {
+      "candidate_id": "e6d0a880-0281-4938-a5f8-f3763e2b4dd0",
+      "file_name": "sales_development_rep.txt",
+      "fit_score": 0.0,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Sales Development Rep \u2013 Frontend Developer (React / Shopify)**",
+        "**\ud83d\udccb Executive Summary**\nJunior professional with 3 years of experience. Development areas: React.js Development (components, hooks, state management)  , Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  . Limited fit - significant skill gaps present.",
+        "**\ud83d\udd27 Skills Assessment**\n",
+        "**React.js Development (components, hooks, state management)  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**JavaScript (ES6+) & Frontend Best Practices  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**API Integration & Performance Optimization  ** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**\u2705 Key Strengths**",
+        "\u2022 Practical Experience: 3 years of hands-on application",
+        "\u2022 Leadership Experience: Proven ability to guide teams and manage responsibilities",
+        "\u2022 Results-Oriented: Track record of delivering measurable business impact",
+        "**\u26a0\ufe0f Development Areas**",
+        "\u2022 Standard Considerations: Typical onboarding and skill refinement expected for role requirements",
+        "**\ud83c\udfaf Hiring Recommendation: Limited Match (0.0/10)**",
+        "Decision: Significant investment required - evaluate alternative roles",
+        "Onboarding: 3-4 months comprehensive development program required",
+        "**\ud83d\udd04 Alternative Role Considerations**",
+        "1. Entry-level Frontend Developer (React / Shopify) - Based on demonstrated skills and experience level",
+        "2. Software Developer - Based on demonstrated skills and experience level",
+        "3. Technical Specialist - Based on demonstrated skills and experience level"
+      ],
+      "cv_summary": "**Sales Development Rep** - Mid-Level software development candidate with 3 years of professional experience. **Strong in:** . **Moderate fit** (0.0/10) for this position.",
+      "suggested_roles": [
+        "Entry-level Frontend Developer (React / Shopify)",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 3.0,
+      "last_role": "Not clearly specified",
+      "candidate_details": {
+        "name": "Sales Development Rep",
+        "email": "marcus.johnson@email.com",
+        "phone": "+1 (555) 890-1234",
+        "location": "prospecting, le",
+        "linkedin": "https://linkedin.com/in/marcusjohnsonsales",
+        "github": null,
+        "portfolio": null,
+        "other_links": []
+      },
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": {
+        "React.js Development (components, hooks, state management)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "JavaScript (ES6+) & Frontend Best Practices  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "API Integration & Performance Optimization  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        }
+      }
+    }
+  ],
+  "analyzed_at": "2025-08-17 04:13:36.435093"
+}

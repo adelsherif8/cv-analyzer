@@ -1,0 +1,32 @@
+{
+  "title": "DevOps Engineer",
+  "description": "Manage cloud infrastructure and CI/CD pipelines",
+  "required_skills": [
+    {
+      "name": "AWS",
+      "weight": 0.25
+    },
+    {
+      "name": "Docker",
+      "weight": 0.2
+    },
+    {
+      "name": "Kubernetes",
+      "weight": 0.2
+    },
+    {
+      "name": "Terraform",
+      "weight": 0.15
+    },
+    {
+      "name": "Jenkins",
+      "weight": 0.1
+    },
+    {
+      "name": "Python",
+      "weight": 0.1
+    }
+  ],
+  "id": "35cc9bfd-9c0e-4b1d-8583-588420c5b2dd",
+  "created_at": "2025-08-17 02:17:12.074573"
+}

@@ -1,0 +1,66 @@
+Alex Kim - Junior UI/UX Designer
+
+Email: alex.kim@email.com
+Phone: +1 (555) 567-8901
+LinkedIn: https://linkedin.com/in/alexkimdesign
+Portfolio: https://alexkim-ux.com
+Instagram: https://instagram.com/alexdesigns
+
+PROFESSIONAL SUMMARY
+Junior UI/UX Designer with 1.5 years of experience creating digital experiences for web and mobile. Recent graduate with strong foundation in design principles, user research, and modern design tools. Eager to contribute to innovative projects and continue learning in a collaborative environment.
+
+TECHNICAL SKILLS
+Design Tools: Figma (Advanced), Adobe XD, Sketch
+Prototyping: Figma, InVision, Marvel
+Research: Basic user testing, surveys, persona creation
+Visual Design: Adobe Photoshop, Illustrator, basic After Effects
+Web Technologies: HTML, CSS, basic understanding of responsive design
+Collaboration: Slack, Trello, Google Workspace
+
+EXPERIENCE
+
+UI/UX Designer | Local Design Studio | Feb 2023 - Present
+• Design user interfaces for small business websites and mobile apps
+• Create wireframes and prototypes for client projects
+• Participate in client meetings and present design concepts
+• Collaborate with developers to implement designs
+• Assist in user research and usability testing sessions
+• Maintained design consistency across multiple projects
+
+UX Design Intern | Tech Startup | Jun 2022 - Jan 2023
+• Supported senior designers in mobile app redesign project
+• Created user flows and wireframes for new features
+• Conducted competitive analysis and market research
+• Assisted in user interview sessions and data collection
+• Learned agile design processes and design system principles
+• Contributed to company's design system documentation
+
+Freelance Graphic Designer | Self-Employed | Jan 2021 - Jun 2022
+• Designed logos, branding, and marketing materials for local businesses
+• Created social media graphics and promotional content
+• Developed basic understanding of client communication and project management
+• Built portfolio while studying UX design principles
+
+PROJECTS
+• Fitness App Concept: Designed complete mobile app interface for workout tracking
+• E-learning Platform: Created responsive web design for online course platform
+• Food Delivery Redesign: Conceptual redesign of popular food delivery app
+• Coffee Shop App: End-to-end design process from research to high-fidelity prototype
+
+EDUCATION
+Bachelor of Arts in Visual Communication Design | Cal State University | 2022
+UX/UI Design Bootcamp | Ironhack | 2022
+
+CERTIFICATIONS
+• Google UX Design Certificate (In Progress)
+• Figma Certification
+• Adobe Certified Associate in Visual Design
+
+SKILLS DEVELOPMENT
+• Currently learning advanced prototyping techniques
+• Studying accessibility guidelines and inclusive design
+• Expanding knowledge in user research methodologies
+• Learning basic front-end development skills
+
+DESIGN INTERESTS
+Passionate about creating intuitive, beautiful interfaces that enhance user experience. Interested in mobile-first design, microinteractions, and emerging technologies like voice UI and AR/VR interfaces.

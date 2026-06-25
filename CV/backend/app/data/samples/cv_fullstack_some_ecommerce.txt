@@ -1,0 +1,43 @@
+Michael Rodriguez
+Full Stack Developer
+michael.rodriguez@email.com | (555) 456-7890
+GitHub: github.com/mrodriguez | Portfolio: mrodriguez.dev
+
+EXPERIENCE
+
+Full Stack Developer | TechSolutions Inc | 2020 - Present
+• Developed web applications using React, Node.js, and PostgreSQL
+• Built RESTful APIs and integrated third-party services
+• Worked on e-commerce features including payment processing and inventory management
+• Implemented CI/CD pipelines using GitHub Actions
+• Mentored junior developers and conducted code reviews
+
+Software Developer | Innovation Labs | 2018 - 2020
+• Created customer-facing applications using JavaScript, React, and Express.js
+• Designed and implemented database schemas using MongoDB and PostgreSQL
+• Collaborated with product team to define technical requirements
+• Optimized application performance and reduced page load times by 40%
+
+Junior Developer | WebCraft Agency | 2017 - 2018
+• Built websites using HTML, CSS, JavaScript, and content management systems
+• Learned modern JavaScript frameworks and development best practices
+• Participated in client meetings and project planning sessions
+
+TECHNICAL SKILLS
+• Frontend: React, Vue.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS
+• Backend: Node.js, Express.js, Python, Django
+• Databases: PostgreSQL, MongoDB, MySQL
+• Tools: Git, Docker, AWS, Heroku, Jest
+• Limited exposure to: Shopify development, Liquid templating
+
+PROJECTS
+• E-commerce platform with React frontend and Node.js backend (2023)
+• Task management application with real-time updates using WebSockets (2022)
+• Blog platform with CMS functionality built with Django (2021)
+• Personal website showcasing development work (ongoing)
+
+EDUCATION
+Bachelor of Computer Science | University of Technology | 2017
+AWS Cloud Practitioner Certification | 2022
+
+6 years experience in full stack development with strong foundation in modern web technologies and some e-commerce exposure.

@@ -1,0 +1,14 @@
+{
+  "title": "Senior Data Scientist",
+  "description": "We're looking for a Senior Data Scientist to lead ML initiatives, build predictive models, and drive data-driven decision making across the organization. You'll work with large datasets, deploy models to production, and mentor junior team members.",
+  "required_skills": [
+    {"name": "Python & Data Libraries (Pandas, NumPy, Scikit-learn)", "weight": 0.9},
+    {"name": "Machine Learning & Deep Learning", "weight": 0.9},
+    {"name": "SQL & Database Management", "weight": 0.8},
+    {"name": "Statistical Analysis & A/B Testing", "weight": 0.8},
+    {"name": "Data Visualization (Tableau, Power BI)", "weight": 0.7},
+    {"name": "Cloud Platforms (AWS, GCP, Azure)", "weight": 0.7},
+    {"name": "MLOps & Model Deployment", "weight": 0.6},
+    {"name": "R Programming", "weight": 0.5}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "DevOps Engineer",
+  "description": "We need a DevOps Engineer to streamline our deployment processes, manage cloud infrastructure, and ensure system reliability. You'll work with containerization, CI/CD pipelines, and monitoring tools to support our development teams.",
+  "required_skills": [
+    {"name": "Docker & Kubernetes", "weight": 0.9},
+    {"name": "AWS/GCP/Azure Cloud Services", "weight": 0.9},
+    {"name": "CI/CD Pipelines (Jenkins, GitLab, GitHub Actions)", "weight": 0.8},
+    {"name": "Infrastructure as Code (Terraform, CloudFormation)", "weight": 0.8},
+    {"name": "Linux System Administration", "weight": 0.8},
+    {"name": "Monitoring & Logging (Prometheus, ELK Stack)", "weight": 0.7},
+    {"name": "Scripting (Bash, Python)", "weight": 0.7},
+    {"name": "Security & Compliance", "weight": 0.6}
+  ]
+}

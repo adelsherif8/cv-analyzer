@@ -1,0 +1,61 @@
+Michael Rodriguez - Data Scientist
+
+Email: michael.rodriguez@email.com
+Phone: +1 (555) 345-6789
+LinkedIn: https://linkedin.com/in/michaelds
+GitHub: https://github.com/mikerodriguez-data
+Portfolio: https://mike-analytics-portfolio.com
+
+PROFESSIONAL SUMMARY
+Data Scientist with 3 years of experience in healthcare analytics and business intelligence. Strong background in statistical analysis, machine learning, and data visualization. Passionate about using data to solve complex business problems and improve healthcare outcomes.
+
+TECHNICAL SKILLS
+Programming: Python (Pandas, NumPy, Scikit-learn), R, SQL
+Machine Learning: Regression, Classification, Clustering, Random Forest, SVM
+Analytics: Statistical Analysis, Hypothesis Testing, A/B Testing
+Visualization: Tableau, Power BI, Matplotlib, ggplot2
+Databases: MySQL, PostgreSQL
+Cloud: Basic AWS experience (S3, EC2)
+
+EXPERIENCE
+
+Data Scientist | HealthTech Analytics | Mar 2022 - Present
+• Developed predictive models for patient readmission risk (78% accuracy)
+• Created automated reporting system reducing manual work by 60%
+• Performed cohort analysis to identify high-risk patient populations
+• Built dashboards for clinical decision support using Tableau
+• Collaborated with medical professionals to interpret findings
+
+Business Analyst | MedDevice Corp | Jul 2020 - Feb 2022
+• Analyzed sales data to identify market opportunities and trends
+• Created executive dashboards tracking key performance metrics
+• Performed statistical analysis on clinical trial data
+• Generated insights that led to 20% increase in market penetration
+• Worked with cross-functional teams on data-driven initiatives
+
+Data Analyst Intern | Regional Hospital System | Jun 2019 - Dec 2019
+• Cleaned and analyzed electronic health records data
+• Assisted in building patient satisfaction prediction models
+• Created visualizations for hospital administration
+• Learned SQL and database management fundamentals
+• Supported senior analysts in various data projects
+
+PROJECTS
+• COVID-19 Impact Analysis: Analyzed pandemic effects on hospital operations
+• Patient Flow Optimization: Built simulation model to reduce wait times by 25%
+• Drug Interaction Predictor: Logistic regression model for medication safety
+• Healthcare Cost Analysis: Identified factors driving treatment costs
+
+EDUCATION
+Master of Science in Data Science | University of California San Diego | 2020
+Bachelor of Science in Statistics | UC Los Angeles | 2018
+
+CERTIFICATIONS
+• Certified Analytics Professional (CAP)
+• Tableau Desktop Certified Associate
+• Python for Data Science Certificate
+
+SKILLS DEVELOPMENT
+• Currently learning deep learning and neural networks
+• Expanding cloud computing knowledge (AWS, GCP)
+• Studying MLOps and model deployment best practices

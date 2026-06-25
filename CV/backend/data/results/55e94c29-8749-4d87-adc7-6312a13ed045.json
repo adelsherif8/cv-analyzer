@@ -1,0 +1,26 @@
+{
+  "role_id": "55e94c29-8749-4d87-adc7-6312a13ed045",
+  "results": [
+    {
+      "candidate_id": "e615188f-3ddf-40e3-84c1-3e363287658b",
+      "file_name": "test_junior_developer_cv.txt",
+      "fit_score": 0.0,
+      "why": [
+        "Analysis failed: cannot access local variable 'years_experience' where it is not associated with a value"
+      ],
+      "cv_summary": "Unable to analyze this CV due to parsing or processing errors.",
+      "suggested_roles": [
+        "Unknown"
+      ],
+      "red_flags": [
+        "File processing error"
+      ],
+      "years_experience": null,
+      "last_role": null,
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": null
+    }
+  ],
+  "analyzed_at": "2025-08-17 02:32:44.285159"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Sales Development Representative",
+  "description": "Join our sales team to generate new business opportunities through outbound prospecting, lead qualification, and relationship building. You'll use CRM tools, conduct discovery calls, and set meetings for our Account Executives.",
+  "required_skills": [
+    {"name": "Lead Generation & Prospecting", "weight": 0.9},
+    {"name": "CRM Management (Salesforce, HubSpot)", "weight": 0.8},
+    {"name": "Cold Calling & Phone Sales", "weight": 0.8},
+    {"name": "Email Marketing & Outreach", "weight": 0.7},
+    {"name": "Social Selling (LinkedIn)", "weight": 0.7},
+    {"name": "Sales Qualification (BANT, MEDDIC)", "weight": 0.6},
+    {"name": "Pipeline Management", "weight": 0.7},
+    {"name": "B2B Sales Experience", "weight": 0.8}
+  ]
+}

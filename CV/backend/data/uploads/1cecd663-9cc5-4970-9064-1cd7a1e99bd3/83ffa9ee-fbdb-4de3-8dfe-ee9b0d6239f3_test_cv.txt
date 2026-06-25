@@ -1,0 +1,42 @@
+ADEL ATYA
+Senior Full-Stack Developer
+
+Email: adel.atya@example.com
+Phone: +1-555-0123
+LinkedIn: linkedin.com/in/adelatya
+GitHub: github.com/adelatya
+
+PROFESSIONAL SUMMARY
+Experienced full-stack developer with 5+ years building modern web applications. 
+Expert in React, TypeScript, Node.js, and cloud architectures. Strong background 
+in e-commerce platforms and API development.
+
+TECHNICAL SKILLS
+- Frontend: React, TypeScript, JavaScript ES6+, HTML5, CSS3, Tailwind CSS
+- Backend: Node.js, Python, FastAPI, Express.js, RESTful APIs
+- Databases: PostgreSQL, MongoDB, Redis
+- Cloud: AWS, Docker, Kubernetes
+- Tools: Git, Jest, Webpack, CI/CD
+
+PROFESSIONAL EXPERIENCE
+
+Senior Full-Stack Developer | TechCorp Inc. | 2021 - Present
+- Built 15+ React applications with TypeScript and modern state management
+- Developed microservices architecture serving 100k+ daily users
+- Implemented CI/CD pipelines reducing deployment time by 60%
+- Led team of 4 developers on enterprise e-commerce platform
+
+Full-Stack Developer | StartupXYZ | 2019 - 2021
+- Created responsive web applications using React and Node.js
+- Designed and implemented RESTful APIs with Express.js
+- Optimized database queries improving performance by 40%
+- Collaborated with designers to implement pixel-perfect UI/UX
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology | 2015 - 2019
+
+PROJECTS
+- E-commerce Platform: Full-stack app with React, Node.js, PostgreSQL
+- Task Management SaaS: Real-time collaboration tool with WebSocket integration
+- API Gateway: Microservices orchestration with Docker and Kubernetes

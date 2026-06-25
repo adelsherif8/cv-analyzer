@@ -1,0 +1,14 @@
+{
+  "title": "Sales",
+  "description": "Sales",
+  "required_skills": [
+    {
+      "name": "Sales",
+      "weight": 1.0,
+      "is_bonus": false,
+      "category": "General"
+    }
+  ],
+  "id": "87b5c570-35e7-4a24-9b3b-cdce7adca929",
+  "created_at": "2025-08-17 02:40:12.460012"
+}

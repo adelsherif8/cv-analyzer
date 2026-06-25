@@ -1,0 +1,479 @@
+{
+  "role_id": "cd7294df-7eb6-458c-8d2f-5203949be857",
+  "results": [
+    {
+      "candidate_id": "1c866279-8c8b-47c6-b3fa-98092db4a0bb",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 5.0,
+      "why": [
+        "Analysis completed with limited data"
+      ],
+      "cv_summary": "Professional candidate profile analyzed",
+      "suggested_roles": [
+        "General Position"
+      ],
+      "red_flags": [],
+      "years_experience": 0.0,
+      "last_role": "Professional",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": null,
+      "full_analysis": null
+    },
+    {
+      "candidate_id": "cb44a8f5-5529-42b7-bddf-a7cf645a9cfa",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 5.0,
+      "why": [
+        "Analysis completed with limited data"
+      ],
+      "cv_summary": "Professional candidate profile analyzed",
+      "suggested_roles": [
+        "General Position"
+      ],
+      "red_flags": [],
+      "years_experience": 0.0,
+      "last_role": "Professional",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": null,
+      "full_analysis": null
+    },
+    {
+      "candidate_id": "7691fb92-bf20-4526-82c9-cc929428aa77",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 5.0,
+      "why": [
+        "Analysis completed with limited data"
+      ],
+      "cv_summary": "Professional candidate profile analyzed",
+      "suggested_roles": [
+        "General Position"
+      ],
+      "red_flags": [],
+      "years_experience": 0.0,
+      "last_role": "Professional",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": null,
+      "full_analysis": null
+    },
+    {
+      "candidate_id": "b517ebc6-fe8c-4de6-aee7-f3ec0f1d98bd",
+      "file_name": "test_sarah_johnson_cv.txt",
+      "fit_score": 5.0,
+      "why": [
+        "Analysis completed with limited data"
+      ],
+      "cv_summary": "Professional candidate profile analyzed",
+      "suggested_roles": [
+        "General Position"
+      ],
+      "red_flags": [],
+      "years_experience": 0.0,
+      "last_role": "Professional",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": null,
+      "full_analysis": null
+    },
+    {
+      "candidate_id": "bca786fd-5b5b-4fc6-830a-3d5541bdd658",
+      "file_name": "test_adel_marketing_cv.txt",
+      "fit_score": 5.0,
+      "why": [
+        "Analysis completed with limited data"
+      ],
+      "cv_summary": "Professional candidate profile analyzed",
+      "suggested_roles": [
+        "General Position"
+      ],
+      "red_flags": [],
+      "years_experience": 0.0,
+      "last_role": "Professional",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": null,
+      "full_analysis": null
+    },
+    {
+      "candidate_id": "9c6976bd-2893-4b01-9f9b-6142dbb2a04f",
+      "file_name": "test_sarah_johnson_cv.txt",
+      "fit_score": 5.0,
+      "why": [
+        "Analysis completed with limited data"
+      ],
+      "cv_summary": "Professional candidate profile analyzed",
+      "suggested_roles": [
+        "General Position"
+      ],
+      "red_flags": [],
+      "years_experience": 0.0,
+      "last_role": "Professional",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": null,
+      "full_analysis": null
+    },
+    {
+      "candidate_id": "4680a71a-4da3-4ee2-8436-90375c8376d3",
+      "file_name": "test_sarah_johnson_cv.txt",
+      "fit_score": 1.0,
+      "why": [
+        "Score: 1.0/10 (10% match)",
+        "React Native (core, new architecture, native modules, navigation): 0.0/10",
+        "Cross-platform Mobile Lifecycle & Performance (iOS/Android, profiling, animations): 4.8/10",
+        "State Management (Redux, Redux-Saga/Thunk, Context/RTK Query): 0.0/10"
+      ],
+      "cv_summary": "Professional candidate with 7.0 years of experience in the target domain.",
+      "suggested_roles": [
+        "General Specialist",
+        "Professional Role"
+      ],
+      "red_flags": [],
+      "years_experience": 7.0,
+      "last_role": "Professional",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": {
+        "React Native (core, new architecture, native modules, navigation)": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 7.0
+        },
+        "Cross-platform Mobile Lifecycle & Performance (iOS/Android, profiling, animations)": {
+          "score": 4.8,
+          "evidence": [
+            "2019 Supported PPC campaigns and conducted keyword research for 100+ terms Created social media content and managed community engagement Assisted with email marketing campaigns and A/B testing EDUCATION Bachelor of Marketing University of California, Berkeley 2018 Google Ads Certification Current Google Analytics Certification Current SKILLS SEO Content Marketing: Technical SEO, keyword research, content strategy, link building Paid Advertising: Google Ads, Facebook Ads, campaign optimization, budget management Social Media: Strategy, content creation, community management, paid social Email Marketing: Automation, segmentation, A/B testing, deliverability Analytics: Google Analytics, Data Studio, conversion tracking, reporting Tools: SEMrush, Ahrefs, Canva, HubSpot, Salesforce",
+            "5 ROAS through campaign optimization and audience targeting Increased organic traffic by 300% through comprehensive SEO strategy and content marketing Led social media strategy resulting in 150k new followers and 25% engagement rate Implemented Klaviyo email automation workflows with 30% open rates and 12% CTR Mentored team of 4 junior marketers and interns Digital Marketing Specialist GrowthCorp 2019"
+          ],
+          "years_experience": 7.0
+        },
+        "State Management (Redux, Redux-Saga/Thunk, Context/RTK Query)": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 7.0
+        },
+        "React / Next.js for Web (SSR/SSG, routing, hydration)": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 7.0
+        },
+        "TypeScript (strict typing, generics, typesafe APIs)": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 7.0
+        },
+        "API Integration (GraphQL/Apollo, REST, JWT)": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 7.0
+        },
+        "Testing & Code Quality (Jest, React Testing Library, E2E/Cypress, coverage)": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 7.0
+        },
+        "CI/CD & DevOps (Git/GitHub Actions/GitLab, Docker, release automation)": {
+          "score": 4.8,
+          "evidence": [
+            "2021 Launched Google Ads and Facebook Ads campaigns from zero to $80k/month spend Created content marketing strategy generating 50k monthly organic visitors Managed social media accounts with 200% engagement growth Built email marketing automation in Mailchimp with advanced segmentation Marketing Coordinator StartupVenture 2018",
+            "com/in/sarahjohnson EXPERIENCE Senior Digital Marketing Manager TechStartup Inc 2021",
+            "Sarah Johnson Digital Marketing Specialist sarah"
+          ],
+          "years_experience": 7.0
+        },
+        "Monorepos & Micro-frontends (Nx/Turborepo, module federation)": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 7.0
+        },
+        "Collaboration & Leadership (code reviews, mentoring, communication)": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 7.0
+        }
+      },
+      "full_analysis": {
+        "candidate": {
+          "name": null,
+          "years_experience": 7.0,
+          "locale": "en"
+        },
+        "job_profile": {
+          "title": "Senior React Native Cross platform frontend developer [Fulltime Remote] (SF5-25)",
+          "seniority": "mid",
+          "skills": [
+            {
+              "name": "React Native (core, new architecture, native modules, navigation)",
+              "weight": 0.3,
+              "critical": false
+            },
+            {
+              "name": "Cross-platform Mobile Lifecycle & Performance (iOS/Android, profiling, animations)",
+              "weight": 0.1,
+              "critical": false
+            },
+            {
+              "name": "State Management (Redux, Redux-Saga/Thunk, Context/RTK Query)",
+              "weight": 0.1,
+              "critical": false
+            },
+            {
+              "name": "React / Next.js for Web (SSR/SSG, routing, hydration)",
+              "weight": 0.1,
+              "critical": false
+            },
+            {
+              "name": "TypeScript (strict typing, generics, typesafe APIs)",
+              "weight": 0.1,
+              "critical": false
+            },
+            {
+              "name": "API Integration (GraphQL/Apollo, REST, JWT)",
+              "weight": 0.1,
+              "critical": false
+            },
+            {
+              "name": "Testing & Code Quality (Jest, React Testing Library, E2E/Cypress, coverage)",
+              "weight": 0.1,
+              "critical": false
+            },
+            {
+              "name": "CI/CD & DevOps (Git/GitHub Actions/GitLab, Docker, release automation)",
+              "weight": 0.1,
+              "critical": false
+            },
+            {
+              "name": "Monorepos & Micro-frontends (Nx/Turborepo, module federation)",
+              "weight": 0.0,
+              "critical": false
+            },
+            {
+              "name": "Collaboration & Leadership (code reviews, mentoring, communication)",
+              "weight": 0.0,
+              "critical": false
+            }
+          ]
+        },
+        "ratings": [
+          {
+            "skill": "React Native (core, new architecture, native modules, navigation)",
+            "weight": 0.3,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "weak evidence, stale usage, limited tenure"
+          },
+          {
+            "skill": "Cross-platform Mobile Lifecycle & Performance (iOS/Android, profiling, animations)",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 4.8,
+            "evidence_confidence": "E3",
+            "evidence": [
+              "2019 Supported PPC campaigns and conducted keyword research for 100+ terms Created social media content and managed community engagement Assisted with email marketing campaigns and A/B testing EDUCATION Bachelor of Marketing University of California, Berkeley 2018 Google Ads Certification Current Google Analytics Certification Current SKILLS SEO Content Marketing: Technical SEO, keyword research, content strategy, link building Paid Advertising: Google Ads, Facebook Ads, campaign optimization, budget management Social Media: Strategy, content creation, community management, paid social Email Marketing: Automation, segmentation, A/B testing, deliverability Analytics: Google Analytics, Data Studio, conversion tracking, reporting Tools: SEMrush, Ahrefs, Canva, HubSpot, Salesforce",
+              "5 ROAS through campaign optimization and audience targeting Increased organic traffic by 300% through comprehensive SEO strategy and content marketing Led social media strategy resulting in 150k new followers and 25% engagement rate Implemented Klaviyo email automation workflows with 30% open rates and 12% CTR Mentored team of 4 junior marketers and interns Digital Marketing Specialist GrowthCorp 2019"
+            ],
+            "adjustments": {
+              "recency_factor": 0.619,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.3,
+              "seniority_penalty": 0.0
+            },
+            "reason": "stale usage, limited tenure"
+          },
+          {
+            "skill": "State Management (Redux, Redux-Saga/Thunk, Context/RTK Query)",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "weak evidence, stale usage, limited tenure"
+          },
+          {
+            "skill": "React / Next.js for Web (SSR/SSG, routing, hydration)",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "weak evidence, stale usage, limited tenure"
+          },
+          {
+            "skill": "TypeScript (strict typing, generics, typesafe APIs)",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "weak evidence, stale usage, limited tenure"
+          },
+          {
+            "skill": "API Integration (GraphQL/Apollo, REST, JWT)",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "weak evidence, stale usage, limited tenure"
+          },
+          {
+            "skill": "Testing & Code Quality (Jest, React Testing Library, E2E/Cypress, coverage)",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.619,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "weak evidence, stale usage, limited tenure"
+          },
+          {
+            "skill": "CI/CD & DevOps (Git/GitHub Actions/GitLab, Docker, release automation)",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 4.8,
+            "evidence_confidence": "E3",
+            "evidence": [
+              "2021 Launched Google Ads and Facebook Ads campaigns from zero to $80k/month spend Created content marketing strategy generating 50k monthly organic visitors Managed social media accounts with 200% engagement growth Built email marketing automation in Mailchimp with advanced segmentation Marketing Coordinator StartupVenture 2018",
+              "com/in/sarahjohnson EXPERIENCE Senior Digital Marketing Manager TechStartup Inc 2021",
+              "Sarah Johnson Digital Marketing Specialist sarah"
+            ],
+            "adjustments": {
+              "recency_factor": 0.619,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "stale usage, limited tenure"
+          },
+          {
+            "skill": "Monorepos & Micro-frontends (Nx/Turborepo, module federation)",
+            "weight": 0.0,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "weak evidence, stale usage, limited tenure"
+          },
+          {
+            "skill": "Collaboration & Leadership (code reviews, mentoring, communication)",
+            "weight": 0.0,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "weak evidence, stale usage, limited tenure"
+          }
+        ],
+        "weighted_score": {
+          "score_10": 1.0,
+          "match_pct": 10
+        },
+        "highlights": [
+          "com/in/sarahjohnson EXPERIENCE Senior Digital Marketing Manager TechStartup Inc 2021-Present Managed $200k/month Google Ads budget across search, display, and shopping campaigns Achieved 4",
+          "5 ROAS through campaign optimization and audience targeting Increased organic traffic by 300% through comprehensive SEO strategy and content marketing Led social media strategy resulting in 150k new followers and 25% engagement rate Implemented Klaviyo email automation workflows with 30% open rates and 12% CTR Mentored team of 4 junior marketers and interns Digital Marketing Specialist GrowthCorp 2019-2021 Launched Google Ads and Facebook Ads campaigns from zero to $80k/month spend Created content marketing strategy generating 50k monthly organic visitors Managed social media accounts with 200% engagement growth Built email marketing automation in Mailchimp with advanced segmentation Marketing Coordinator StartupVenture 2018-2019 Supported PPC campaigns and conducted keyword research for 100+ terms Created social media content and managed community engagement Assisted with email marketing campaigns and A/B testing EDUCATION Bachelor of Marketing University of California, Berkeley 2018 Google Ads Certification Current Google Analytics Certification Current SKILLS SEO Content Marketing: Technical SEO, keyword research, content strategy, link building Paid Advertising: Google Ads, Facebook Ads, campaign optimization, budget management Social Media: Strategy, content creation, community management, paid social Email Marketing: Automation, segmentation, A/B testing, deliverability Analytics: Google Analytics, Data Studio, conversion tracking, reporting Tools: SEMrush, Ahrefs, Canva, HubSpot, Salesforce"
+        ],
+        "pros": [
+          "Quantifiable achievements with measurable impact",
+          "Solid professional experience (7.0 years)",
+          "Relevant domain experience",
+          "Technical competency demonstrated"
+        ],
+        "cons": [
+          "Limited evidence for React Native (core, new architecture, native modules, navigation)",
+          "No technical portfolio or code samples provided",
+          "May require skill development in weaker areas",
+          "Experience depth varies by skill area"
+        ],
+        "ats_keywords": {
+          "found": [
+            "Cross-platform Mobile Lifecycle & Performance (iOS/Android, profiling, animations)",
+            "Testing & Code Quality (Jest, React Testing Library, E2E/Cypress, coverage)",
+            "CI/CD & DevOps (Git/GitHub Actions/GitLab, Docker, release automation)",
+            "Collaboration & Leadership (code reviews, mentoring, communication)"
+          ],
+          "missing": [
+            "React Native (core, new architecture, native modules, navigation)",
+            "State Management (Redux, Redux-Saga/Thunk, Context/RTK Query)",
+            "React / Next.js for Web (SSR/SSG, routing, hydration)",
+            "TypeScript (strict typing, generics, typesafe APIs)",
+            "API Integration (GraphQL/Apollo, REST, JWT)",
+            "Monorepos & Micro-frontends (Nx/Turborepo, module federation)"
+          ]
+        },
+        "growth_plan": [
+          "Develop React Native (core, new architecture, native modules, navigation) through hands-on projects with measurable outcomes",
+          "Build portfolio showcasing relevant work with metrics and impact",
+          "Pursue certifications or training in identified skill gaps"
+        ],
+        "fit_assessment": {
+          "label": "poor",
+          "reason": "Below threshold in critical skills or overall low match"
+        },
+        "best_role_fit": [
+          "General Specialist",
+          "Professional Role"
+        ],
+        "red_flags": []
+      }
+    }
+  ],
+  "analyzed_at": "2025-08-21 05:24:07.004396"
+}

@@ -1,0 +1,111 @@
+{
+  "role_id": "80694bcc-6fec-4a45-8f0d-4b076b1fb9f9",
+  "results": [
+    {
+      "candidate_id": "ae6e8243-08b3-4b22-9cb5-48eb459c54f5",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 2.5,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Adel Atya Cvmay \u2013 E-commerce Manager (Shopify / WooCommerce)**",
+        "**\ud83d\udccb Executive Summary**\nJunior professional with 2 years of experience. Development areas: E-commerce Platforms (Shopify/WooCommerce), Analytics & Sales Reporting. Limited fit - significant skill gaps present.",
+        "**\ud83d\udd27 Skills Assessment**\n",
+        "**E-commerce Platforms (Shopify/WooCommerce)** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**SEO & Product Optimization** \u2013 <span class='text-orange-500 font-bold'>Adequate (6.3/10)</span>",
+        "  \u2022 Evidence: Created SEO-optimized landing pages and forms focused on increasing engagement a...",
+        "  \u2022 Evidence: Optimized the page for SEO using best practices in speed, metadata, and on-page ...",
+        "",
+        "**Digital Marketing Campaigns (Ads, Email, Social)** \u2013 <span class='text-orange-500 font-bold'>Adequate (6.3/10)</span>",
+        "  \u2022 Evidence: Created SEO-optimized landing pages and forms focused on increasing engagement a...",
+        "  \u2022 Evidence: Optimized the page for SEO using best practices in speed, metadata, and on-page ...",
+        "",
+        "**Analytics & Sales Reporting** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**Customer Journey & UX** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**\u2705 Key Strengths**",
+        "\u2022 Practical Experience: 2 years of hands-on application",
+        "\u2022 Results-Oriented: Track record of delivering measurable business impact",
+        "**\u26a0\ufe0f Development Areas**",
+        "\u2022 Standard Considerations: Typical onboarding and skill refinement expected for role requirements",
+        "**\ud83c\udfaf Hiring Recommendation: Limited Match (2.5/10)**",
+        "Decision: Significant investment required - evaluate alternative roles",
+        "Onboarding: 3-4 months comprehensive development program required",
+        "**\ud83d\udd04 Alternative Role Considerations**",
+        "1. Entry-level E-commerce Manager (Shopify / WooCommerce) - Based on demonstrated skills and experience level",
+        "2. Software Developer - Based on demonstrated skills and experience level",
+        "3. Technical Specialist - Based on demonstrated skills and experience level"
+      ],
+      "cv_summary": "**Adel Atya Cvmay** - Junior software development candidate with 2 years of professional experience. **Strong in:** SEO & Product Optimization, Digital Marketing Campaigns (Ads, Email, Social). **Moderate fit** (2.5/10) for this position.",
+      "suggested_roles": [
+        "Entry-level E-commerce Manager (Shopify / WooCommerce)",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Adel Atya Front-End Engineer Workflow Automator Wo...",
+      "candidate_details": {
+        "name": "Adel Atya Cvmay",
+        "email": "adelsherif8@gmail.com",
+        "phone": null,
+        "location": "responsive, fa",
+        "linkedin": "https://linkedin.com/in/adel-sherif-551467309/",
+        "github": null,
+        "portfolio": null,
+        "other_links": [
+          "https://adelemad.netlify.app",
+          "https://instagram.com/adelsherif8/",
+          "https://citycentredentistry.com/clear-aligners",
+          "https://cftgroup.ca",
+          "https://cft-storage.com",
+          "https://qualitylandscapes.ca",
+          "https://autoshippers.ca",
+          "https://placidessentials.com",
+          "https://invisalign.wesmiledentistry.ca",
+          "https://paste.dental",
+          "https://thesafetails.com"
+        ]
+      },
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": {
+        "E-commerce Platforms (Shopify/WooCommerce)": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "SEO & Product Optimization": {
+          "score": 6.3,
+          "evidence": [
+            "Created SEO-optimized landing pages and forms focused on increasing engagement and guiding users through conversion funnels.",
+            "Optimized the page for SEO using best practices in speed, metadata, and on-page structure achieved a performance score of 90/100."
+          ],
+          "years_experience": 0.0
+        },
+        "Digital Marketing Campaigns (Ads, Email, Social)": {
+          "score": 6.3,
+          "evidence": [
+            "Created SEO-optimized landing pages and forms focused on increasing engagement and guiding users through conversion funnels.",
+            "Optimized the page for SEO using best practices in speed, metadata, and on-page structure achieved a performance score of 90/100."
+          ],
+          "years_experience": 0.0
+        },
+        "Analytics & Sales Reporting": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "Customer Journey & UX": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        }
+      }
+    }
+  ],
+  "analyzed_at": "2025-08-17 04:08:53.540523"
+}

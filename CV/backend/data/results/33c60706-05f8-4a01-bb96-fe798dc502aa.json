@@ -1,0 +1,1616 @@
+{
+  "role_id": "33c60706-05f8-4a01-bb96-fe798dc502aa",
+  "results": [
+    {
+      "candidate_id": "0ba51329-72e0-4d83-a2c1-a5c6e8053266",
+      "file_name": "test_marketing_analytics_cv.txt",
+      "fit_score": 9.5,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Test Marketing Analytics Cv \u2013 Digital Marketing Specialist**",
+        "**Summary:**\nMid-level professional with 3 years of experience. Strong expertise in SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). Specialized background: 3 years in data science, 3 years in marketing.",
+        "**Skills & Experience**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 2021 - 2022 executed social media marketing campaigns across linkedin, twitter, facebook analyzed campaign performance m\n\u2022 2022 - present analyzed marketing campaign performance using google analytics and sql improved email marketing conversio\n\u2022 core competencies google analytics google tag manager sql database analysis a/b testing conversion optimization email ma",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-green-600 font-bold'>Strong (6.5/10)</span>\n\u2022 2022 - present analyzed marketing campaign performance using google analytics and sql improved email marketing conversio\n\u2022 core competencies google analytics google tag manager sql database analysis a/b testing conversion optimization email ma",
+        "**Social Media Strategy & Management** \u2013 <span class='text-green-700 font-bold'>Excellent (8.0/10)</span>\n\u2022 2021 - 2022 executed social media marketing campaigns across linkedin, twitter, facebook analyzed campaign performance m\n\u2022 core competencies google analytics google tag manager sql database analysis a/b testing conversion optimization email ma",
+        "**Email Marketing & Automation** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 2021 - 2022 executed social media marketing campaigns across linkedin, twitter, facebook analyzed campaign performance m\n\u2022 2022 - present analyzed marketing campaign performance using google analytics and sql improved email marketing conversio\n\u2022 core competencies google analytics google tag manager sql database analysis a/b testing conversion optimization email ma",
+        "**Pros**\n\u2022 Strong in seo & content marketing and related technical implementations\n\u2022 Strong in paid advertising (google ads / meta ads) and related technical implementations\n\u2022 Strong in social media strategy & management and related technical implementations\n\u2022 Strong in email marketing & automation and related technical implementations\n\u2022 3 years of hands-on professional experience\n\u2022 Technical skills in optimization \u2014 valuable for implementing marketing tactics",
+        "**Rating: 9.5/10** (~95% match)",
+        "**Fit Assessment:**\nExcellent candidate with strong alignment across 4 key areas. Ready for Digital Marketing Specialist responsibilities with minimal onboarding.",
+        "**Best Role Fit:**\n\u2022 SEO Specialist\n\u2022 Content Marketing Specialist\n\u2022 Web & SEO Optimization\n\u2022 PPC Specialist"
+      ],
+      "cv_summary": "**Test Marketing Analytics Cv** - Experienced digital marketing specialist candidate with 3 years of professional experience. **Strong in:** SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). **Excellent match** (9.5/10) for this position.",
+      "suggested_roles": [
+        "Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 3.0,
+      "last_role": "Not specified",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 8.5,
+          "evidence": [
+            "2021 - 2022 executed social media marketing campaigns across linkedin, twitter, ...",
+            "2022 - present analyzed marketing campaign performance using google analytics an...",
+            "core competencies google analytics google tag manager sql database analysis a/b ..."
+          ],
+          "years_experience": null
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 6.5,
+          "evidence": [
+            "2022 - present analyzed marketing campaign performance using google analytics an...",
+            "core competencies google analytics google tag manager sql database analysis a/b ..."
+          ],
+          "years_experience": null
+        },
+        "Social Media Strategy & Management": {
+          "score": 8.0,
+          "evidence": [
+            "2021 - 2022 executed social media marketing campaigns across linkedin, twitter, ...",
+            "core competencies google analytics google tag manager sql database analysis a/b ..."
+          ],
+          "years_experience": null
+        },
+        "Email Marketing & Automation": {
+          "score": 8.5,
+          "evidence": [
+            "2021 - 2022 executed social media marketing campaigns across linkedin, twitter, ...",
+            "2022 - present analyzed marketing campaign performance using google analytics an...",
+            "core competencies google analytics google tag manager sql database analysis a/b ..."
+          ],
+          "years_experience": null
+        }
+      }
+    },
+    {
+      "candidate_id": "5213a527-4ebd-49cd-b67d-457d02c89f50",
+      "file_name": "test_marketing_cv.txt",
+      "fit_score": 8.6,
+      "why": [
+        "SEO & Content Marketing: 85.0% match - core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link... | sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y... | expert in google analytics, ppc campaigns, and email marketing automation.",
+        "Paid Advertising (Google Ads / Meta Ads): 40.0% match - core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link...",
+        "Social Media Strategy & Management: 85.0% match - core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link... | sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y...",
+        "Email Marketing & Automation: 85.0% match - core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link... | sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y... | expert in google analytics, ppc campaigns, and email marketing automation."
+      ],
+      "cv_summary": "Candidate with 4.0 years of experience, strong in SEO & Content Marketing, Social Media Strategy & Management, Email Marketing & Automation. Overall fit score: 8.6/10 for Digital Marketing Specialist position.",
+      "suggested_roles": [
+        "Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 4.0,
+      "last_role": "Not specified",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": null
+    },
+    {
+      "candidate_id": "7aec58d9-2548-4794-b5a6-68c0622bc2e5",
+      "file_name": "test_marketing_cv.txt",
+      "fit_score": 8.6,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Test Marketing Cv \u2013 Digital Marketing Specialist**",
+        "**Summary:**\nMid-level professional with 4 years of experience. Strong expertise in SEO & Content Marketing, Social Media Strategy & Management. Limited experience in Paid Advertising (Google Ads / Meta Ads). Specialized background: 4 years in marketing.",
+        "**Skills & Experience**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link\n\u2022 sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y\n\u2022 expert in google analytics, ppc campaigns, and email marketing automation.",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-red-500 font-bold'>Weak (4.0/10)</span>\n\u2022 core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link",
+        "**Social Media Strategy & Management** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link\n\u2022 sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y",
+        "**Email Marketing & Automation** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link\n\u2022 sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y\n\u2022 expert in google analytics, ppc campaigns, and email marketing automation.",
+        "**Pros**\n\u2022 Strong in seo & content marketing and related technical implementations\n\u2022 Strong in social media strategy & management and related technical implementations\n\u2022 Strong in email marketing & automation and related technical implementations\n\u2022 4 years of hands-on professional experience\n\u2022 Technical skills in optimization \u2014 valuable for implementing marketing tactics",
+        "**Cons**\n\u2022 No hands-on paid advertising (google ads / meta ads) experience",
+        "**Rating: 8.6/10** (~86% match)",
+        "**Fit Assessment:**\nExcellent candidate with strong alignment across 3 key areas. Ready for Digital Marketing Specialist responsibilities with minimal onboarding.",
+        "**Best Role Fit:**\n\u2022 SEO Specialist\n\u2022 Content Marketing Specialist\n\u2022 Web & SEO Optimization\n\u2022 Social Media Manager"
+      ],
+      "cv_summary": "**Test Marketing Cv** - Experienced digital marketing specialist candidate with 4 years of professional experience. **Strong in:** SEO & Content Marketing, Social Media Strategy & Management. **Excellent match** (8.6/10) for this position.",
+      "suggested_roles": [
+        "Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 4.0,
+      "last_role": "Not specified",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 8.5,
+          "evidence": [
+            "core competencies seo sem: keyword research, on-page optimization, link building...",
+            "sarah johnson - digital marketing specialist professional summary results-driven...",
+            "expert in google analytics, ppc campaigns, and email marketing automation."
+          ],
+          "years_experience": null
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 4.0,
+          "evidence": [
+            "core competencies seo sem: keyword research, on-page optimization, link building..."
+          ],
+          "years_experience": null
+        },
+        "Social Media Strategy & Management": {
+          "score": 8.5,
+          "evidence": [
+            "core competencies seo sem: keyword research, on-page optimization, link building...",
+            "sarah johnson - digital marketing specialist professional summary results-driven..."
+          ],
+          "years_experience": null
+        },
+        "Email Marketing & Automation": {
+          "score": 8.5,
+          "evidence": [
+            "core competencies seo sem: keyword research, on-page optimization, link building...",
+            "sarah johnson - digital marketing specialist professional summary results-driven...",
+            "expert in google analytics, ppc campaigns, and email marketing automation."
+          ],
+          "years_experience": null
+        }
+      }
+    },
+    {
+      "candidate_id": "4a12b3d2-0009-4645-91bd-22fb8cc5ac7d",
+      "file_name": "test_marketing_cv.txt",
+      "fit_score": 8.6,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Test Marketing Cv \u2013 Digital Marketing Specialist**",
+        "**Summary:**\nMid-level professional with 4 years of experience. Strong expertise in SEO & Content Marketing, Social Media Strategy & Management. Limited experience in Paid Advertising (Google Ads / Meta Ads). Specialized background: 4 years in marketing.",
+        "**Skills & Experience**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link\n\u2022 sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y\n\u2022 expert in google analytics, ppc campaigns, and email marketing automation.",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-red-500 font-bold'>Weak (4.0/10)</span>\n\u2022 core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link",
+        "**Social Media Strategy & Management** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link\n\u2022 sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y",
+        "**Email Marketing & Automation** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link\n\u2022 sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y\n\u2022 expert in google analytics, ppc campaigns, and email marketing automation.",
+        "**Pros**\n\u2022 **Digital Visibility:** Demonstrated success in improving search rankings and organic traffic\n\u2022 **Social Media Strategy & Management Proficiency:** Strong foundation with practical implementation experience\n\u2022 **Email Marketing & Automation Proficiency:** Strong foundation with practical implementation experience\n\u2022 **Solid Experience:** 4 years of professional growth and skill development",
+        "**Cons**\n\u2022 No hands-on paid advertising (google ads / meta ads) experience",
+        "**Rating: 8.6/10** (~86% match)",
+        "**Fit Assessment:**\nExcellent candidate with strong alignment across 3 key areas. Ready for Digital Marketing Specialist responsibilities with minimal onboarding.",
+        "**Best Role Fit:**\n\u2022 SEO Specialist\n\u2022 Content Marketing Specialist\n\u2022 Digital Marketing Specialist\n\u2022 Social Media Manager\n\u2022 Community Manager"
+      ],
+      "cv_summary": "**Test Marketing Cv** - Experienced digital marketing specialist candidate with 4 years of professional experience. **Strong in:** SEO & Content Marketing, Social Media Strategy & Management. **Excellent match** (8.6/10) for this position.",
+      "suggested_roles": [
+        "Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 4.0,
+      "last_role": "Not specified",
+      "candidate_details": {
+        "name": "Test Marketing",
+        "email": null,
+        "phone": null,
+        "location": "SEO, so",
+        "linkedin": null,
+        "github": null,
+        "portfolio": null,
+        "other_links": []
+      },
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 8.5,
+          "evidence": [
+            "core competencies seo sem: keyword research, on-page optimization, link building...",
+            "sarah johnson - digital marketing specialist professional summary results-driven...",
+            "expert in google analytics, ppc campaigns, and email marketing automation."
+          ],
+          "years_experience": null
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 4.0,
+          "evidence": [
+            "core competencies seo sem: keyword research, on-page optimization, link building..."
+          ],
+          "years_experience": null
+        },
+        "Social Media Strategy & Management": {
+          "score": 8.5,
+          "evidence": [
+            "core competencies seo sem: keyword research, on-page optimization, link building...",
+            "sarah johnson - digital marketing specialist professional summary results-driven..."
+          ],
+          "years_experience": null
+        },
+        "Email Marketing & Automation": {
+          "score": 8.5,
+          "evidence": [
+            "core competencies seo sem: keyword research, on-page optimization, link building...",
+            "sarah johnson - digital marketing specialist professional summary results-driven...",
+            "expert in google analytics, ppc campaigns, and email marketing automation."
+          ],
+          "years_experience": null
+        }
+      }
+    },
+    {
+      "candidate_id": "71a49a36-6d55-4e94-9d56-0f1825f940d8",
+      "file_name": "test_marketing_cv.txt",
+      "fit_score": 8.6,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Test Marketing Cv \u2013 Digital Marketing Specialist**",
+        "**Summary:**\nMid-level professional with 4 years of experience. Strong expertise in SEO & Content Marketing, Social Media Strategy & Management. Limited experience in Paid Advertising (Google Ads / Meta Ads). Specialized background: 4 years in marketing.",
+        "**Skills & Experience**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link\n\u2022 sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y\n\u2022 expert in google analytics, ppc campaigns, and email marketing automation.",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-red-500 font-bold'>Weak (4.0/10)</span>\n\u2022 core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link",
+        "**Social Media Strategy & Management** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link\n\u2022 sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y",
+        "**Email Marketing & Automation** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link\n\u2022 sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y\n\u2022 expert in google analytics, ppc campaigns, and email marketing automation.",
+        "**Pros**\n\u2022 **Digital Visibility:** Demonstrated success in improving search rankings and organic traffic\n\u2022 **Social Media Strategy & Management Proficiency:** Strong foundation with practical implementation experience\n\u2022 **Email Marketing & Automation Proficiency:** Strong foundation with practical implementation experience\n\u2022 **Solid Experience:** 4 years of professional growth and skill development",
+        "**Cons**\n\u2022 No hands-on paid advertising (google ads / meta ads) experience",
+        "**Rating: 8.6/10** (~86% match)",
+        "**Fit Assessment:**\nExcellent candidate with strong alignment across 3 key areas. Ready for Digital Marketing Specialist responsibilities with minimal onboarding.",
+        "**Best Role Fit:**\n\u2022 SEO Specialist\n\u2022 Content Marketing Specialist\n\u2022 Digital Marketing Specialist\n\u2022 Social Media Manager\n\u2022 Community Manager"
+      ],
+      "cv_summary": "**Test Marketing Cv** - Experienced digital marketing specialist candidate with 4 years of professional experience. **Strong in:** SEO & Content Marketing, Social Media Strategy & Management. **Excellent match** (8.6/10) for this position.",
+      "suggested_roles": [
+        "Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 4.0,
+      "last_role": "Not specified",
+      "candidate_details": {
+        "name": "Test Marketing",
+        "email": null,
+        "phone": null,
+        "location": "SEO, so",
+        "linkedin": null,
+        "github": null,
+        "portfolio": null,
+        "other_links": []
+      },
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 8.5,
+          "evidence": [
+            "core competencies seo sem: keyword research, on-page optimization, link building...",
+            "sarah johnson - digital marketing specialist professional summary results-driven...",
+            "expert in google analytics, ppc campaigns, and email marketing automation."
+          ],
+          "years_experience": null
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 4.0,
+          "evidence": [
+            "core competencies seo sem: keyword research, on-page optimization, link building..."
+          ],
+          "years_experience": null
+        },
+        "Social Media Strategy & Management": {
+          "score": 8.5,
+          "evidence": [
+            "core competencies seo sem: keyword research, on-page optimization, link building...",
+            "sarah johnson - digital marketing specialist professional summary results-driven..."
+          ],
+          "years_experience": null
+        },
+        "Email Marketing & Automation": {
+          "score": 8.5,
+          "evidence": [
+            "core competencies seo sem: keyword research, on-page optimization, link building...",
+            "sarah johnson - digital marketing specialist professional summary results-driven...",
+            "expert in google analytics, ppc campaigns, and email marketing automation."
+          ],
+          "years_experience": null
+        }
+      }
+    },
+    {
+      "candidate_id": "fd51a3b4-6dfa-4a62-b86b-ed0f46433b56",
+      "file_name": "test_adel_marketing_cv.txt",
+      "fit_score": 7.4,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Test Adel Marketing Cv \u2013 Digital Marketing Specialist**",
+        "**Summary:**\nJunior professional with 2 years of experience. Strong expertise in SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). Limited experience in Social Media Strategy & Management. Specialized background: 2 years in marketing.",
+        "**Skills & Experience**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 **Development:** app implemented payment integration and seo optimization strategies optimized pages for seo using best practices in spee\n\u2022 com technical skills frontend development: react, javascript (es6+), html5, css3, bootstrap, tailwind css cms builders:\n\u2022 **Experience:** com professional summary digital marketing specialist with 2 years of experience in web development and seo optimization",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 **Development:** app implemented payment integration and seo optimization strategies optimized pages for seo using best practices in spee\n\u2022 com technical skills frontend development: react, javascript (es6+), html5, css3, bootstrap, tailwind css cms builders:\n\u2022 **Education:** com education computer science coursework verified on coursera web development, java, software engineering, ui/ux design",
+        "**Social Media Strategy & Management** \u2013 <span class='text-red-500 font-bold'>Weak (2.5/10)</span>\n\u2022 com technical skills frontend development: react, javascript (es6+), html5, css3, bootstrap, tailwind css cms builders:",
+        "**Email Marketing & Automation** \u2013 <span class='text-green-600 font-bold'>Strong (6.5/10)</span>\n\u2022 **Development:** app implemented payment integration and seo optimization strategies optimized pages for seo using best practices in spee\n\u2022 **Experience:** com professional summary digital marketing specialist with 2 years of experience in web development and seo optimization\n\u2022 adel atya - digital marketing specialist adel.",
+        "**Pros**\n\u2022 **Digital Visibility:** Demonstrated success in improving search rankings and organic traffic\n\u2022 **Paid Advertising (Google Ads / Meta Ads) Proficiency:** Strong foundation with practical implementation experience\n\u2022 **Email Marketing & Automation Proficiency:** Strong foundation with practical implementation experience\n\u2022 **Growing Professional:** 2 years of real-world application and learning\n\u2022 **Technical Synergy:** Combines CMS customization with modern web technologies, technical SEO implementation alongside development for comprehensive solutions\n\u2022 **Self-Direction:** Proven ability to work independently and manage client relationships",
+        "**Cons**\n\u2022 No hands-on social media strategy & management experience",
+        "**Rating: 7.4/10** (~74% match)",
+        "**Fit Assessment:**\nExcellent candidate with strong alignment across 3 key areas. Ready for Digital Marketing Specialist responsibilities with minimal onboarding.",
+        "**Best Role Fit:**\n\u2022 SEO Specialist\n\u2022 Content Marketing Specialist\n\u2022 Digital Marketing Specialist\n\u2022 PPC Specialist\n\u2022 Paid Media Manager"
+      ],
+      "cv_summary": "**Test Adel Marketing Cv** - Mid-level digital marketing specialist candidate with 2 years of professional experience. **Strong in:** SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). **Excellent match** (7.4/10) for this position.",
+      "suggested_roles": [
+        "Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Not specified",
+      "candidate_details": {
+        "name": "Test Adel Marketing",
+        "email": "adel.atya@email.com",
+        "phone": "+1 (555) 123-4567",
+        "location": "Dubai, UA",
+        "linkedin": "https://linkedin.com/in/adelatya",
+        "github": "https://github.com/adelatya",
+        "portfolio": "https://adelportfolio.com",
+        "other_links": [
+          "https://adelatya.dev",
+          "https://ecommerce-redesign.vercel.app",
+          "https://landing-optimizer.com",
+          "https://isa-fitness-demo.netlify.app",
+          "https://quote-automation-project.com"
+        ]
+      },
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 8.5,
+          "evidence": [
+            "app implemented payment integration and seo optimization strategies optimized pa...",
+            "com technical skills frontend development: react, javascript (es6+), html5, css3...",
+            "com professional summary digital marketing specialist with 2 years of experience..."
+          ],
+          "years_experience": null
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 8.5,
+          "evidence": [
+            "app implemented payment integration and seo optimization strategies optimized pa...",
+            "com technical skills frontend development: react, javascript (es6+), html5, css3...",
+            "com education computer science coursework verified on coursera web development, ..."
+          ],
+          "years_experience": null
+        },
+        "Social Media Strategy & Management": {
+          "score": 2.5,
+          "evidence": [
+            "com technical skills frontend development: react, javascript (es6+), html5, css3..."
+          ],
+          "years_experience": null
+        },
+        "Email Marketing & Automation": {
+          "score": 6.5,
+          "evidence": [
+            "app implemented payment integration and seo optimization strategies optimized pa...",
+            "com professional summary digital marketing specialist with 2 years of experience...",
+            "adel atya - digital marketing specialist adel."
+          ],
+          "years_experience": null
+        }
+      }
+    },
+    {
+      "candidate_id": "94c5dc8a-c39b-47f8-aabd-9633f1310721",
+      "file_name": "test_adel_marketing_cv.txt",
+      "fit_score": 6.9,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Test Adel Marketing \u2013 Digital Marketing Specialist**",
+        "**\ud83d\udccb Executive Summary**\nJunior professional with 2 years of experience. **Strengths:** SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads), Email Marketing & Automation. **Solid potential** with some development needed.",
+        "**\ud83d\udd27 Skills Assessment**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>",
+        "  \u2022 **Evidence:** app implemented payment integration and seo optimization strategies optimized pa...",
+        "  \u2022 **Evidence:** com technical skills frontend development: react, javascript (es6+), html5, css3...",
+        "",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>",
+        "  \u2022 **Evidence:** app implemented payment integration and seo optimization strategies optimized pa...",
+        "  \u2022 **Evidence:** com technical skills frontend development: react, javascript (es6+), html5, css3...",
+        "",
+        "**Social Media Strategy & Management** \u2013 <span class='text-red-600 font-bold'>Insufficient (2.5/10)</span>",
+        "  \u2022 **Evidence:** com technical skills frontend development: react, javascript (es6+), html5, css3...",
+        "",
+        "**Email Marketing & Automation** \u2013 <span class='text-orange-500 font-bold'>Adequate (6.5/10)</span>",
+        "  \u2022 **Evidence:** app implemented payment integration and seo optimization strategies optimized pa...",
+        "  \u2022 **Evidence:** com professional summary digital marketing specialist with 2 years of experience...",
+        "",
+        "**\u2705 Key Strengths**",
+        "\u2022 **Practical Experience:** 2 years of hands-on application",
+        "\u2022 **SEO & Content Marketing Proficiency:** Demonstrated strong capability with practical application",
+        "**\u26a0\ufe0f Development Areas**",
+        "\u2022 **Standard Considerations:** Typical onboarding and skill refinement expected for role requirements",
+        "**\ud83c\udfaf Hiring Recommendation: Good Match (6.9/10)**",
+        "**Decision:** Solid candidate - plan for targeted skill development",
+        "**Onboarding:** 6-8 weeks with focused training plan",
+        "**\ud83d\udd04 Alternative Role Considerations**",
+        "1. **Junior Digital Marketing Specialist** - Based on demonstrated skills and experience level",
+        "2. **Software Developer** - Based on demonstrated skills and experience level",
+        "3. **Technical Specialist** - Based on demonstrated skills and experience level"
+      ],
+      "cv_summary": "**Test Adel Marketing** - Junior data science candidate with 2 years of professional experience. **Strong in:** SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). **Good potential** (6.9/10) for this position.",
+      "suggested_roles": [
+        "Junior Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Adel Atya - Digital Marketing Specialist adel.atya...",
+      "candidate_details": {
+        "name": "Test Adel Marketing",
+        "email": "adel.atya@email.com",
+        "phone": "+1 (555) 123-4567",
+        "location": "Dubai, UA",
+        "linkedin": "https://linkedin.com/in/adelatya",
+        "github": "https://github.com/adelatya",
+        "portfolio": "https://adelportfolio.com",
+        "other_links": [
+          "https://adelatya.dev",
+          "https://ecommerce-redesign.vercel.app",
+          "https://landing-optimizer.com",
+          "https://isa-fitness-demo.netlify.app",
+          "https://quote-automation-project.com"
+        ]
+      },
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 8.5,
+          "evidence": [
+            "app implemented payment integration and seo optimization strategies optimized pages for seo using best practices in spee...",
+            "com technical skills frontend development: react, javascript (es6+), html5, css3, bootstrap, tailwind css cms builders: ...",
+            "com professional summary digital marketing specialist with 2 years of experience in web development and seo optimization..."
+          ],
+          "years_experience": 0.0
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 8.5,
+          "evidence": [
+            "app implemented payment integration and seo optimization strategies optimized pages for seo using best practices in spee...",
+            "com technical skills frontend development: react, javascript (es6+), html5, css3, bootstrap, tailwind css cms builders: ...",
+            "com education computer science coursework verified on coursera web development, java, software engineering, ui/ux design..."
+          ],
+          "years_experience": 0.0
+        },
+        "Social Media Strategy & Management": {
+          "score": 2.5,
+          "evidence": [
+            "com technical skills frontend development: react, javascript (es6+), html5, css3, bootstrap, tailwind css cms builders: ..."
+          ],
+          "years_experience": 0.0
+        },
+        "Email Marketing & Automation": {
+          "score": 6.500000000000002,
+          "evidence": [
+            "app implemented payment integration and seo optimization strategies optimized pages for seo using best practices in spee...",
+            "com professional summary digital marketing specialist with 2 years of experience in web development and seo optimization...",
+            "adel atya - digital marketing specialist adel."
+          ],
+          "years_experience": 0.0
+        }
+      }
+    },
+    {
+      "candidate_id": "66a9f433-a856-4afb-9a73-30cc516fa54b",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 6.2,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Adel Atya Cvmay \u2013 Digital Marketing Specialist**",
+        "**\ud83d\udccb Executive Summary**\nJunior professional with 2 years of experience. **Strengths:** Paid Advertising (Google Ads / Meta Ads), Email Marketing & Automation. **Solid potential** with some development needed.",
+        "**\ud83d\udd27 Skills Assessment**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-orange-500 font-bold'>Adequate (6.5/10)</span>",
+        "  \u2022 **Evidence:** com/issa-fitness-certification-india landing page developer payment integration ...",
+        "  \u2022 **Evidence:** optimized the page for seo using best practices in speed, metadata, and on-page ...",
+        "",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>",
+        "  \u2022 **Evidence:** 1 relevant coursework: web development, java, software engineering, ui/ux design...",
+        "  \u2022 **Evidence:** js (basic) languages english: highly proficient in speaking and writing arabic: ...",
+        "",
+        "**Social Media Strategy & Management** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 **Evidence:** No clear demonstration found in CV",
+        "",
+        "**Email Marketing & Automation** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>",
+        "  \u2022 **Evidence:** js (basic) languages english: highly proficient in speaking and writing arabic: ...",
+        "  \u2022 **Evidence:** skills front-end frameworks: react, javascript (es6+), html5, css3, bootstrap, t...",
+        "",
+        "**\u2705 Key Strengths**",
+        "\u2022 **Practical Experience:** 2 years of hands-on application",
+        "\u2022 **Paid Advertising (Google Ads / Meta Ads) Proficiency:** Demonstrated strong capability with practical application",
+        "\u2022 **Results-Oriented:** Track record of delivering measurable business impact",
+        "**\u26a0\ufe0f Development Areas**",
+        "\u2022 **Standard Considerations:** Typical onboarding and skill refinement expected for role requirements",
+        "**\ud83c\udfaf Hiring Recommendation: Moderate Match (6.2/10)**",
+        "**Decision:** Consider if team can provide necessary development support",
+        "**Onboarding:** 3-4 months comprehensive development program required",
+        "**\ud83d\udd04 Alternative Role Considerations**",
+        "1. **Junior Digital Marketing Specialist** - Based on demonstrated skills and experience level",
+        "2. **Software Developer** - Based on demonstrated skills and experience level",
+        "3. **Technical Specialist** - Based on demonstrated skills and experience level"
+      ],
+      "cv_summary": "**Adel Atya Cvmay** - Junior software development candidate with 2 years of professional experience. **Strong in:** Paid Advertising (Google Ads / Meta Ads), Email Marketing & Automation. **Good potential** (6.2/10) for this position.",
+      "suggested_roles": [
+        "Junior Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Adel Atya Front-End Engineer Workflow Automator Wo...",
+      "candidate_details": {
+        "name": "Adel Atya Cvmay",
+        "email": "adelsherif8@gmail.com",
+        "phone": null,
+        "location": "responsive, fa",
+        "linkedin": "https://linkedin.com/in/adel-sherif-551467309/",
+        "github": null,
+        "portfolio": null,
+        "other_links": [
+          "https://adelemad.netlify.app",
+          "https://instagram.com/adelsherif8/",
+          "https://citycentredentistry.com/clear-aligners",
+          "https://cftgroup.ca",
+          "https://cft-storage.com",
+          "https://qualitylandscapes.ca",
+          "https://autoshippers.ca",
+          "https://placidessentials.com",
+          "https://invisalign.wesmiledentistry.ca",
+          "https://paste.dental",
+          "https://thesafetails.com"
+        ]
+      },
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 6.5,
+          "evidence": [
+            "com/issa-fitness-certification-india landing page developer payment integration seo optimization designed and developed ...",
+            "optimized the page for seo using best practices in speed, metadata, and on-page structure achieved a performance score o...",
+            "created seo-optimized landing pages and forms focused on increasing engagement and guiding users through conversion funn..."
+          ],
+          "years_experience": 0.0
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 8.5,
+          "evidence": [
+            "1 relevant coursework: web development, java, software engineering, ui/ux design capstone project verified on coursera c...",
+            "js (basic) languages english: highly proficient in speaking and writing arabic: native speaker interests ui/ux design tr...",
+            "experience self-employed / freelance, freelance web developer remote jan 2022 present built fully responsive websites us..."
+          ],
+          "years_experience": 0.0
+        },
+        "Social Media Strategy & Management": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "Email Marketing & Automation": {
+          "score": 8.5,
+          "evidence": [
+            "js (basic) languages english: highly proficient in speaking and writing arabic: native speaker interests ui/ux design tr...",
+            "skills front-end frameworks: react, javascript (es6+), html5, css3, bootstrap, tailwind css cms builders: shopify (liqui...",
+            "com designed a quote automation system using wordpress logic, allowing users to input parameters and receive pricing ins..."
+          ],
+          "years_experience": 0.0
+        }
+      }
+    },
+    {
+      "candidate_id": "4ad06456-ac14-4530-a433-64d243e4646c",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 6.0,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Adel Atya Cvmay \u2013 Digital Marketing Specialist**",
+        "**\ud83d\udccb Executive Summary**\nJunior professional with 2 years of experience. Strengths: Paid Advertising (Google Ads / Meta Ads), Email Marketing & Automation. Solid potential with some development needed.",
+        "**\ud83d\udd27 Skills Assessment**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-orange-500 font-bold'>Adequate (6.0/10)</span>",
+        "  \u2022 Evidence: com/issa-fitness-certification-india landing page developer payment integration ...",
+        "  \u2022 Evidence: optimized the page for seo using best practices in speed, metadata, and on-page ...",
+        "",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>",
+        "  \u2022 Evidence: 1 relevant coursework: web development, java, software engineering, ui/ux design...",
+        "  \u2022 Evidence: js (basic) languages english: highly proficient in speaking and writing arabic: ...",
+        "",
+        "**Social Media Strategy & Management** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**Email Marketing & Automation** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>",
+        "  \u2022 Evidence: js (basic) languages english: highly proficient in speaking and writing arabic: ...",
+        "  \u2022 Evidence: skills front-end frameworks: react, javascript (es6+), html5, css3, bootstrap, t...",
+        "",
+        "**\u2705 Key Strengths**",
+        "\u2022 Practical Experience: 2 years of hands-on application",
+        "\u2022 Paid Advertising (Google Ads / Meta Ads) Proficiency: Demonstrated strong capability with practical application",
+        "\u2022 Results-Oriented: Track record of delivering measurable business impact",
+        "**\u26a0\ufe0f Development Areas**",
+        "\u2022 Standard Considerations: Typical onboarding and skill refinement expected for role requirements",
+        "**\ud83c\udfaf Hiring Recommendation: Moderate Match (6.0/10)**",
+        "Decision: Consider if team can provide necessary development support",
+        "Onboarding: 3-4 months comprehensive development program required",
+        "**\ud83d\udd04 Alternative Role Considerations**",
+        "1. Junior Digital Marketing Specialist - Based on demonstrated skills and experience level",
+        "2. Software Developer - Based on demonstrated skills and experience level",
+        "3. Technical Specialist - Based on demonstrated skills and experience level"
+      ],
+      "cv_summary": "**Adel Atya Cvmay** - Junior software development candidate with 2 years of professional experience. **Strong in:** Paid Advertising (Google Ads / Meta Ads), Email Marketing & Automation. **Good potential** (6.0/10) for this position.",
+      "suggested_roles": [
+        "Junior Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Adel Atya Front-End Engineer Workflow Automator Wo...",
+      "candidate_details": {
+        "name": "Adel Atya Cvmay",
+        "email": "adelsherif8@gmail.com",
+        "phone": null,
+        "location": "responsive, fa",
+        "linkedin": "https://linkedin.com/in/adel-sherif-551467309/",
+        "github": null,
+        "portfolio": null,
+        "other_links": [
+          "https://adelemad.netlify.app",
+          "https://instagram.com/adelsherif8/",
+          "https://citycentredentistry.com/clear-aligners",
+          "https://cftgroup.ca",
+          "https://cft-storage.com",
+          "https://qualitylandscapes.ca",
+          "https://autoshippers.ca",
+          "https://placidessentials.com",
+          "https://invisalign.wesmiledentistry.ca",
+          "https://paste.dental",
+          "https://thesafetails.com"
+        ]
+      },
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 6.0,
+          "evidence": [
+            "com/issa-fitness-certification-india landing page developer payment integration seo optimization designed and developed ...",
+            "optimized the page for seo using best practices in speed, metadata, and on-page structure achieved a performance score o...",
+            "created seo-optimized landing pages and forms focused on increasing engagement and guiding users through conversion funn..."
+          ],
+          "years_experience": 0.0
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 8.5,
+          "evidence": [
+            "1 relevant coursework: web development, java, software engineering, ui/ux design capstone project verified on coursera c...",
+            "js (basic) languages english: highly proficient in speaking and writing arabic: native speaker interests ui/ux design tr...",
+            "experience self-employed / freelance, freelance web developer remote jan 2022 present built fully responsive websites us..."
+          ],
+          "years_experience": 0.0
+        },
+        "Social Media Strategy & Management": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "Email Marketing & Automation": {
+          "score": 8.5,
+          "evidence": [
+            "js (basic) languages english: highly proficient in speaking and writing arabic: native speaker interests ui/ux design tr...",
+            "skills front-end frameworks: react, javascript (es6+), html5, css3, bootstrap, tailwind css cms builders: shopify (liqui...",
+            "com designed a quote automation system using wordpress logic, allowing users to input parameters and receive pricing ins..."
+          ],
+          "years_experience": 0.0
+        }
+      }
+    },
+    {
+      "candidate_id": "87ed04fd-31fb-40a5-a307-04745b4b059f",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 5.6,
+      "why": [
+        "SEO & Content Marketing: 65.0% match - com/issa-fitness-certification-india landing page developer payment integration seo optimization designed and developed ... | optimized the page for seo using best practices in speed, metadata, and on-page structure achieved a performance score o... | created seo-optimized landing pages and forms focused on increasing engagement and guiding users through conversion funn...",
+        "Paid Advertising (Google Ads / Meta Ads): 85.0% match - 1 relevant coursework: web development, java, software engineering, ui/ux design capstone project verified on coursera c... | js (basic) languages english: highly proficient in speaking and writing arabic: native speaker interests ui/ux design tr... | experience self-employed / freelance, freelance web developer remote jan 2022 present built fully responsive websites us...",
+        "Social Media Strategy & Management: 0.0% match - Limited evidence found for Social Media Strategy & Management",
+        "Email Marketing & Automation: 80.0% match - js (basic) languages english: highly proficient in speaking and writing arabic: native speaker interests ui/ux design tr... | skills front-end frameworks: react, javascript (es6+), html5, css3, bootstrap, tailwind css cms builders: shopify (liqui... | com designed a quote automation system using wordpress logic, allowing users to input parameters and receive pricing ins..."
+      ],
+      "cv_summary": "Candidate with 2.0 years of experience, strong in SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads), Email Marketing & Automation. Overall fit score: 5.6/10 for Digital Marketing Specialist position.",
+      "suggested_roles": [
+        "Junior Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Not specified",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": null
+    },
+    {
+      "candidate_id": "85387c10-14b2-4caf-b957-6f5085569b7f",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 5.6,
+      "why": [
+        "**SEO & Content Marketing** (Core skill): Good experience shown - 65% match - com/issa-fitness-certification-india landing page developer payment integration seo optimization des...",
+        "**Paid Advertising (Google Ads / Meta Ads)** (Core skill): Strong proficiency demonstrated - 85% match - 1 relevant coursework: web development, java, software engineering, ui/ux design capstone project ve...",
+        "**Social Media Strategy & Management** (Important skill): No clear evidence found - 0% match - Limited evidence found for Social Media Strategy & Management",
+        "**Email Marketing & Automation** (Important skill): Strong proficiency demonstrated - 85% match - js (basic) languages english: highly proficient in speaking and writing arabic: native speaker inter..."
+      ],
+      "cv_summary": "Junior candidate with 2 years of professional experience. Specialized experience: 2 years in e-commerce. Strong proficiency in SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads), Email Marketing & Automation. Potential candidate for Digital Marketing Specialist position (5.6/10).",
+      "suggested_roles": [
+        "Junior Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Not specified",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 6.5,
+          "evidence": [
+            "com/issa-fitness-certification-india landing page developer payment integration ...",
+            "optimized the page for seo using best practices in speed, metadata, and on-page ...",
+            "created seo-optimized landing pages and forms focused on increasing engagement a..."
+          ],
+          "years_experience": null
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 8.5,
+          "evidence": [
+            "1 relevant coursework: web development, java, software engineering, ui/ux design...",
+            "js (basic) languages english: highly proficient in speaking and writing arabic: ...",
+            "experience self-employed / freelance, freelance web developer remote jan 2022 pr..."
+          ],
+          "years_experience": null
+        },
+        "Social Media Strategy & Management": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of Social Media Strategy & Management expertise found in CV"
+          ],
+          "years_experience": null
+        },
+        "Email Marketing & Automation": {
+          "score": 8.5,
+          "evidence": [
+            "js (basic) languages english: highly proficient in speaking and writing arabic: ...",
+            "skills front-end frameworks: react, javascript (es6+), html5, css3, bootstrap, t...",
+            "com designed a quote automation system using wordpress logic, allowing users to ..."
+          ],
+          "years_experience": null
+        }
+      }
+    },
+    {
+      "candidate_id": "9870363c-cc9e-4812-85ae-6b772f607f8a",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 5.6,
+      "why": [
+        "**SEO & Content Marketing** (Core skill): Good experience shown - 65% match - com/issa-fitness-certification-india landing page developer payment integration seo optimization des...",
+        "**Paid Advertising (Google Ads / Meta Ads)** (Core skill): Strong proficiency demonstrated - 85% match - 1 relevant coursework: web development, java, software engineering, ui/ux design capstone project ve...",
+        "**Social Media Strategy & Management** (Important skill): No clear evidence found - 0% match - Limited evidence found for Social Media Strategy & Management",
+        "**Email Marketing & Automation** (Important skill): Strong proficiency demonstrated - 85% match - js (basic) languages english: highly proficient in speaking and writing arabic: native speaker inter..."
+      ],
+      "cv_summary": "Junior candidate with 2 years of professional experience. Specialized experience: 2 years in e-commerce. Strong proficiency in SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads), Email Marketing & Automation. Potential candidate for Digital Marketing Specialist position (5.6/10).",
+      "suggested_roles": [
+        "Junior Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Not specified",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 6.5,
+          "evidence": [
+            "com/issa-fitness-certification-india landing page developer payment integration ...",
+            "optimized the page for seo using best practices in speed, metadata, and on-page ...",
+            "created seo-optimized landing pages and forms focused on increasing engagement a..."
+          ],
+          "years_experience": null
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 8.5,
+          "evidence": [
+            "1 relevant coursework: web development, java, software engineering, ui/ux design...",
+            "js (basic) languages english: highly proficient in speaking and writing arabic: ...",
+            "experience self-employed / freelance, freelance web developer remote jan 2022 pr..."
+          ],
+          "years_experience": null
+        },
+        "Social Media Strategy & Management": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of Social Media Strategy & Management expertise found in CV"
+          ],
+          "years_experience": null
+        },
+        "Email Marketing & Automation": {
+          "score": 8.5,
+          "evidence": [
+            "js (basic) languages english: highly proficient in speaking and writing arabic: ...",
+            "skills front-end frameworks: react, javascript (es6+), html5, css3, bootstrap, t...",
+            "com designed a quote automation system using wordpress logic, allowing users to ..."
+          ],
+          "years_experience": null
+        }
+      }
+    },
+    {
+      "candidate_id": "03a6136d-b8d8-4881-959c-2601f077f8c2",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 5.6,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Adel Atya Cvmay.Pdf \u2013 Digital Marketing Specialist**",
+        "**Summary:**\nJunior professional with 2 years of experience. Strong expertise in SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). Limited experience in Social Media Strategy & Management. Specialized background: 2 years in e-commerce.",
+        "**Skills & Experience**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-green-600 font-bold'>Strong (6.5/10)</span>\n\u2022 com/issa-fitness-certification-india landing page developer payment integration seo optimization designed and developed\n\u2022 optimized the page for seo using best practices in speed, metadata, and on-page structure achieved a performance score o\n\u2022 created seo-optimized landing pages and forms focused on increasing engagement and guiding users through conversion funn",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 1 relevant coursework: web development, java, software engineering, ui/ux design capstone project verified on coursera c\n\u2022 js (basic) languages english: highly proficient in speaking and writing arabic: native speaker interests ui/ux design tr\n\u2022 experience self-employed / freelance, freelance web developer remote jan 2022 present built fully responsive websites us",
+        "**Social Media Strategy & Management** \u2013 <span class='text-red-600 font-bold'>Very Weak (0.0/10)</span>\n\u2022 No proven track record in managing brand accounts or content calendars\n\u2022 Marketing focus has been website-centric, not campaign-driven",
+        "**Email Marketing & Automation** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 js (basic) languages english: highly proficient in speaking and writing arabic: native speaker interests ui/ux design tr\n\u2022 skills front-end frameworks: react, javascript (es6+), html5, css3, bootstrap, tailwind css cms builders: shopify (liqui\n\u2022 com designed a quote automation system using wordpress logic, allowing users to input parameters and receive pricing ins",
+        "**Pros**\n\u2022 Strong in seo & content marketing and related technical implementations\n\u2022 Strong in paid advertising (google ads / meta ads) and related technical implementations\n\u2022 Strong in email marketing & automation and related technical implementations\n\u2022 Technical skills in web development, CMS platforms, optimization \u2014 valuable for implementing marketing tactics",
+        "**Cons**\n\u2022 No hands-on social media strategy & management experience",
+        "**Rating: 5.6/10** (~56% match)",
+        "**Fit Assessment:**\nGood candidate with solid foundation in SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). Would benefit from training in Social Media Strategy & Management to reach full potential.",
+        "**Best Role Fit:**\n\u2022 SEO Specialist\n\u2022 Content Marketing Specialist\n\u2022 Web & SEO Optimization\n\u2022 PPC Specialist"
+      ],
+      "cv_summary": "**Adel Atya Cvmay.Pdf** - Mid-level digital marketing specialist candidate with 2 years of professional experience. **Strong in:** SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). **Good potential** (5.6/10) with some development needs.",
+      "suggested_roles": [
+        "Junior Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Not specified",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 6.5,
+          "evidence": [
+            "com/issa-fitness-certification-india landing page developer payment integration ...",
+            "optimized the page for seo using best practices in speed, metadata, and on-page ...",
+            "created seo-optimized landing pages and forms focused on increasing engagement a..."
+          ],
+          "years_experience": null
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 8.5,
+          "evidence": [
+            "1 relevant coursework: web development, java, software engineering, ui/ux design...",
+            "js (basic) languages english: highly proficient in speaking and writing arabic: ...",
+            "experience self-employed / freelance, freelance web developer remote jan 2022 pr..."
+          ],
+          "years_experience": null
+        },
+        "Social Media Strategy & Management": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of Social Media Strategy & Management expertise found in CV"
+          ],
+          "years_experience": null
+        },
+        "Email Marketing & Automation": {
+          "score": 8.5,
+          "evidence": [
+            "js (basic) languages english: highly proficient in speaking and writing arabic: ...",
+            "skills front-end frameworks: react, javascript (es6+), html5, css3, bootstrap, t...",
+            "com designed a quote automation system using wordpress logic, allowing users to ..."
+          ],
+          "years_experience": null
+        }
+      }
+    },
+    {
+      "candidate_id": "22ced1c6-2e96-4ba7-9577-b0f24aed904d",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 5.6,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Adel Atya Cvmay.Pdf \u2013 Digital Marketing Specialist**",
+        "**Summary:**\nJunior professional with 2 years of experience. Strong expertise in SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). Limited experience in Social Media Strategy & Management. Specialized background: 2 years in e-commerce.",
+        "**Skills & Experience**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-green-600 font-bold'>Strong (6.5/10)</span>\n\u2022 com/issa-fitness-certification-india landing page developer payment integration seo optimization designed and developed\n\u2022 optimized the page for seo using best practices in speed, metadata, and on-page structure achieved a performance score o\n\u2022 created seo-optimized landing pages and forms focused on increasing engagement and guiding users through conversion funn",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 1 relevant coursework: web development, java, software engineering, ui/ux design capstone project verified on coursera c\n\u2022 js (basic) languages english: highly proficient in speaking and writing arabic: native speaker interests ui/ux design tr\n\u2022 experience self-employed / freelance, freelance web developer remote jan 2022 present built fully responsive websites us",
+        "**Social Media Strategy & Management** \u2013 <span class='text-red-600 font-bold'>Very Weak (0.0/10)</span>\n\u2022 No proven track record in managing brand accounts or content calendars\n\u2022 Marketing focus has been website-centric, not campaign-driven",
+        "**Email Marketing & Automation** \u2013 <span class='text-green-700 font-bold'>Excellent (8.5/10)</span>\n\u2022 js (basic) languages english: highly proficient in speaking and writing arabic: native speaker interests ui/ux design tr\n\u2022 skills front-end frameworks: react, javascript (es6+), html5, css3, bootstrap, tailwind css cms builders: shopify (liqui\n\u2022 com designed a quote automation system using wordpress logic, allowing users to input parameters and receive pricing ins",
+        "**Pros**\n\u2022 Strong in seo & content marketing and related technical implementations\n\u2022 Strong in paid advertising (google ads / meta ads) and related technical implementations\n\u2022 Strong in email marketing & automation and related technical implementations\n\u2022 Technical skills in web development, CMS platforms, optimization \u2014 valuable for implementing marketing tactics",
+        "**Cons**\n\u2022 No hands-on social media strategy & management experience",
+        "**Rating: 5.6/10** (~56% match)",
+        "**Fit Assessment:**\nGood candidate with solid foundation in SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). Would benefit from training in Social Media Strategy & Management to reach full potential.",
+        "**Best Role Fit:**\n\u2022 SEO Specialist\n\u2022 Content Marketing Specialist\n\u2022 Web & SEO Optimization\n\u2022 PPC Specialist"
+      ],
+      "cv_summary": "**Adel Atya Cvmay.Pdf** - Mid-level digital marketing specialist candidate with 2 years of professional experience. **Strong in:** SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). **Good potential** (5.6/10) with some development needs.",
+      "suggested_roles": [
+        "Junior Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Not specified",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 6.5,
+          "evidence": [
+            "com/issa-fitness-certification-india landing page developer payment integration ...",
+            "optimized the page for seo using best practices in speed, metadata, and on-page ...",
+            "created seo-optimized landing pages and forms focused on increasing engagement a..."
+          ],
+          "years_experience": null
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 8.5,
+          "evidence": [
+            "1 relevant coursework: web development, java, software engineering, ui/ux design...",
+            "js (basic) languages english: highly proficient in speaking and writing arabic: ...",
+            "experience self-employed / freelance, freelance web developer remote jan 2022 pr..."
+          ],
+          "years_experience": null
+        },
+        "Social Media Strategy & Management": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of Social Media Strategy & Management expertise found in CV"
+          ],
+          "years_experience": null
+        },
+        "Email Marketing & Automation": {
+          "score": 8.5,
+          "evidence": [
+            "js (basic) languages english: highly proficient in speaking and writing arabic: ...",
+            "skills front-end frameworks: react, javascript (es6+), html5, css3, bootstrap, t...",
+            "com designed a quote automation system using wordpress logic, allowing users to ..."
+          ],
+          "years_experience": null
+        }
+      }
+    },
+    {
+      "candidate_id": "ed9d0905-0e1c-409f-86fd-47b310661816",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 5.0,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Adel Atya Cvmay \u2013 Digital Marketing Specialist**",
+        "**\ud83d\udccb Executive Summary**\nJunior professional with 2 years of experience. Limited fit - significant skill gaps present.",
+        "**\ud83d\udd27 Skills Assessment**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-orange-500 font-bold'>Adequate (6.3/10)</span>",
+        "  \u2022 Evidence: Created SEO-optimized landing pages and forms focused on increasing engagement a...",
+        "  \u2022 Evidence: Optimized the page for SEO using best practices in speed, metadata, and on-page ...",
+        "",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-orange-500 font-bold'>Adequate (6.3/10)</span>",
+        "  \u2022 Evidence: Created SEO-optimized landing pages and forms focused on increasing engagement a...",
+        "  \u2022 Evidence: Optimized the page for SEO using best practices in speed, metadata, and on-page ...",
+        "",
+        "**Social Media Strategy & Management** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**Email Marketing & Automation** \u2013 <span class='text-orange-500 font-bold'>Adequate (6.3/10)</span>",
+        "  \u2022 Evidence: Created SEO-optimized landing pages and forms focused on increasing engagement a...",
+        "  \u2022 Evidence: Optimized the page for SEO using best practices in speed, metadata, and on-page ...",
+        "",
+        "**\u2705 Key Strengths**",
+        "\u2022 Practical Experience: 2 years of hands-on application",
+        "\u2022 Results-Oriented: Track record of delivering measurable business impact",
+        "**\u26a0\ufe0f Development Areas**",
+        "\u2022 Standard Considerations: Typical onboarding and skill refinement expected for role requirements",
+        "**\ud83c\udfaf Hiring Recommendation: Limited Match (5.0/10)**",
+        "Decision: Significant investment required - evaluate alternative roles",
+        "Onboarding: 3-4 months comprehensive development program required",
+        "**\ud83d\udd04 Alternative Role Considerations**",
+        "1. Junior Digital Marketing Specialist - Based on demonstrated skills and experience level",
+        "2. Software Developer - Based on demonstrated skills and experience level",
+        "3. Technical Specialist - Based on demonstrated skills and experience level"
+      ],
+      "cv_summary": "**Adel Atya Cvmay** - Junior software development candidate with 2 years of professional experience. **Strong in:** SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). **Moderate fit** (5.0/10) for this position.",
+      "suggested_roles": [
+        "Junior Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Adel Atya Front-End Engineer Workflow Automator Wo...",
+      "candidate_details": {
+        "name": "Adel Atya Cvmay",
+        "email": "adelsherif8@gmail.com",
+        "phone": null,
+        "location": "responsive, fa",
+        "linkedin": "https://linkedin.com/in/adel-sherif-551467309/",
+        "github": null,
+        "portfolio": null,
+        "other_links": [
+          "https://adelemad.netlify.app",
+          "https://instagram.com/adelsherif8/",
+          "https://citycentredentistry.com/clear-aligners",
+          "https://cftgroup.ca",
+          "https://cft-storage.com",
+          "https://qualitylandscapes.ca",
+          "https://autoshippers.ca",
+          "https://placidessentials.com",
+          "https://invisalign.wesmiledentistry.ca",
+          "https://paste.dental",
+          "https://thesafetails.com"
+        ]
+      },
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 6.3,
+          "evidence": [
+            "Created SEO-optimized landing pages and forms focused on increasing engagement and guiding users through conversion funnels.",
+            "Optimized the page for SEO using best practices in speed, metadata, and on-page structure achieved a performance score of 90/100."
+          ],
+          "years_experience": 0.0
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 6.3,
+          "evidence": [
+            "Created SEO-optimized landing pages and forms focused on increasing engagement and guiding users through conversion funnels.",
+            "Optimized the page for SEO using best practices in speed, metadata, and on-page structure achieved a performance score of 90/100."
+          ],
+          "years_experience": 0.0
+        },
+        "Social Media Strategy & Management": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "Email Marketing & Automation": {
+          "score": 6.3,
+          "evidence": [
+            "Created SEO-optimized landing pages and forms focused on increasing engagement and guiding users through conversion funnels.",
+            "Optimized the page for SEO using best practices in speed, metadata, and on-page structure achieved a performance score of 90/100."
+          ],
+          "years_experience": 0.0
+        }
+      }
+    },
+    {
+      "candidate_id": "2fcaa8d1-6bd8-4e51-80f1-fd893359c400",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 5.0,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Adel Atya Cvmay \u2013 Digital Marketing Specialist**",
+        "**\ud83d\udccb Executive Summary**\nJunior professional with 2 years of experience. Limited fit - significant skill gaps present.",
+        "**\ud83d\udd27 Skills Assessment**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-orange-500 font-bold'>Adequate (6.3/10)</span>",
+        "  \u2022 Evidence: Created SEO-optimized landing pages and forms focused on increasing engagement a...",
+        "  \u2022 Evidence: Optimized the page for SEO using best practices in speed, metadata, and on-page ...",
+        "",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-orange-500 font-bold'>Adequate (6.3/10)</span>",
+        "  \u2022 Evidence: Created SEO-optimized landing pages and forms focused on increasing engagement a...",
+        "  \u2022 Evidence: Optimized the page for SEO using best practices in speed, metadata, and on-page ...",
+        "",
+        "**Social Media Strategy & Management** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**Email Marketing & Automation** \u2013 <span class='text-orange-500 font-bold'>Adequate (6.3/10)</span>",
+        "  \u2022 Evidence: Created SEO-optimized landing pages and forms focused on increasing engagement a...",
+        "  \u2022 Evidence: Optimized the page for SEO using best practices in speed, metadata, and on-page ...",
+        "",
+        "**\u2705 Key Strengths**",
+        "\u2022 Practical Experience: 2 years of hands-on application",
+        "\u2022 Results-Oriented: Track record of delivering measurable business impact",
+        "**\u26a0\ufe0f Development Areas**",
+        "\u2022 Standard Considerations: Typical onboarding and skill refinement expected for role requirements",
+        "**\ud83c\udfaf Hiring Recommendation: Limited Match (5.0/10)**",
+        "Decision: Significant investment required - evaluate alternative roles",
+        "Onboarding: 3-4 months comprehensive development program required",
+        "**\ud83d\udd04 Alternative Role Considerations**",
+        "1. Junior Digital Marketing Specialist - Based on demonstrated skills and experience level",
+        "2. Software Developer - Based on demonstrated skills and experience level",
+        "3. Technical Specialist - Based on demonstrated skills and experience level"
+      ],
+      "cv_summary": "**Adel Atya Cvmay** - Junior software development candidate with 2 years of professional experience. **Strong in:** SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). **Moderate fit** (5.0/10) for this position.",
+      "suggested_roles": [
+        "Junior Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Adel Atya Front-End Engineer Workflow Automator Wo...",
+      "candidate_details": {
+        "name": "Adel Atya Cvmay",
+        "email": "adelsherif8@gmail.com",
+        "phone": null,
+        "location": "responsive, fa",
+        "linkedin": "https://linkedin.com/in/adel-sherif-551467309/",
+        "github": null,
+        "portfolio": null,
+        "other_links": [
+          "https://adelemad.netlify.app",
+          "https://instagram.com/adelsherif8/",
+          "https://citycentredentistry.com/clear-aligners",
+          "https://cftgroup.ca",
+          "https://cft-storage.com",
+          "https://qualitylandscapes.ca",
+          "https://autoshippers.ca",
+          "https://placidessentials.com",
+          "https://invisalign.wesmiledentistry.ca",
+          "https://paste.dental",
+          "https://thesafetails.com"
+        ]
+      },
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 6.3,
+          "evidence": [
+            "Created SEO-optimized landing pages and forms focused on increasing engagement and guiding users through conversion funnels.",
+            "Optimized the page for SEO using best practices in speed, metadata, and on-page structure achieved a performance score of 90/100."
+          ],
+          "years_experience": 0.0
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 6.3,
+          "evidence": [
+            "Created SEO-optimized landing pages and forms focused on increasing engagement and guiding users through conversion funnels.",
+            "Optimized the page for SEO using best practices in speed, metadata, and on-page structure achieved a performance score of 90/100."
+          ],
+          "years_experience": 0.0
+        },
+        "Social Media Strategy & Management": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "Email Marketing & Automation": {
+          "score": 6.3,
+          "evidence": [
+            "Created SEO-optimized landing pages and forms focused on increasing engagement and guiding users through conversion funnels.",
+            "Optimized the page for SEO using best practices in speed, metadata, and on-page structure achieved a performance score of 90/100."
+          ],
+          "years_experience": 0.0
+        }
+      }
+    },
+    {
+      "candidate_id": "ad961965-bd49-4aed-8a6a-d5899476e66b",
+      "file_name": "test_cv_sample.txt",
+      "fit_score": 4.9,
+      "why": [
+        "SEO & Content Marketing: 0.0% match - Limited evidence found for SEO & Content Marketing",
+        "Paid Advertising (Google Ads / Meta Ads): 75.0% match - js - advanced - fastapi - advanced - django - intermediate - spring boot - intermediate - graphql - advanced - restful a... | com/in/johnsmith professional summary experienced senior software engineer with 7+ years of expertise in full-stack deve... | js - intermediate - angular - intermediate - html5/css3 - expert - tailwind css - advanced - sass/scss - advanced backen...",
+        "Social Media Strategy & Management: 75.0% match - js - advanced - fastapi - advanced - django - intermediate - spring boot - intermediate - graphql - advanced - restful a... | js, fastapi, and postgresql - implemented payment processing using stripe api - added real-time inventory management and... | technical skills programming languages: - javascript (es6+) - expert level - typescript - advanced - python - advanced -...",
+        "Email Marketing & Automation: 30.0% match - john smith senior software engineer contact information: email: john. | smith@email."
+      ],
+      "cv_summary": "Candidate with 12.0 years of experience, strong in Paid Advertising (Google Ads / Meta Ads), Social Media Strategy & Management. Overall fit score: 4.9/10 for Digital Marketing Specialist position.",
+      "suggested_roles": [
+        "Entry-level Digital Marketing Specialist",
+        "Senior Entry-level Digital Marketing Specialist",
+        "Software Developer"
+      ],
+      "red_flags": [
+        "Weak in core requirements: SEO & Content Marketing",
+        "Below average fit for this position"
+      ],
+      "years_experience": 12.0,
+      "last_role": "Not specified",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": null
+    },
+    {
+      "candidate_id": "b9ca6273-9703-4256-832f-0c54bb16cca5",
+      "file_name": "test_adel_marketing_cv.txt",
+      "fit_score": 4.5,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Test Adel Marketing \u2013 Digital Marketing Specialist**",
+        "**\ud83d\udccb Executive Summary**\nJunior professional with 2 years of experience. Limited fit - significant skill gaps present.",
+        "**\ud83d\udd27 Skills Assessment**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-orange-500 font-bold'>Adequate (5.6/10)</span>",
+        "  \u2022 Evidence: with 2 years of experience in web development and SEO optimization.",
+        "  \u2022 Evidence: Tools: Google Analytics, metadata optimization, on-page SEO PROJECTS E-commerce ...",
+        "",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-orange-500 font-bold'>Adequate (5.6/10)</span>",
+        "  \u2022 Evidence: with 2 years of experience in web development and SEO optimization.",
+        "  \u2022 Evidence: Tools: Google Analytics, metadata optimization, on-page SEO PROJECTS E-commerce ...",
+        "",
+        "**Social Media Strategy & Management** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**Email Marketing & Automation** \u2013 <span class='text-orange-500 font-bold'>Adequate (5.6/10)</span>",
+        "  \u2022 Evidence: with 2 years of experience in web development and SEO optimization.",
+        "  \u2022 Evidence: Tools: Google Analytics, metadata optimization, on-page SEO PROJECTS E-commerce ...",
+        "",
+        "**\u2705 Key Strengths**",
+        "\u2022 Practical Experience: 2 years of hands-on application",
+        "\u2022 Growth Potential: Demonstrates learning ability and adaptability",
+        "**\u26a0\ufe0f Development Areas**",
+        "\u2022 Standard Considerations: Typical onboarding and skill refinement expected for role requirements",
+        "**\ud83c\udfaf Hiring Recommendation: Limited Match (4.5/10)**",
+        "Decision: Significant investment required - evaluate alternative roles",
+        "Onboarding: 3-4 months comprehensive development program required",
+        "**\ud83d\udd04 Alternative Role Considerations**",
+        "1. Entry-level Digital Marketing Specialist - Based on demonstrated skills and experience level",
+        "2. Software Developer - Based on demonstrated skills and experience level",
+        "3. Technical Specialist - Based on demonstrated skills and experience level"
+      ],
+      "cv_summary": "**Test Adel Marketing** - Junior data science candidate with 2 years of professional experience. **Strong in:** SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). **Moderate fit** (4.5/10) for this position.",
+      "suggested_roles": [
+        "Entry-level Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Adel Atya - Digital Marketing Specialist adel.atya...",
+      "candidate_details": {
+        "name": "Test Adel Marketing",
+        "email": "adel.atya@email.com",
+        "phone": "+1 (555) 123-4567",
+        "location": "Dubai, UA",
+        "linkedin": "https://linkedin.com/in/adelatya",
+        "github": "https://github.com/adelatya",
+        "portfolio": "https://adelportfolio.com",
+        "other_links": [
+          "https://adelatya.dev",
+          "https://ecommerce-redesign.vercel.app",
+          "https://landing-optimizer.com",
+          "https://isa-fitness-demo.netlify.app",
+          "https://quote-automation-project.com"
+        ]
+      },
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 5.625,
+          "evidence": [
+            "with 2 years of experience in web development and SEO optimization.",
+            "Tools: Google Analytics, metadata optimization, on-page SEO PROJECTS E-commerce Store Redesign - Live demo: https://ecommerce-redesign.",
+            "com SEO Analytics Dashboard - View project: https://seo-dashboard-demo."
+          ],
+          "years_experience": 0.0
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 5.625,
+          "evidence": [
+            "with 2 years of experience in web development and SEO optimization.",
+            "Tools: Google Analytics, metadata optimization, on-page SEO PROJECTS E-commerce Store Redesign - Live demo: https://ecommerce-redesign.",
+            "com SEO Analytics Dashboard - View project: https://seo-dashboard-demo."
+          ],
+          "years_experience": 0.0
+        },
+        "Social Media Strategy & Management": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "Email Marketing & Automation": {
+          "score": 5.625,
+          "evidence": [
+            "with 2 years of experience in web development and SEO optimization.",
+            "Tools: Google Analytics, metadata optimization, on-page SEO PROJECTS E-commerce Store Redesign - Live demo: https://ecommerce-redesign.",
+            "com SEO Analytics Dashboard - View project: https://seo-dashboard-demo."
+          ],
+          "years_experience": 0.0
+        }
+      }
+    },
+    {
+      "candidate_id": "f4cb6d1e-7e33-4bc1-a292-9e3148638e2b",
+      "file_name": "test_cv.txt",
+      "fit_score": 3.7,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Test Cv \u2013 Digital Marketing Specialist**",
+        "**Summary:**\nSenior professional with 10 years of experience. Strong expertise in Paid Advertising (Google Ads / Meta Ads). Limited experience in SEO & Content Marketing, Social Media Strategy & Management. ",
+        "**Skills & Experience**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-red-600 font-bold'>Very Weak (0.0/10)</span>\n\u2022 **Gap:** No clear evidence of SEO & Content Marketing expertise found\n\u2022 **Impact:** Would require training to meet role requirements",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-green-700 font-bold'>Excellent (8.0/10)</span>\n\u2022 **Development:** 2021 - present - built 15+ react applications with typescript and modern state management - developed microservices arch\n\u2022 js - optimized database queries improving performance by 40% - collaborated with designers to implement pixel-perfect ui\n\u2022 js, restful apis - databases: postgresql, mongodb, redis - cloud: aws, docker, kubernetes - tools: git, jest, webpack, c",
+        "**Social Media Strategy & Management** \u2013 <span class='text-red-500 font-bold'>Weak (4.0/10)</span>\n\u2022 **Development:** 2021 - present - built 15+ react applications with typescript and modern state management - developed microservices arch\n\u2022 js, postgresql - task management saas: real-time collaboration tool with websocket integration - api gateway: microservi",
+        "**Email Marketing & Automation** \u2013 <span class='text-red-600 font-bold'>Very Weak (1.5/10)</span>\n\u2022 adel atya senior full-stack developer email: adel.",
+        "**Pros**\n\u2022 **Paid Advertising (Google Ads / Meta Ads) Proficiency:** Strong foundation with practical implementation experience\n\u2022 **Seasoned Professional:** 10 years of hands-on experience brings maturity and reliability\n\u2022 **Technical Synergy:** Combines full-stack development capabilities for comprehensive solutions\n\u2022 **Collaboration:** Experience working effectively in team environments",
+        "**Cons**\n\u2022 No hands-on seo & content marketing experience\n\u2022 No hands-on social media strategy & management experience\n\u2022 No hands-on email marketing & automation experience\n\u2022 Marketing profile is narrow compared to full-spectrum requirements",
+        "**Rating: 3.7/10** (~36% match)",
+        "**Fit Assessment:**\nPotential candidate with transferable skills. Strong background in Paid Advertising (Google Ads / Meta Ads) provides good foundation. Requires development in 3 key areas to be effective in this role.",
+        "**Best Role Fit:**\n\u2022 PPC Specialist\n\u2022 Paid Media Manager\n\u2022 Google Ads Specialist\n\u2022 Technical Marketing Specialist\n\u2022 Marketing Developer"
+      ],
+      "cv_summary": "**Test Cv** - Senior digital marketing specialist candidate with 10 years of professional experience. **Strong in:** Paid Advertising (Google Ads / Meta Ads). **Moderate fit** (3.7/10) requiring significant training.",
+      "suggested_roles": [
+        "Entry-level Digital Marketing Specialist",
+        "Senior Entry-level Digital Marketing Specialist",
+        "Software Developer"
+      ],
+      "red_flags": [
+        "\ud83d\udd34 Weak proficiency in critical skills: SEO & Content Marketing",
+        "\u26a0\ufe0f  Experienced candidate but skills don't align well with position"
+      ],
+      "years_experience": 10.0,
+      "last_role": "Not specified",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of SEO & Content Marketing expertise found in CV"
+          ],
+          "years_experience": null
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 8.0,
+          "evidence": [
+            "2021 - present - built 15+ react applications with typescript and modern state m...",
+            "js - optimized database queries improving performance by 40% - collaborated with...",
+            "js, restful apis - databases: postgresql, mongodb, redis - cloud: aws, docker, k..."
+          ],
+          "years_experience": null
+        },
+        "Social Media Strategy & Management": {
+          "score": 4.0,
+          "evidence": [
+            "2021 - present - built 15+ react applications with typescript and modern state m...",
+            "js, postgresql - task management saas: real-time collaboration tool with websock..."
+          ],
+          "years_experience": null
+        },
+        "Email Marketing & Automation": {
+          "score": 1.5,
+          "evidence": [
+            "adel atya senior full-stack developer email: adel."
+          ],
+          "years_experience": null
+        }
+      }
+    },
+    {
+      "candidate_id": "049791aa-87cf-47e4-ba39-1914d2e9dcf0",
+      "file_name": "test_data_scientist_cv.txt",
+      "fit_score": 0.4,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Test Data Scientist Cv \u2013 Digital Marketing Specialist**",
+        "**Summary:**\nSenior professional with 5 years of experience. Limited experience in SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). Specialized background: 5 years in data science.",
+        "**Skills & Experience**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-red-600 font-bold'>Very Weak (0.0/10)</span>\n\u2022 No clear evidence of SEO & Content Marketing expertise found",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-red-500 font-bold'>Weak (4.0/10)</span>\n\u2022 2021 - present developed machine learning models for customer churn prediction, improving retention by 15% built recomme\n\u2022 technical skills programming languages: python, r, sql, javascript machine learning: scikit-learn, tensorflow, keras, xg",
+        "**Social Media Strategy & Management** \u2013 <span class='text-red-600 font-bold'>Very Weak (0.0/10)</span>\n\u2022 No proven track record in managing brand accounts or content calendars\n\u2022 Marketing focus has been website-centric, not campaign-driven",
+        "**Email Marketing & Automation** \u2013 <span class='text-red-600 font-bold'>Very Weak (0.0/10)</span>\n\u2022 No mention of tools like Mailchimp, Klaviyo, or HubSpot\n\u2022 No experience with email flows or automation",
+        "**Pros**\n\u2022 5 years of hands-on professional experience\n\u2022 Technical skills in web development \u2014 valuable for implementing marketing tactics",
+        "**Cons**\n\u2022 No hands-on seo & content marketing experience\n\u2022 No hands-on paid advertising (google ads / meta ads) experience\n\u2022 No hands-on social media strategy & management experience\n\u2022 No hands-on email marketing & automation experience\n\u2022 Marketing profile is narrow compared to full-spectrum requirements",
+        "**Rating: 0.4/10** (~4% match)",
+        "**Fit Assessment:**\nLimited alignment with Digital Marketing Specialist requirements. Would need significant training and development to be effective.",
+        "**Best Role Fit:**\n\u2022 Technical Marketing Specialist\n\u2022 Marketing Developer\n\u2022 Marketing Technology Specialist\n\u2022 Junior Digital Marketing Specialist"
+      ],
+      "cv_summary": "**Test Data Scientist Cv** - Senior digital marketing specialist candidate with 5 years of professional experience. **Limited alignment** (0.4/10) with current requirements.",
+      "suggested_roles": [
+        "Entry-level Digital Marketing Specialist",
+        "Senior Entry-level Digital Marketing Specialist",
+        "Software Developer"
+      ],
+      "red_flags": [
+        "\ud83d\udd34 Weak proficiency in critical skills: SEO & Content Marketing",
+        "\u274c Poor overall skill alignment with role requirements",
+        "\ud83d\udccb Limited evidence of technical skills in CV content"
+      ],
+      "years_experience": 5.0,
+      "last_role": "Not specified",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of SEO & Content Marketing expertise found in CV"
+          ],
+          "years_experience": null
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 4.0,
+          "evidence": [
+            "2021 - present developed machine learning models for customer churn prediction, ...",
+            "technical skills programming languages: python, r, sql, javascript machine learn..."
+          ],
+          "years_experience": null
+        },
+        "Social Media Strategy & Management": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of Social Media Strategy & Management expertise found in CV"
+          ],
+          "years_experience": null
+        },
+        "Email Marketing & Automation": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of Email Marketing & Automation expertise found in CV"
+          ],
+          "years_experience": null
+        }
+      }
+    },
+    {
+      "candidate_id": "c2f8b886-1466-42da-a67e-d40b70ac6adf",
+      "file_name": "test_junior_developer_cv.txt",
+      "fit_score": 0.0,
+      "why": [
+        "SEO & Content Marketing: 0.0% match - Limited evidence found for SEO & Content Marketing",
+        "Paid Advertising (Google Ads / Meta Ads): 0.0% match - Limited evidence found for Paid Advertising (Google Ads / Meta Ads)",
+        "Social Media Strategy & Management: 0.0% match - Limited evidence found for Social Media Strategy & Management",
+        "Email Marketing & Automation: 0.0% match - Limited evidence found for Email Marketing & Automation"
+      ],
+      "cv_summary": "Candidate with 0.0 years of experience. Overall fit score: 0.0/10 for Digital Marketing Specialist position.",
+      "suggested_roles": [
+        "Entry-level Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [
+        "No professional experience mentioned",
+        "Missing key skills: SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads), Social Media Strategy & Management",
+        "Weak in core requirements: SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads)",
+        "Poor overall skill match for this role",
+        "Limited evidence of technical skills"
+      ],
+      "years_experience": 0.0,
+      "last_role": "Not specified",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": null
+    },
+    {
+      "candidate_id": "e804946a-97aa-4f38-95d0-57b291f74793",
+      "file_name": "test_junior_developer_cv.txt",
+      "fit_score": 0.0,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Test Junior Developer Cv \u2013 Digital Marketing Specialist**",
+        "**Summary:**\nEntry-level candidate with fresh perspective. Limited experience in SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). ",
+        "**Skills & Experience**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-red-600 font-bold'>Very Weak (0.0/10)</span>\n\u2022 No clear evidence of SEO & Content Marketing expertise found",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-red-600 font-bold'>Very Weak (0.0/10)</span>\n\u2022 No direct experience with Google Ads or Meta Ads campaigns\n\u2022 Skills are limited to organic traffic improvements",
+        "**Social Media Strategy & Management** \u2013 <span class='text-red-600 font-bold'>Very Weak (0.0/10)</span>\n\u2022 No proven track record in managing brand accounts or content calendars\n\u2022 Marketing focus has been website-centric, not campaign-driven",
+        "**Email Marketing & Automation** \u2013 <span class='text-red-600 font-bold'>Very Weak (0.0/10)</span>\n\u2022 No mention of tools like Mailchimp, Klaviyo, or HubSpot\n\u2022 No experience with email flows or automation",
+        "**Pros**\n\u2022 Technical skills in web development \u2014 valuable for implementing marketing tactics",
+        "**Cons**\n\u2022 No hands-on seo & content marketing experience\n\u2022 No hands-on paid advertising (google ads / meta ads) experience\n\u2022 No hands-on social media strategy & management experience\n\u2022 No hands-on email marketing & automation experience\n\u2022 Limited professional experience in the field\n\u2022 Marketing profile is narrow compared to full-spectrum requirements",
+        "**Rating: 0.0/10** (~0% match)",
+        "**Fit Assessment:**\nLimited alignment with Digital Marketing Specialist requirements. Would need significant training and development to be effective.",
+        "**Best Role Fit:**\n\u2022 Technical Marketing Specialist\n\u2022 Marketing Developer\n\u2022 Marketing Technology Specialist\n\u2022 Marketing Coordinator"
+      ],
+      "cv_summary": "**Test Junior Developer Cv** - Entry-level digital marketing specialist candidate with fresh academic background. **Limited alignment** (0.0/10) with current requirements.",
+      "suggested_roles": [
+        "Entry-level Digital Marketing Specialist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [
+        "\ud83d\udea8 No professional experience mentioned",
+        "\ud83d\udd34 Weak proficiency in critical skills: SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads)",
+        "\u274c Poor overall skill alignment with role requirements",
+        "\ud83d\udccb Limited evidence of technical skills in CV content"
+      ],
+      "years_experience": 0.0,
+      "last_role": "Not specified",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of SEO & Content Marketing expertise found in CV"
+          ],
+          "years_experience": null
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of Paid Advertising (Google Ads / Meta Ads) expertise found in CV"
+          ],
+          "years_experience": null
+        },
+        "Social Media Strategy & Management": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of Social Media Strategy & Management expertise found in CV"
+          ],
+          "years_experience": null
+        },
+        "Email Marketing & Automation": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of Email Marketing & Automation expertise found in CV"
+          ],
+          "years_experience": null
+        }
+      }
+    },
+    {
+      "candidate_id": "9c89c5ab-45e3-4298-8790-e935158ab95b",
+      "file_name": "product_manager_senior.txt",
+      "fit_score": 0.0,
+      "why": [
+        "\ud83d\udcc4 **Candidate Analysis: Product Manager Senior \u2013 Digital Marketing Specialist**",
+        "**\ud83d\udccb Executive Summary**\nMid-level professional with 6 years of experience. Development areas: SEO & Content Marketing, Paid Advertising (Google Ads / Meta Ads). Limited fit - significant skill gaps present.",
+        "**\ud83d\udd27 Skills Assessment**\n",
+        "**SEO & Content Marketing** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**Paid Advertising (Google Ads / Meta Ads)** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**Social Media Strategy & Management** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**Email Marketing & Automation** \u2013 <span class='text-red-600 font-bold'>Insufficient (0.0/10)</span>",
+        "  \u2022 Evidence: No clear demonstration found in CV",
+        "",
+        "**\u2705 Key Strengths**",
+        "\u2022 Solid Experience: 6 years with demonstrated growth trajectory",
+        "\u2022 Leadership Experience: Proven ability to guide teams and manage responsibilities",
+        "\u2022 Results-Oriented: Track record of delivering measurable business impact",
+        "**\u26a0\ufe0f Development Areas**",
+        "\u2022 Standard Considerations: Typical onboarding and skill refinement expected for role requirements",
+        "**\ud83c\udfaf Hiring Recommendation: Limited Match (0.0/10)**",
+        "Decision: Significant investment required - evaluate alternative roles",
+        "Onboarding: 3-4 months comprehensive development program required",
+        "**\ud83d\udd04 Alternative Role Considerations**",
+        "1. Entry-level Digital Marketing Specialist - Based on demonstrated skills and experience level",
+        "2. Senior Entry-level Digital Marketing Specialist - Based on demonstrated skills and experience level",
+        "3. Software Developer - Based on demonstrated skills and experience level"
+      ],
+      "cv_summary": "**Product Manager Senior** - Mid-Level data science candidate with 6 years of professional experience. **Strong in:** . **Moderate fit** (0.0/10) for this position.",
+      "suggested_roles": [
+        "Entry-level Digital Marketing Specialist",
+        "Senior Entry-level Digital Marketing Specialist",
+        "Software Developer"
+      ],
+      "red_flags": [],
+      "years_experience": 6.0,
+      "last_role": "Jessica Wang - Senior Product Manager Email: jessi...",
+      "candidate_details": {
+        "name": "Product Manager Senior",
+        "email": "jessica.wang@email.com",
+        "phone": "+1 (555) 789-0123",
+        "location": "methodologies, da",
+        "linkedin": "https://linkedin.com/in/jessicawangpm",
+        "github": null,
+        "portfolio": "https://jessicawang-pm.com",
+        "other_links": [
+          "https://jessicawang-pm.com"
+        ]
+      },
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": {
+        "SEO & Content Marketing": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "Paid Advertising (Google Ads / Meta Ads)": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "Social Media Strategy & Management": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        },
+        "Email Marketing & Automation": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 0.0
+        }
+      }
+    }
+  ],
+  "analyzed_at": "2025-08-17 04:15:14.731365"
+}

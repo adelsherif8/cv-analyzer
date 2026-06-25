@@ -1,0 +1,14 @@
+{
+  "title": "UI/UX Designer",
+  "description": "Join our design team to create intuitive, beautiful user experiences for our mobile and web applications. You'll conduct user research, create wireframes and prototypes, and collaborate closely with developers to bring designs to life.",
+  "required_skills": [
+    {"name": "Figma & Design Tools", "weight": 0.9},
+    {"name": "User Research & Usability Testing", "weight": 0.8},
+    {"name": "Wireframing & Prototyping", "weight": 0.8},
+    {"name": "Mobile App Design (iOS/Android)", "weight": 0.7},
+    {"name": "Design Systems & Style Guides", "weight": 0.7},
+    {"name": "Adobe Creative Suite", "weight": 0.6},
+    {"name": "HTML/CSS Basics", "weight": 0.5},
+    {"name": "Interaction Design", "weight": 0.6}
+  ]
+}

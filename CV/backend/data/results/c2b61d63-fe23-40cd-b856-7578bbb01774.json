@@ -1,0 +1,71 @@
+{
+  "role_id": "c2b61d63-fe23-40cd-b856-7578bbb01774",
+  "results": [
+    {
+      "candidate_id": "6a247a86-60f9-4e65-83b7-9796265d0931",
+      "file_name": "test_cv_sample.txt",
+      "fit_score": 0.0,
+      "why": [
+        "Analysis failed: cannot access local variable 'years_experience' where it is not associated with a value"
+      ],
+      "cv_summary": "Unable to analyze this CV due to parsing or processing errors.",
+      "suggested_roles": [
+        "Unknown"
+      ],
+      "red_flags": [
+        "File processing error"
+      ],
+      "years_experience": null,
+      "last_role": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": null
+    },
+    {
+      "candidate_id": "39bb981f-44c8-4db3-87f3-492571fcfac5",
+      "file_name": "test_marketing_analytics_cv.txt",
+      "fit_score": 0.0,
+      "why": [
+        "Analysis failed: cannot access local variable 'years_experience' where it is not associated with a value"
+      ],
+      "cv_summary": "Unable to analyze this CV due to parsing or processing errors.",
+      "suggested_roles": [
+        "Unknown"
+      ],
+      "red_flags": [
+        "File processing error"
+      ],
+      "years_experience": null,
+      "last_role": null,
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": null
+    },
+    {
+      "candidate_id": "01bec5c1-de7c-40b0-808e-91f10cf4db3e",
+      "file_name": "test_cv_sample.txt",
+      "fit_score": 0.0,
+      "why": [
+        "Sales: 0.0% match - Limited evidence found for Sales"
+      ],
+      "cv_summary": "Candidate with 12.0 years of experience. Overall fit score: 0.0/10 for Sales position.",
+      "suggested_roles": [
+        "Entry-level Sales",
+        "Senior Entry-level Sales",
+        "Software Developer"
+      ],
+      "red_flags": [
+        "Missing key skills: Sales",
+        "Weak in core requirements: Sales",
+        "Poor overall skill match for this role",
+        "Limited evidence of technical skills"
+      ],
+      "years_experience": 12.0,
+      "last_role": "Not specified",
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": null
+    }
+  ],
+  "analyzed_at": "2025-08-17 02:39:43.870159"
+}

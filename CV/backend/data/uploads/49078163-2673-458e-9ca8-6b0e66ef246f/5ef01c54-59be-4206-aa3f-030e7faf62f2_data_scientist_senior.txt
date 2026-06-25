@@ -1,0 +1,64 @@
+Sarah Chen - Senior Data Scientist
+
+Email: sarah.chen@email.com
+Phone: +1 (555) 234-5678
+LinkedIn: https://linkedin.com/in/sarahchen-ds
+GitHub: https://github.com/sarahchen-ml
+Portfolio: https://sarahchen-datascience.com
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 6 years of experience building ML models for fintech and e-commerce. Expert in Python, deep learning, and productionizing ML systems. Led teams of 3-5 data scientists and delivered $2M+ in revenue impact through predictive modeling.
+
+TECHNICAL SKILLS
+Programming: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), R, SQL, Scala
+Machine Learning: Supervised/Unsupervised Learning, Deep Learning, NLP, Computer Vision, Time Series
+Cloud & MLOps: AWS (SageMaker, S3, EC2), Docker, Kubernetes, MLflow, Airflow
+Databases: PostgreSQL, MongoDB, Snowflake, BigQuery
+Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly
+
+EXPERIENCE
+
+Senior Data Scientist | TechFlow Inc | Sep 2021 - Present
+• Built end-to-end ML pipeline for fraud detection reducing false positives by 40%
+• Deployed recommendation engine serving 1M+ daily predictions with 99.9% uptime
+• Led A/B testing framework resulting in 15% improvement in user engagement
+• Mentored 3 junior data scientists and established MLOps best practices
+• Implemented real-time model monitoring and automated retraining workflows
+
+Data Scientist | RetailAnalytics Corp | Jun 2019 - Aug 2021
+• Developed customer churn prediction model with 85% accuracy, preventing $800K annual revenue loss
+• Created dynamic pricing algorithm increasing profit margins by 12%
+• Built sales forecasting models for inventory optimization
+• Conducted statistical analysis and A/B testing for product launches
+• Collaborated with engineering team to deploy models to production
+
+Junior Data Scientist | DataStart Solutions | Jan 2018 - May 2019
+• Analyzed customer behavior data using Python and SQL
+• Built predictive models for marketing campaign optimization
+• Created automated reporting dashboards in Tableau
+• Performed feature engineering and data preprocessing
+• Assisted in building company's first ML infrastructure
+
+PROJECTS
+• Customer Lifetime Value Predictor: XGBoost model predicting CLV with RMSE < 0.15
+• NLP Sentiment Analysis: BERT-based model for social media monitoring (92% accuracy)
+• Computer Vision: CNN for product image classification (95% accuracy on 100K+ images)
+• Time Series Forecasting: LSTM model for demand prediction with seasonal adjustments
+
+EDUCATION
+Master of Science in Statistics | Stanford University | 2017
+Bachelor of Science in Mathematics | UC Berkeley | 2015
+
+CERTIFICATIONS
+• AWS Certified Machine Learning - Specialty
+• Google Cloud Professional Data Engineer
+• Coursera Deep Learning Specialization
+
+PUBLICATIONS
+• "Scalable ML for E-commerce Personalization" - ICML 2023
+• "Real-time Fraud Detection in Financial Services" - KDD 2022
+
+ACHIEVEMENTS
+• Led team that won "Best ML Innovation" award at company hackathon
+• Speaker at PyData Conference 2023
+• Increased model accuracy by 25% through novel feature engineering techniques

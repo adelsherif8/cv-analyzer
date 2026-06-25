@@ -1,0 +1,24 @@
+Mike Johnson - Junior Developer
+
+EDUCATION
+Bachelor of Computer Science | State University | 2024 (Recent Graduate)
+
+SKILLS
+• Basic knowledge of HTML and CSS
+• Some JavaScript experience from coursework
+• Familiar with Git version control
+• Learning React through online tutorials
+
+EXPERIENCE
+Intern Developer | StartupTech | Summer 2023 (3 months)
+• Helped fix minor bugs in existing JavaScript code
+• Learned basic web development principles
+• Worked with senior developers on small features
+
+PROJECTS
+• Personal Website: Built a simple portfolio site using HTML, CSS, and basic JavaScript
+• Todo App: Created a basic todo application following a React tutorial
+• Calculator: Built a simple calculator using vanilla JavaScript
+
+CERTIFICATIONS
+• FreeCodeCamp Responsive Web Design Certificate

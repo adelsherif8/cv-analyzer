@@ -1,0 +1,2086 @@
+{
+  "role_id": "a6adf780-697b-4a09-acbd-c67a62bcc17f",
+  "results": [
+    {
+      "candidate_id": "2884a852-71d8-4011-8e44-6332b5f91556",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 7.2,
+      "why": [
+        "Score: 7.2/10 (72% match)",
+        "React.js Development (components, hooks, state management)  : 7.2/10",
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  : 7.2/10",
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  : 7.2/10"
+      ],
+      "cv_summary": "Professional candidate with 2.0 years of experience in the target domain.",
+      "suggested_roles": [
+        "Frontend Developer",
+        "React Developer",
+        "UI Developer"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Adel Atya Front-End Engineer Workflow Autom",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "React.js Development (components, hooks, state management)  ": {
+          "score": 7.2,
+          "evidence": [
+            "Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong foundation in UX/UI design and performance optimization",
+            "course track covering HTML, CSS, JavaScript, React, UX/UI Design, Git, and web deployment",
+            "Upwork Skills Certification, React Certification Online Oct 2024 present Certified in building robust React"
+          ],
+          "years_experience": 2.0
+        },
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ": {
+          "score": 7.2,
+          "evidence": [
+            "End Engineer Workflow Automator Wordpress/Shopify Developer Cairo adelsherif8@gmail",
+            "Employed / Freelance, Freelance Web Developer Remote Jan 2022 Present Built fully responsive websites using WordPress, Shopify (Liquid), and React for clients across industries including dental, logistics, landscaping, and e",
+            "Customized user interfaces, themes, and templates to align with each client s brand identity and user experience goals"
+          ],
+          "years_experience": 2.0
+        },
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ": {
+          "score": 7.2,
+          "evidence": [
+            "End Engineer with over 2 years of experience building responsive, fast",
+            "Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong foundation in UX/UI design and performance optimization",
+            "course track covering HTML, CSS, JavaScript, React, UX/UI Design, Git, and web deployment"
+          ],
+          "years_experience": 2.0
+        },
+        "JavaScript (ES6+) & Frontend Best Practices  ": {
+          "score": 7.2,
+          "evidence": [
+            "Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong foundation in UX/UI design and performance optimization",
+            "course track covering HTML, CSS, JavaScript, React, UX/UI Design, Git, and web deployment",
+            "nl Shopify Developer Theme Customization JS Logic CMS Enhancements o Cloned and rebuilt the store layout by referencing multiple external design sources to match a premium eCommerce look"
+          ],
+          "years_experience": 2.0
+        },
+        "API Integration & Performance Optimization  ": {
+          "score": 7.2,
+          "evidence": [
+            "Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong foundation in UX/UI design and performance optimization",
+            "Employed / Freelance, Freelance Web Developer Remote Jan 2022 Present Built fully responsive websites using WordPress, Shopify (Liquid), and React for clients across industries including dental, logistics, landscaping, and e",
+            "Developed automated workflows using Zapier and GoHighLevel to streamline lead generation, appointment booking, and CRM communication"
+          ],
+          "years_experience": 2.0
+        }
+      },
+      "full_analysis": {
+        "candidate": {
+          "name": null,
+          "years_experience": 2.0,
+          "locale": "en"
+        },
+        "job_profile": {
+          "title": "Frontend Developer (React / Shopify)",
+          "seniority": "mid",
+          "skills": [
+            {
+              "name": "React.js Development (components, hooks, state management)  ",
+              "weight": 0.3,
+              "critical": false
+            },
+            {
+              "name": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "JavaScript (ES6+) & Frontend Best Practices  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "API Integration & Performance Optimization  ",
+              "weight": 0.1,
+              "critical": false
+            }
+          ]
+        },
+        "ratings": [
+          {
+            "skill": "React.js Development (components, hooks, state management)  ",
+            "weight": 0.3,
+            "critical": false,
+            "rating": 7.2,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong foundation in UX/UI design and performance optimization",
+              "course track covering HTML, CSS, JavaScript, React, UX/UI Design, Git, and web deployment",
+              "Upwork Skills Certification, React Certification Online Oct 2024 present Certified in building robust React"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 1.2,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 7.2,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "End Engineer Workflow Automator Wordpress/Shopify Developer Cairo adelsherif8@gmail",
+              "Employed / Freelance, Freelance Web Developer Remote Jan 2022 Present Built fully responsive websites using WordPress, Shopify (Liquid), and React for clients across industries including dental, logistics, landscaping, and e",
+              "Customized user interfaces, themes, and templates to align with each client s brand identity and user experience goals"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 1.2,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 7.2,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "End Engineer with over 2 years of experience building responsive, fast",
+              "Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong foundation in UX/UI design and performance optimization",
+              "course track covering HTML, CSS, JavaScript, React, UX/UI Design, Git, and web deployment"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 1.2,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "JavaScript (ES6+) & Frontend Best Practices  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 7.2,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong foundation in UX/UI design and performance optimization",
+              "course track covering HTML, CSS, JavaScript, React, UX/UI Design, Git, and web deployment",
+              "nl Shopify Developer Theme Customization JS Logic CMS Enhancements o Cloned and rebuilt the store layout by referencing multiple external design sources to match a premium eCommerce look"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 1.2,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "API Integration & Performance Optimization  ",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 7.2,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong foundation in UX/UI design and performance optimization",
+              "Employed / Freelance, Freelance Web Developer Remote Jan 2022 Present Built fully responsive websites using WordPress, Shopify (Liquid), and React for clients across industries including dental, logistics, landscaping, and e",
+              "Developed automated workflows using Zapier and GoHighLevel to streamline lead generation, appointment booking, and CRM communication"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 1.2,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          }
+        ],
+        "weighted_score": {
+          "score_10": 7.2,
+          "match_pct": 72
+        },
+        "highlights": [
+          "Achievements Meta Front-End Developer Professional Certificate React Certification Upwork Upwork Rising Talent Badge 100% Job Success Score on Upwork Selected Projects Personal Portfolio Website https://adelemad"
+        ],
+        "pros": [
+          "Strong expertise in React.js Development (components, hooks, state management)  ",
+          "Professional online presence with portfolio/links",
+          "Relevant domain experience",
+          "Technical competency demonstrated"
+        ],
+        "cons": [
+          "May require skill development in weaker areas",
+          "Experience depth varies by skill area"
+        ],
+        "ats_keywords": {
+          "found": [
+            "React.js Development (components, hooks, state management)  ",
+            "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "JavaScript (ES6+) & Frontend Best Practices  ",
+            "API Integration & Performance Optimization  "
+          ],
+          "missing": []
+        },
+        "growth_plan": [
+          "Build portfolio showcasing relevant work with metrics and impact",
+          "Pursue certifications or training in identified skill gaps"
+        ],
+        "fit_assessment": {
+          "label": "good",
+          "reason": "Strong alignment with role requirements and evidence"
+        },
+        "best_role_fit": [
+          "Frontend Developer",
+          "React Developer",
+          "UI Developer"
+        ],
+        "red_flags": []
+      }
+    },
+    {
+      "candidate_id": "1bf25209-46ca-41b2-8d54-a5414688cc13",
+      "file_name": "test_adel_marketing_cv.txt",
+      "fit_score": 5.7,
+      "why": [
+        "Score: 5.7/10 (57% match)",
+        "React.js Development (components, hooks, state management)  : 4.8/10",
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  : 5.7/10",
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  : 6.0/10"
+      ],
+      "cv_summary": "Professional candidate with 2.0 years of experience in the target domain.",
+      "suggested_roles": [
+        "General Specialist",
+        "Professional Role"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Adel Atya - Digital Marketing Specialist adel.atya",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "React.js Development (components, hooks, state management)  ": {
+          "score": 4.8,
+          "evidence": [
+            "com TECHNICAL SKILLS Frontend Development: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS CMS Builders: Shopify (Liquid templates), WordPress Programming: JavaScript (intermediate), Java (basic) SEO Tools: Google Analytics, metadata optimization, on"
+          ],
+          "years_experience": 2.0
+        },
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ": {
+          "score": 5.7,
+          "evidence": [
+            "com TECHNICAL SKILLS Frontend Development: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS CMS Builders: Shopify (Liquid templates), WordPress Programming: JavaScript (intermediate), Java (basic) SEO Tools: Google Analytics, metadata optimization, on",
+            "Check out my work at: https://landing"
+          ],
+          "years_experience": 2.0
+        },
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ": {
+          "score": 6.0,
+          "evidence": [
+            "Present Built fully responsive websites using modern web technologies Designed and developed landing page for ISA",
+            "com TECHNICAL SKILLS Frontend Development: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS CMS Builders: Shopify (Liquid templates), WordPress Programming: JavaScript (intermediate), Java (basic) SEO Tools: Google Analytics, metadata optimization, on"
+          ],
+          "years_experience": 2.0
+        },
+        "JavaScript (ES6+) & Frontend Best Practices  ": {
+          "score": 6.0,
+          "evidence": [
+            "com TECHNICAL SKILLS Frontend Development: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS CMS Builders: Shopify (Liquid templates), WordPress Programming: JavaScript (intermediate), Java (basic) SEO Tools: Google Analytics, metadata optimization, on"
+          ],
+          "years_experience": 2.0
+        },
+        "API Integration & Performance Optimization  ": {
+          "score": 7.2,
+          "evidence": [
+            "com PROFESSIONAL SUMMARY Digital marketing specialist with 2 years of experience in web development and SEO optimization",
+            "Strong background in creating landing pages, payment integration, and conversion optimization",
+            "Proven track record in improving website performance and user engagement"
+          ],
+          "years_experience": 2.0
+        }
+      },
+      "full_analysis": {
+        "candidate": {
+          "name": null,
+          "years_experience": 2.0,
+          "locale": "en"
+        },
+        "job_profile": {
+          "title": "Frontend Developer (React / Shopify)",
+          "seniority": "mid",
+          "skills": [
+            {
+              "name": "React.js Development (components, hooks, state management)  ",
+              "weight": 0.3,
+              "critical": false
+            },
+            {
+              "name": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "JavaScript (ES6+) & Frontend Best Practices  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "API Integration & Performance Optimization  ",
+              "weight": 0.1,
+              "critical": false
+            }
+          ]
+        },
+        "ratings": [
+          {
+            "skill": "React.js Development (components, hooks, state management)  ",
+            "weight": 0.3,
+            "critical": false,
+            "rating": 4.8,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "com TECHNICAL SKILLS Frontend Development: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS CMS Builders: Shopify (Liquid templates), WordPress Programming: JavaScript (intermediate), Java (basic) SEO Tools: Google Analytics, metadata optimization, on"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 0.967,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 5.7,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "com TECHNICAL SKILLS Frontend Development: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS CMS Builders: Shopify (Liquid templates), WordPress Programming: JavaScript (intermediate), Java (basic) SEO Tools: Google Analytics, metadata optimization, on",
+              "Check out my work at: https://landing"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 1.133,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 6.0,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "Present Built fully responsive websites using modern web technologies Designed and developed landing page for ISA",
+              "com TECHNICAL SKILLS Frontend Development: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS CMS Builders: Shopify (Liquid templates), WordPress Programming: JavaScript (intermediate), Java (basic) SEO Tools: Google Analytics, metadata optimization, on"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 1.2,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "JavaScript (ES6+) & Frontend Best Practices  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 6.0,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "com TECHNICAL SKILLS Frontend Development: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS CMS Builders: Shopify (Liquid templates), WordPress Programming: JavaScript (intermediate), Java (basic) SEO Tools: Google Analytics, metadata optimization, on"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 1.2,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "API Integration & Performance Optimization  ",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 7.2,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "com PROFESSIONAL SUMMARY Digital marketing specialist with 2 years of experience in web development and SEO optimization",
+              "Strong background in creating landing pages, payment integration, and conversion optimization",
+              "Proven track record in improving website performance and user engagement"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 1.2,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          }
+        ],
+        "weighted_score": {
+          "score_10": 5.7,
+          "match_pct": 57
+        },
+        "highlights": [
+          "Professional experience in target domain"
+        ],
+        "pros": [
+          "Strong expertise in API Integration & Performance Optimization  ",
+          "Professional online presence with portfolio/links",
+          "Relevant domain experience",
+          "Technical competency demonstrated"
+        ],
+        "cons": [
+          "May require skill development in weaker areas",
+          "Experience depth varies by skill area"
+        ],
+        "ats_keywords": {
+          "found": [
+            "React.js Development (components, hooks, state management)  ",
+            "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "JavaScript (ES6+) & Frontend Best Practices  ",
+            "API Integration & Performance Optimization  "
+          ],
+          "missing": []
+        },
+        "growth_plan": [
+          "Develop React.js Development (components, hooks, state management)   through hands-on projects with measurable outcomes",
+          "Develop Shopify & Liquid Templating (themes, customizations, e-commerce workflows)   through hands-on projects with measurable outcomes",
+          "Build portfolio showcasing relevant work with metrics and impact",
+          "Pursue certifications or training in identified skill gaps"
+        ],
+        "fit_assessment": {
+          "label": "partial",
+          "reason": "Moderate alignment with some skill gaps to address"
+        },
+        "best_role_fit": [
+          "General Specialist",
+          "Professional Role"
+        ],
+        "red_flags": []
+      }
+    },
+    {
+      "candidate_id": "3198ce05-0fd4-4af9-b4a5-327b6d439d6d",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 5.7,
+      "why": [
+        "Score: 5.7/10 (57% match)",
+        "React.js Development (components, hooks, state management)  : 5.9/10",
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  : 5.9/10",
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  : 5.9/10"
+      ],
+      "cv_summary": "Professional candidate with 2.0 years of experience in the target domain.",
+      "suggested_roles": [
+        "Frontend Developer",
+        "React Developer",
+        "UI Developer"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Adel Atya Front-End Engineer Workflow Autom",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "React.js Development (components, hooks, state management)  ": {
+          "score": 5.9,
+          "evidence": [
+            "End Developer Professional Certificate React Certification Upwork Upwork Rising Talent Badge 100% Job Success Score on Upwork Selected Projects Personal Portfolio Website https://adelemad",
+            "Upwork Skills Certification, React Certification Online Oct 2024 present Certified in building robust React",
+            "app Developed a custom React"
+          ],
+          "years_experience": 2.0
+        },
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ": {
+          "score": 5.9,
+          "evidence": [
+            "o Developed dynamic, reusable custom sections to give the client full control over product displays, CTAs, and visuals through the Shopify editor",
+            "o Customized JavaScript logic in Shopify to modify theme behavior, improve interactivity, and refine UI flow",
+            "nl Shopify Developer Theme Customization JS Logic CMS Enhancements o Cloned and rebuilt the store layout by referencing multiple external design sources to match a premium eCommerce look"
+          ],
+          "years_experience": 2.0
+        },
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ": {
+          "score": 5.9,
+          "evidence": [
+            "first, responsive layouts and clear UX structure tailored to a fitness",
+            "ca Delivered a clean and responsive portfolio site with service breakdowns, custom icons, and mobile",
+            "End Engineer with over 2 years of experience building responsive, fast"
+          ],
+          "years_experience": 2.0
+        },
+        "JavaScript (ES6+) & Frontend Best Practices  ": {
+          "score": 4.8,
+          "evidence": [
+            "js (basic) Languages English: Highly proficient in speaking and writing Arabic: Native speaker Interests UI/UX Design Trends Web Animation Interactive Design Tech Startups SaaS Products Automation Productivity Tools Open Source Contributions Digital Art Web Aesthetics Gaming Game UI Design Learning new frameworks (e",
+            "js, MongoDB, Express"
+          ],
+          "years_experience": 2.0
+        },
+        "API Integration & Performance Optimization  ": {
+          "score": 5.9,
+          "evidence": [
+            "page structure achieved a performance score of 90/100",
+            "india Landing Page Developer Payment Integration SEO Optimization Designed and developed a conversion",
+            "aligners Built a WordPress site with service pages, landing optimization, and lead capture through automated form flows"
+          ],
+          "years_experience": 2.0
+        }
+      },
+      "full_analysis": {
+        "candidate": {
+          "name": null,
+          "years_experience": 2.0,
+          "locale": "en"
+        },
+        "job_profile": {
+          "title": "Frontend Developer (React / Shopify)",
+          "seniority": "mid",
+          "skills": [
+            {
+              "name": "React.js Development (components, hooks, state management)  ",
+              "weight": 0.3,
+              "critical": false
+            },
+            {
+              "name": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "JavaScript (ES6+) & Frontend Best Practices  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "API Integration & Performance Optimization  ",
+              "weight": 0.1,
+              "critical": false
+            }
+          ]
+        },
+        "ratings": [
+          {
+            "skill": "React.js Development (components, hooks, state management)  ",
+            "weight": 0.3,
+            "critical": false,
+            "rating": 5.9,
+            "evidence_confidence": "E3",
+            "evidence": [
+              "End Developer Professional Certificate React Certification Upwork Upwork Rising Talent Badge 100% Job Success Score on Upwork Selected Projects Personal Portfolio Website https://adelemad",
+              "Upwork Skills Certification, React Certification Online Oct 2024 present Certified in building robust React",
+              "app Developed a custom React"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "limited tenure"
+          },
+          {
+            "skill": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 5.9,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "o Developed dynamic, reusable custom sections to give the client full control over product displays, CTAs, and visuals through the Shopify editor",
+              "o Customized JavaScript logic in Shopify to modify theme behavior, improve interactivity, and refine UI flow",
+              "nl Shopify Developer Theme Customization JS Logic CMS Enhancements o Cloned and rebuilt the store layout by referencing multiple external design sources to match a premium eCommerce look"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "limited tenure"
+          },
+          {
+            "skill": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 5.9,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "first, responsive layouts and clear UX structure tailored to a fitness",
+              "ca Delivered a clean and responsive portfolio site with service breakdowns, custom icons, and mobile",
+              "End Engineer with over 2 years of experience building responsive, fast"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "limited tenure"
+          },
+          {
+            "skill": "JavaScript (ES6+) & Frontend Best Practices  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 4.8,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "js (basic) Languages English: Highly proficient in speaking and writing Arabic: Native speaker Interests UI/UX Design Trends Web Animation Interactive Design Tech Startups SaaS Products Automation Productivity Tools Open Source Contributions Digital Art Web Aesthetics Gaming Game UI Design Learning new frameworks (e",
+              "js, MongoDB, Express"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "limited tenure"
+          },
+          {
+            "skill": "API Integration & Performance Optimization  ",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 5.9,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "page structure achieved a performance score of 90/100",
+              "india Landing Page Developer Payment Integration SEO Optimization Designed and developed a conversion",
+              "aligners Built a WordPress site with service pages, landing optimization, and lead capture through automated form flows"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "limited tenure"
+          }
+        ],
+        "weighted_score": {
+          "score_10": 5.7,
+          "match_pct": 57
+        },
+        "highlights": [
+          "Achievements Meta Front-End Developer Professional Certificate React Certification Upwork Upwork Rising Talent Badge 100% Job Success Score on Upwork Selected Projects Personal Portfolio Website https://adelemad"
+        ],
+        "pros": [
+          "Quantifiable achievements with measurable impact",
+          "Professional online presence with portfolio/links",
+          "Relevant domain experience",
+          "Technical competency demonstrated"
+        ],
+        "cons": [
+          "May require skill development in weaker areas",
+          "Experience depth varies by skill area"
+        ],
+        "ats_keywords": {
+          "found": [
+            "React.js Development (components, hooks, state management)  ",
+            "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "JavaScript (ES6+) & Frontend Best Practices  ",
+            "API Integration & Performance Optimization  "
+          ],
+          "missing": []
+        },
+        "growth_plan": [
+          "Develop React.js Development (components, hooks, state management)   through hands-on projects with measurable outcomes",
+          "Develop JavaScript (ES6+) & Frontend Best Practices   through hands-on projects with measurable outcomes",
+          "Build portfolio showcasing relevant work with metrics and impact",
+          "Pursue certifications or training in identified skill gaps"
+        ],
+        "fit_assessment": {
+          "label": "partial",
+          "reason": "Moderate alignment with some skill gaps to address"
+        },
+        "best_role_fit": [
+          "Frontend Developer",
+          "React Developer",
+          "UI Developer"
+        ],
+        "red_flags": []
+      }
+    },
+    {
+      "candidate_id": "cee9f53d-ceb1-46f9-96d7-46a245bcd209",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 5.7,
+      "why": [
+        "Score: 5.7/10 (57% match)",
+        "React.js Development (components, hooks, state management)  : 5.9/10",
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  : 5.9/10",
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  : 5.9/10"
+      ],
+      "cv_summary": "Professional candidate with 2.0 years of experience in the target domain.",
+      "suggested_roles": [
+        "Frontend Developer",
+        "React Developer",
+        "UI Developer"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Adel Atya Front-End Engineer Workflow Autom",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": {
+        "React.js Development (components, hooks, state management)  ": {
+          "score": 5.9,
+          "evidence": [
+            "End Developer Professional Certificate React Certification Upwork Upwork Rising Talent Badge 100% Job Success Score on Upwork Selected Projects Personal Portfolio Website https://adelemad",
+            "Upwork Skills Certification, React Certification Online Oct 2024 present Certified in building robust React",
+            "app Developed a custom React"
+          ],
+          "years_experience": 2.0
+        },
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ": {
+          "score": 5.9,
+          "evidence": [
+            "o Developed dynamic, reusable custom sections to give the client full control over product displays, CTAs, and visuals through the Shopify editor",
+            "o Customized JavaScript logic in Shopify to modify theme behavior, improve interactivity, and refine UI flow",
+            "nl Shopify Developer Theme Customization JS Logic CMS Enhancements o Cloned and rebuilt the store layout by referencing multiple external design sources to match a premium eCommerce look"
+          ],
+          "years_experience": 2.0
+        },
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ": {
+          "score": 5.9,
+          "evidence": [
+            "first, responsive layouts and clear UX structure tailored to a fitness",
+            "ca Delivered a clean and responsive portfolio site with service breakdowns, custom icons, and mobile",
+            "End Engineer with over 2 years of experience building responsive, fast"
+          ],
+          "years_experience": 2.0
+        },
+        "JavaScript (ES6+) & Frontend Best Practices  ": {
+          "score": 4.8,
+          "evidence": [
+            "js (basic) Languages English: Highly proficient in speaking and writing Arabic: Native speaker Interests UI/UX Design Trends Web Animation Interactive Design Tech Startups SaaS Products Automation Productivity Tools Open Source Contributions Digital Art Web Aesthetics Gaming Game UI Design Learning new frameworks (e",
+            "js, MongoDB, Express"
+          ],
+          "years_experience": 2.0
+        },
+        "API Integration & Performance Optimization  ": {
+          "score": 5.9,
+          "evidence": [
+            "page structure achieved a performance score of 90/100",
+            "india Landing Page Developer Payment Integration SEO Optimization Designed and developed a conversion",
+            "aligners Built a WordPress site with service pages, landing optimization, and lead capture through automated form flows"
+          ],
+          "years_experience": 2.0
+        }
+      },
+      "full_analysis": {
+        "candidate": {
+          "name": null,
+          "years_experience": 2.0,
+          "locale": "en"
+        },
+        "job_profile": {
+          "title": "Frontend Developer (React / Shopify)",
+          "seniority": "mid",
+          "skills": [
+            {
+              "name": "React.js Development (components, hooks, state management)  ",
+              "weight": 0.3,
+              "critical": false
+            },
+            {
+              "name": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "JavaScript (ES6+) & Frontend Best Practices  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "API Integration & Performance Optimization  ",
+              "weight": 0.1,
+              "critical": false
+            }
+          ]
+        },
+        "ratings": [
+          {
+            "skill": "React.js Development (components, hooks, state management)  ",
+            "weight": 0.3,
+            "critical": false,
+            "rating": 5.9,
+            "evidence_confidence": "E3",
+            "evidence": [
+              "End Developer Professional Certificate React Certification Upwork Upwork Rising Talent Badge 100% Job Success Score on Upwork Selected Projects Personal Portfolio Website https://adelemad",
+              "Upwork Skills Certification, React Certification Online Oct 2024 present Certified in building robust React",
+              "app Developed a custom React"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "limited tenure"
+          },
+          {
+            "skill": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 5.9,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "o Developed dynamic, reusable custom sections to give the client full control over product displays, CTAs, and visuals through the Shopify editor",
+              "o Customized JavaScript logic in Shopify to modify theme behavior, improve interactivity, and refine UI flow",
+              "nl Shopify Developer Theme Customization JS Logic CMS Enhancements o Cloned and rebuilt the store layout by referencing multiple external design sources to match a premium eCommerce look"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "limited tenure"
+          },
+          {
+            "skill": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 5.9,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "first, responsive layouts and clear UX structure tailored to a fitness",
+              "ca Delivered a clean and responsive portfolio site with service breakdowns, custom icons, and mobile",
+              "End Engineer with over 2 years of experience building responsive, fast"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "limited tenure"
+          },
+          {
+            "skill": "JavaScript (ES6+) & Frontend Best Practices  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 4.8,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "js (basic) Languages English: Highly proficient in speaking and writing Arabic: Native speaker Interests UI/UX Design Trends Web Animation Interactive Design Tech Startups SaaS Products Automation Productivity Tools Open Source Contributions Digital Art Web Aesthetics Gaming Game UI Design Learning new frameworks (e",
+              "js, MongoDB, Express"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "limited tenure"
+          },
+          {
+            "skill": "API Integration & Performance Optimization  ",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 5.9,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "page structure achieved a performance score of 90/100",
+              "india Landing Page Developer Payment Integration SEO Optimization Designed and developed a conversion",
+              "aligners Built a WordPress site with service pages, landing optimization, and lead capture through automated form flows"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": "limited tenure"
+          }
+        ],
+        "weighted_score": {
+          "score_10": 5.7,
+          "match_pct": 57
+        },
+        "highlights": [
+          "Achievements Meta Front-End Developer Professional Certificate React Certification Upwork Upwork Rising Talent Badge 100% Job Success Score on Upwork Selected Projects Personal Portfolio Website https://adelemad"
+        ],
+        "pros": [
+          "Quantifiable achievements with measurable impact",
+          "Professional online presence with portfolio/links",
+          "Relevant domain experience",
+          "Technical competency demonstrated"
+        ],
+        "cons": [
+          "May require skill development in weaker areas",
+          "Experience depth varies by skill area"
+        ],
+        "ats_keywords": {
+          "found": [
+            "React.js Development (components, hooks, state management)  ",
+            "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "JavaScript (ES6+) & Frontend Best Practices  ",
+            "API Integration & Performance Optimization  "
+          ],
+          "missing": []
+        },
+        "growth_plan": [
+          "Develop React.js Development (components, hooks, state management)   through hands-on projects with measurable outcomes",
+          "Develop JavaScript (ES6+) & Frontend Best Practices   through hands-on projects with measurable outcomes",
+          "Build portfolio showcasing relevant work with metrics and impact",
+          "Pursue certifications or training in identified skill gaps"
+        ],
+        "fit_assessment": {
+          "label": "partial",
+          "reason": "Moderate alignment with some skill gaps to address"
+        },
+        "best_role_fit": [
+          "Frontend Developer",
+          "React Developer",
+          "UI Developer"
+        ],
+        "red_flags": []
+      }
+    },
+    {
+      "candidate_id": "9abf3244-57ea-4733-aaf3-dcb2fd3c34cb",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 3.7,
+      "why": [
+        "Score: 3.7/10 (37% match)",
+        "React.js Development (components, hooks, state management)  : 0.0/10",
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  : 7.2/10",
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  : 6.0/10"
+      ],
+      "cv_summary": "Professional candidate with 2.0 years of experience in the target domain.",
+      "suggested_roles": [
+        "General Specialist",
+        "Professional Role"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Adel Atya Front-End Engineer Workflow Autom",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "React.js Development (components, hooks, state management)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 2.0
+        },
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ": {
+          "score": 7.2,
+          "evidence": [
+            "End Engineer Workflow Automator Wordpress/Shopify Developer Cairo adelsherif8@gmail",
+            "Employed / Freelance, Freelance Web Developer Remote Jan 2022 Present Built fully responsive websites using WordPress, Shopify (Liquid), and React for clients across industries including dental, logistics, landscaping, and e",
+            "commerce"
+          ],
+          "years_experience": 2.0
+        },
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ": {
+          "score": 6.0,
+          "evidence": [
+            "End Frameworks: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS CMS Builders: Shopify (Liquid), WordPress, Webflow Design Prototyping: Figma, Canva Automation Integration: Zapier, GoHighLevel, WPForms Version Control APIs: Git, REST APIs Back"
+          ],
+          "years_experience": 2.0
+        },
+        "JavaScript (ES6+) & Frontend Best Practices  ": {
+          "score": 3.1,
+          "evidence": [
+            "End Frameworks: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS CMS Builders: Shopify (Liquid), WordPress, Webflow Design Prototyping: Figma, Canva Automation Integration: Zapier, GoHighLevel, WPForms Version Control APIs: Git, REST APIs Back"
+          ],
+          "years_experience": 2.0
+        },
+        "API Integration & Performance Optimization  ": {
+          "score": 4.8,
+          "evidence": [
+            "Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong foundation in UX/UI design and performance optimization",
+            "End Frameworks: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS CMS Builders: Shopify (Liquid), WordPress, Webflow Design Prototyping: Figma, Canva Automation Integration: Zapier, GoHighLevel, WPForms Version Control APIs: Git, REST APIs Back"
+          ],
+          "years_experience": 2.0
+        }
+      },
+      "full_analysis": {
+        "candidate": {
+          "name": null,
+          "years_experience": 2.0,
+          "locale": "en"
+        },
+        "job_profile": {
+          "title": "Frontend Developer (React / Shopify)",
+          "seniority": "mid",
+          "skills": [
+            {
+              "name": "React.js Development (components, hooks, state management)  ",
+              "weight": 0.3,
+              "critical": false
+            },
+            {
+              "name": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "JavaScript (ES6+) & Frontend Best Practices  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "API Integration & Performance Optimization  ",
+              "weight": 0.1,
+              "critical": false
+            }
+          ]
+        },
+        "ratings": [
+          {
+            "skill": "React.js Development (components, hooks, state management)  ",
+            "weight": 0.3,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 7.2,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "End Engineer Workflow Automator Wordpress/Shopify Developer Cairo adelsherif8@gmail",
+              "Employed / Freelance, Freelance Web Developer Remote Jan 2022 Present Built fully responsive websites using WordPress, Shopify (Liquid), and React for clients across industries including dental, logistics, landscaping, and e",
+              "commerce"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 1.2,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 6.0,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "End Frameworks: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS CMS Builders: Shopify (Liquid), WordPress, Webflow Design Prototyping: Figma, Canva Automation Integration: Zapier, GoHighLevel, WPForms Version Control APIs: Git, REST APIs Back"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 1.2,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "JavaScript (ES6+) & Frontend Best Practices  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 3.1,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "End Frameworks: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS CMS Builders: Shopify (Liquid), WordPress, Webflow Design Prototyping: Figma, Canva Automation Integration: Zapier, GoHighLevel, WPForms Version Control APIs: Git, REST APIs Back"
+            ],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "API Integration & Performance Optimization  ",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 4.8,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong foundation in UX/UI design and performance optimization",
+              "End Frameworks: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS CMS Builders: Shopify (Liquid), WordPress, Webflow Design Prototyping: Figma, Canva Automation Integration: Zapier, GoHighLevel, WPForms Version Control APIs: Git, REST APIs Back"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 0.967,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          }
+        ],
+        "weighted_score": {
+          "score_10": 3.7,
+          "match_pct": 37
+        },
+        "highlights": [
+          "Achievements Meta Front-End Developer Professional Certificate React Certification Upwork Upwork Rising Talent Badge 100% Job Success Score on Upwork Selected Projects Personal Portfolio Website https://adelemad"
+        ],
+        "pros": [
+          "Strong expertise in Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+          "Professional online presence with portfolio/links",
+          "Relevant domain experience",
+          "Technical competency demonstrated"
+        ],
+        "cons": [
+          "Limited evidence for React.js Development (components, hooks, state management)  ",
+          "May require skill development in weaker areas",
+          "Experience depth varies by skill area"
+        ],
+        "ats_keywords": {
+          "found": [
+            "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "JavaScript (ES6+) & Frontend Best Practices  ",
+            "API Integration & Performance Optimization  "
+          ],
+          "missing": [
+            "React.js Development (components, hooks, state management)  "
+          ]
+        },
+        "growth_plan": [
+          "Develop React.js Development (components, hooks, state management)   through hands-on projects with measurable outcomes",
+          "Develop JavaScript (ES6+) & Frontend Best Practices   through hands-on projects with measurable outcomes",
+          "Build portfolio showcasing relevant work with metrics and impact",
+          "Pursue certifications or training in identified skill gaps"
+        ],
+        "fit_assessment": {
+          "label": "poor",
+          "reason": "Below threshold in critical skills or overall low match"
+        },
+        "best_role_fit": [
+          "General Specialist",
+          "Professional Role"
+        ],
+        "red_flags": []
+      }
+    },
+    {
+      "candidate_id": "d2748d5f-d45b-42c0-9516-2537790bfd55",
+      "file_name": "test_cv.txt",
+      "fit_score": 2.5,
+      "why": [
+        "Score: 2.5/10 (25% match)",
+        "React.js Development (components, hooks, state management)  : 5.9/10",
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  : 0.0/10",
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  : 0.0/10"
+      ],
+      "cv_summary": "Professional candidate with 10.0 years of experience in the target domain.",
+      "suggested_roles": [
+        "Senior Frontend Developer",
+        "Senior React Developer",
+        "Senior UI Developer"
+      ],
+      "red_flags": [],
+      "years_experience": 10.0,
+      "last_role": "Professional",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "React.js Development (components, hooks, state management)  ": {
+          "score": 5.9,
+          "evidence": [
+            "Expert in React, TypeScript, Node",
+            "TECHNICAL SKILLS - Frontend: React, TypeScript, JavaScript ES6+, HTML5, CSS3, Tailwind CSS - Backend: Node",
+            "2021 - Present - Built 15+ React applications with TypeScript and modern state management - Developed microservices architecture serving 100k+ daily users - Implemented CI/CD pipelines reducing deployment time by 60% - Led team of 4 developers on enterprise e-commerce platform Full-Stack Developer StartupXYZ 2019 - 2021 - Created responsive web applications using React and Node"
+          ],
+          "years_experience": 10.0
+        },
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 10.0
+        },
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 10.0
+        },
+        "JavaScript (ES6+) & Frontend Best Practices  ": {
+          "score": 3.8,
+          "evidence": [
+            "Expert in React, TypeScript, Node",
+            "js, and cloud architectures",
+            "TECHNICAL SKILLS - Frontend: React, TypeScript, JavaScript ES6+, HTML5, CSS3, Tailwind CSS - Backend: Node"
+          ],
+          "years_experience": 10.0
+        },
+        "API Integration & Performance Optimization  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 10.0
+        }
+      },
+      "full_analysis": {
+        "candidate": {
+          "name": null,
+          "years_experience": 10.0,
+          "locale": "en"
+        },
+        "job_profile": {
+          "title": "Frontend Developer (React / Shopify)",
+          "seniority": "mid",
+          "skills": [
+            {
+              "name": "React.js Development (components, hooks, state management)  ",
+              "weight": 0.3,
+              "critical": false
+            },
+            {
+              "name": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "JavaScript (ES6+) & Frontend Best Practices  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "API Integration & Performance Optimization  ",
+              "weight": 0.1,
+              "critical": false
+            }
+          ]
+        },
+        "ratings": [
+          {
+            "skill": "React.js Development (components, hooks, state management)  ",
+            "weight": 0.3,
+            "critical": false,
+            "rating": 5.9,
+            "evidence_confidence": "E3",
+            "evidence": [
+              "Expert in React, TypeScript, Node",
+              "TECHNICAL SKILLS - Frontend: React, TypeScript, JavaScript ES6+, HTML5, CSS3, Tailwind CSS - Backend: Node",
+              "2021 - Present - Built 15+ React applications with TypeScript and modern state management - Developed microservices architecture serving 100k+ daily users - Implemented CI/CD pipelines reducing deployment time by 60% - Led team of 4 developers on enterprise e-commerce platform Full-Stack Developer StartupXYZ 2019 - 2021 - Created responsive web applications using React and Node"
+            ],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.2,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "JavaScript (ES6+) & Frontend Best Practices  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 3.8,
+            "evidence_confidence": "E3",
+            "evidence": [
+              "Expert in React, TypeScript, Node",
+              "js, and cloud architectures",
+              "TECHNICAL SKILLS - Frontend: React, TypeScript, JavaScript ES6+, HTML5, CSS3, Tailwind CSS - Backend: Node"
+            ],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "API Integration & Performance Optimization  ",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          }
+        ],
+        "weighted_score": {
+          "score_10": 2.5,
+          "match_pct": 25
+        },
+        "highlights": [
+          "2021 - Present - Built 15+ React applications with TypeScript and modern state management - Developed microservices architecture serving 100k+ daily users - Implemented CI/CD pipelines reducing deployment time by 60% - Led team of 4 developers on enterprise e-commerce platform Full-Stack Developer StartupXYZ 2019 - 2021 - Created responsive web applications using React and Node",
+          "js - Optimized database queries improving performance by 40% - Collaborated with designers to implement pixel-perfect UI/UX EDUCATION Bachelor of Science in Computer Science University of Technology 2015 - 2019 PROJECTS - E-commerce Platform: Full-stack app with React, Node"
+        ],
+        "pros": [
+          "Quantifiable achievements with measurable impact",
+          "Solid professional experience (10.0 years)",
+          "Professional online presence with portfolio/links",
+          "Relevant domain experience",
+          "Technical competency demonstrated"
+        ],
+        "cons": [
+          "Limited evidence for Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+          "May require skill development in weaker areas",
+          "Experience depth varies by skill area"
+        ],
+        "ats_keywords": {
+          "found": [],
+          "missing": [
+            "React.js Development (components, hooks, state management)  ",
+            "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "JavaScript (ES6+) & Frontend Best Practices  ",
+            "API Integration & Performance Optimization  "
+          ]
+        },
+        "growth_plan": [
+          "Develop React.js Development (components, hooks, state management)   through hands-on projects with measurable outcomes",
+          "Develop Shopify & Liquid Templating (themes, customizations, e-commerce workflows)   through hands-on projects with measurable outcomes",
+          "Build portfolio showcasing relevant work with metrics and impact",
+          "Pursue certifications or training in identified skill gaps"
+        ],
+        "fit_assessment": {
+          "label": "poor",
+          "reason": "Below threshold in critical skills or overall low match"
+        },
+        "best_role_fit": [
+          "Senior Frontend Developer",
+          "Senior React Developer",
+          "Senior UI Developer"
+        ],
+        "red_flags": []
+      }
+    },
+    {
+      "candidate_id": "d13b3eec-83ad-4e4d-a132-c39a11691d93",
+      "file_name": "test_data_scientist_cv.txt",
+      "fit_score": 2.4,
+      "why": [
+        "Score: 2.4/10 (24% match)",
+        "React.js Development (components, hooks, state management)  : 4.8/10",
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  : 0.0/10",
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  : 0.0/10"
+      ],
+      "cv_summary": "Professional candidate with 8.0 years of experience in the target domain.",
+      "suggested_roles": [
+        "General Specialist",
+        "Professional Role"
+      ],
+      "red_flags": [
+        "No portfolio or professional links found"
+      ],
+      "years_experience": 8.0,
+      "last_role": "John Smith - D",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "React.js Development (components, hooks, state management)  ": {
+          "score": 4.8,
+          "evidence": [
+            "2021 Analyzed customer behavior data using Python pandas and NumPy Designed and implemented ETL pipelines for data processing Performed statistical hypothesis testing to validate business metrics Created data visualizations using Matplotlib and Seaborn EDUCATION Master of Science in Data Science University of Technology 2019 Bachelor of Science in Statistics State University 2017 PROJECTS Customer Segmentation: Used K"
+          ],
+          "years_experience": 8.0
+        },
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 8.0
+        },
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 8.0
+        },
+        "JavaScript (ES6+) & Frontend Best Practices  ": {
+          "score": 4.8,
+          "evidence": [
+            "TECHNICAL SKILLS Programming Languages: Python, R, SQL, JavaScript Machine Learning: Scikit"
+          ],
+          "years_experience": 8.0
+        },
+        "API Integration & Performance Optimization  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 8.0
+        }
+      },
+      "full_analysis": {
+        "candidate": {
+          "name": null,
+          "years_experience": 8.0,
+          "locale": "en"
+        },
+        "job_profile": {
+          "title": "Frontend Developer (React / Shopify)",
+          "seniority": "mid",
+          "skills": [
+            {
+              "name": "React.js Development (components, hooks, state management)  ",
+              "weight": 0.3,
+              "critical": false
+            },
+            {
+              "name": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "JavaScript (ES6+) & Frontend Best Practices  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "API Integration & Performance Optimization  ",
+              "weight": 0.1,
+              "critical": false
+            }
+          ]
+        },
+        "ratings": [
+          {
+            "skill": "React.js Development (components, hooks, state management)  ",
+            "weight": 0.3,
+            "critical": false,
+            "rating": 4.8,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "2021 Analyzed customer behavior data using Python pandas and NumPy Designed and implemented ETL pipelines for data processing Performed statistical hypothesis testing to validate business metrics Created data visualizations using Matplotlib and Seaborn EDUCATION Master of Science in Data Science University of Technology 2019 Bachelor of Science in Statistics State University 2017 PROJECTS Customer Segmentation: Used K"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 0.967,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "JavaScript (ES6+) & Frontend Best Practices  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 4.8,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "TECHNICAL SKILLS Programming Languages: Python, R, SQL, JavaScript Machine Learning: Scikit"
+            ],
+            "adjustments": {
+              "recency_factor": 1.0,
+              "tenure_factor": 0.967,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "API Integration & Performance Optimization  ",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          }
+        ],
+        "weighted_score": {
+          "score_10": 2.4,
+          "match_pct": 24
+        },
+        "highlights": [
+          "2021 - Present Developed machine learning models for customer churn prediction, improving retention by 15% Built recommendation systems using collaborative filtering and deep learning techniques Performed statistical analysis on large datasets (10M+ records) using Python and SQL Created interactive dashboards with Plotly and Streamlit for stakeholder reporting Led A/B testing initiatives to optimize product features Data Analyst DataFlow Solutions 2019 - 2021 Analyzed customer behavior data using Python pandas and NumPy Designed and implemented ETL pipelines for data processing Performed statistical hypothesis testing to validate business metrics Created data visualizations using Matplotlib and Seaborn EDUCATION Master of Science in Data Science University of Technology 2019 Bachelor of Science in Statistics State University 2017 PROJECTS Customer Segmentation: Used K-means clustering and PCA for market segmentation Stock Price Prediction: Built LSTM neural network model using TensorFlow Fraud Detection: Implemented ensemble methods for credit card fraud detection"
+        ],
+        "pros": [
+          "Solid professional experience (8.0 years)",
+          "Relevant domain experience",
+          "Technical competency demonstrated"
+        ],
+        "cons": [
+          "Limited evidence for Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+          "No technical portfolio or code samples provided",
+          "May require skill development in weaker areas",
+          "Experience depth varies by skill area"
+        ],
+        "ats_keywords": {
+          "found": [
+            "React.js Development (components, hooks, state management)  ",
+            "JavaScript (ES6+) & Frontend Best Practices  "
+          ],
+          "missing": [
+            "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "API Integration & Performance Optimization  "
+          ]
+        },
+        "growth_plan": [
+          "Develop React.js Development (components, hooks, state management)   through hands-on projects with measurable outcomes",
+          "Develop Shopify & Liquid Templating (themes, customizations, e-commerce workflows)   through hands-on projects with measurable outcomes",
+          "Build portfolio showcasing relevant work with metrics and impact",
+          "Pursue certifications or training in identified skill gaps"
+        ],
+        "fit_assessment": {
+          "label": "poor",
+          "reason": "Below threshold in critical skills or overall low match"
+        },
+        "best_role_fit": [
+          "General Specialist",
+          "Professional Role"
+        ],
+        "red_flags": [
+          "No portfolio or professional links found"
+        ]
+      }
+    },
+    {
+      "candidate_id": "88907445-aea4-4a9b-82f8-4026085af973",
+      "file_name": "Adel_Atya_CVmay.pdf",
+      "fit_score": 1.9,
+      "why": [
+        "Score: 1.9/10 (19% match)",
+        "React.js Development (components, hooks, state management)  : 3.8/10",
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  : 0.0/10",
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  : 0.0/10"
+      ],
+      "cv_summary": "Professional candidate with 2.0 years of experience in the target domain.",
+      "suggested_roles": [
+        "General Specialist",
+        "Professional Role"
+      ],
+      "red_flags": [],
+      "years_experience": 2.0,
+      "last_role": "Adel Atya Front-End Engineer Workflow Autom",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "React.js Development (components, hooks, state management)  ": {
+          "score": 3.8,
+          "evidence": [
+            "Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong foundation in UX/UI design and performance optimization",
+            "1 Relevant Coursework: Web Development, Java, Software Engineering, UI/UX Design Capstone Project verified on Coursera Courses Meta / Coursera, Meta Front-End Developer Professional Certificate Online Jan 2024 July 2024 Completed 7-course track covering HTML, CSS, JavaScript, React, UX/UI Design, Git, and web deployment",
+            "Upwork Skills Certification, React Certification Online Oct 2024 present Certified in building robust React-based applications and solving technical challenges via manual testing"
+          ],
+          "years_experience": 2.0
+        },
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 2.0
+        },
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 2.0
+        },
+        "JavaScript (ES6+) & Frontend Best Practices  ": {
+          "score": 3.8,
+          "evidence": [
+            "Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong foundation in UX/UI design and performance optimization",
+            "1 Relevant Coursework: Web Development, Java, Software Engineering, UI/UX Design Capstone Project verified on Coursera Courses Meta / Coursera, Meta Front-End Developer Professional Certificate Online Jan 2024 July 2024 Completed 7-course track covering HTML, CSS, JavaScript, React, UX/UI Design, Git, and web deployment",
+            "nl Shopify Developer Theme Customization JS Logic CMS Enhancements o Cloned and rebuilt the store layout by referencing multiple external design sources to match a premium eCommerce look"
+          ],
+          "years_experience": 2.0
+        },
+        "API Integration & Performance Optimization  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 2.0
+        }
+      },
+      "full_analysis": {
+        "candidate": {
+          "name": null,
+          "years_experience": 2.0,
+          "locale": "en"
+        },
+        "job_profile": {
+          "title": "Frontend Developer (React / Shopify)",
+          "seniority": "mid",
+          "skills": [
+            {
+              "name": "React.js Development (components, hooks, state management)  ",
+              "weight": 0.3,
+              "critical": false
+            },
+            {
+              "name": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "JavaScript (ES6+) & Frontend Best Practices  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "API Integration & Performance Optimization  ",
+              "weight": 0.1,
+              "critical": false
+            }
+          ]
+        },
+        "ratings": [
+          {
+            "skill": "React.js Development (components, hooks, state management)  ",
+            "weight": 0.3,
+            "critical": false,
+            "rating": 3.8,
+            "evidence_confidence": "E3",
+            "evidence": [
+              "Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong foundation in UX/UI design and performance optimization",
+              "1 Relevant Coursework: Web Development, Java, Software Engineering, UI/UX Design Capstone Project verified on Coursera Courses Meta / Coursera, Meta Front-End Developer Professional Certificate Online Jan 2024 July 2024 Completed 7-course track covering HTML, CSS, JavaScript, React, UX/UI Design, Git, and web deployment",
+              "Upwork Skills Certification, React Certification Online Oct 2024 present Certified in building robust React-based applications and solving technical challenges via manual testing"
+            ],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "JavaScript (ES6+) & Frontend Best Practices  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 3.8,
+            "evidence_confidence": "E2",
+            "evidence": [
+              "Proficient in React, JavaScript, HTML/CSS, and modern frameworks with a strong foundation in UX/UI design and performance optimization",
+              "1 Relevant Coursework: Web Development, Java, Software Engineering, UI/UX Design Capstone Project verified on Coursera Courses Meta / Coursera, Meta Front-End Developer Professional Certificate Online Jan 2024 July 2024 Completed 7-course track covering HTML, CSS, JavaScript, React, UX/UI Design, Git, and web deployment",
+              "nl Shopify Developer Theme Customization JS Logic CMS Enhancements o Cloned and rebuilt the store layout by referencing multiple external design sources to match a premium eCommerce look"
+            ],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "API Integration & Performance Optimization  ",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          }
+        ],
+        "weighted_score": {
+          "score_10": 1.9,
+          "match_pct": 19
+        },
+        "highlights": [
+          "Achievements Meta Front-End Developer Professional Certificate React Certification Upwork Upwork Rising Talent Badge 100% Job Success Score on Upwork Selected Projects Personal Portfolio Website https://adelemad"
+        ],
+        "pros": [
+          "Quantifiable achievements with measurable impact",
+          "Professional online presence with portfolio/links",
+          "Relevant domain experience",
+          "Technical competency demonstrated"
+        ],
+        "cons": [
+          "Limited evidence for React.js Development (components, hooks, state management)  ",
+          "May require skill development in weaker areas",
+          "Experience depth varies by skill area"
+        ],
+        "ats_keywords": {
+          "found": [],
+          "missing": [
+            "React.js Development (components, hooks, state management)  ",
+            "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "JavaScript (ES6+) & Frontend Best Practices  ",
+            "API Integration & Performance Optimization  "
+          ]
+        },
+        "growth_plan": [
+          "Develop React.js Development (components, hooks, state management)   through hands-on projects with measurable outcomes",
+          "Develop Shopify & Liquid Templating (themes, customizations, e-commerce workflows)   through hands-on projects with measurable outcomes",
+          "Build portfolio showcasing relevant work with metrics and impact",
+          "Pursue certifications or training in identified skill gaps"
+        ],
+        "fit_assessment": {
+          "label": "poor",
+          "reason": "Below threshold in critical skills or overall low match"
+        },
+        "best_role_fit": [
+          "General Specialist",
+          "Professional Role"
+        ],
+        "red_flags": []
+      }
+    },
+    {
+      "candidate_id": "3f990e61-429e-4293-9c82-43f5015b3ac8",
+      "file_name": "test_sarah_johnson_cv.txt",
+      "fit_score": 0.0,
+      "why": [
+        "Score: 0.0/10 (0% match)",
+        "React.js Development (components, hooks, state management)  : 0.0/10",
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  : 0.0/10",
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  : 0.0/10"
+      ],
+      "cv_summary": "Professional candidate with 7.0 years of experience in the target domain.",
+      "suggested_roles": [
+        "General Specialist",
+        "Professional Role"
+      ],
+      "red_flags": [],
+      "years_experience": 7.0,
+      "last_role": "Professional",
+      "candidate_details": null,
+      "is_favorite": false,
+      "is_deleted": true,
+      "skill_analysis": {
+        "React.js Development (components, hooks, state management)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 7.0
+        },
+        "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 7.0
+        },
+        "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 7.0
+        },
+        "JavaScript (ES6+) & Frontend Best Practices  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 7.0
+        },
+        "API Integration & Performance Optimization  ": {
+          "score": 0.0,
+          "evidence": [],
+          "years_experience": 7.0
+        }
+      },
+      "full_analysis": {
+        "candidate": {
+          "name": null,
+          "years_experience": 7.0,
+          "locale": "en"
+        },
+        "job_profile": {
+          "title": "Frontend Developer (React / Shopify)",
+          "seniority": "mid",
+          "skills": [
+            {
+              "name": "React.js Development (components, hooks, state management)  ",
+              "weight": 0.3,
+              "critical": false
+            },
+            {
+              "name": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "JavaScript (ES6+) & Frontend Best Practices  ",
+              "weight": 0.2,
+              "critical": false
+            },
+            {
+              "name": "API Integration & Performance Optimization  ",
+              "weight": 0.1,
+              "critical": false
+            }
+          ]
+        },
+        "ratings": [
+          {
+            "skill": "React.js Development (components, hooks, state management)  ",
+            "weight": 0.3,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "JavaScript (ES6+) & Frontend Best Practices  ",
+            "weight": 0.2,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          },
+          {
+            "skill": "API Integration & Performance Optimization  ",
+            "weight": 0.1,
+            "critical": false,
+            "rating": 0.0,
+            "evidence_confidence": "E1",
+            "evidence": [],
+            "adjustments": {
+              "recency_factor": 0.787,
+              "tenure_factor": 0.8,
+              "scope_bonus": 0.0,
+              "seniority_penalty": 0.0
+            },
+            "reason": ""
+          }
+        ],
+        "weighted_score": {
+          "score_10": 0.0,
+          "match_pct": 0
+        },
+        "highlights": [
+          "com/in/sarahjohnson EXPERIENCE Senior Digital Marketing Manager TechStartup Inc 2021-Present Managed $200k/month Google Ads budget across search, display, and shopping campaigns Achieved 4",
+          "5 ROAS through campaign optimization and audience targeting Increased organic traffic by 300% through comprehensive SEO strategy and content marketing Led social media strategy resulting in 150k new followers and 25% engagement rate Implemented Klaviyo email automation workflows with 30% open rates and 12% CTR Mentored team of 4 junior marketers and interns Digital Marketing Specialist GrowthCorp 2019-2021 Launched Google Ads and Facebook Ads campaigns from zero to $80k/month spend Created content marketing strategy generating 50k monthly organic visitors Managed social media accounts with 200% engagement growth Built email marketing automation in Mailchimp with advanced segmentation Marketing Coordinator StartupVenture 2018-2019 Supported PPC campaigns and conducted keyword research for 100+ terms Created social media content and managed community engagement Assisted with email marketing campaigns and A/B testing EDUCATION Bachelor of Marketing University of California, Berkeley 2018 Google Ads Certification Current Google Analytics Certification Current SKILLS SEO Content Marketing: Technical SEO, keyword research, content strategy, link building Paid Advertising: Google Ads, Facebook Ads, campaign optimization, budget management Social Media: Strategy, content creation, community management, paid social Email Marketing: Automation, segmentation, A/B testing, deliverability Analytics: Google Analytics, Data Studio, conversion tracking, reporting Tools: SEMrush, Ahrefs, Canva, HubSpot, Salesforce"
+        ],
+        "pros": [
+          "Solid professional experience (7.0 years)",
+          "Relevant domain experience",
+          "Technical competency demonstrated"
+        ],
+        "cons": [
+          "Limited evidence for React.js Development (components, hooks, state management)  ",
+          "No technical portfolio or code samples provided",
+          "May require skill development in weaker areas",
+          "Experience depth varies by skill area"
+        ],
+        "ats_keywords": {
+          "found": [],
+          "missing": [
+            "React.js Development (components, hooks, state management)  ",
+            "Shopify & Liquid Templating (themes, customizations, e-commerce workflows)  ",
+            "HTML5, CSS3, and Responsive Design (Tailwind, Bootstrap, etc.)  ",
+            "JavaScript (ES6+) & Frontend Best Practices  ",
+            "API Integration & Performance Optimization  "
+          ]
+        },
+        "growth_plan": [
+          "Develop React.js Development (components, hooks, state management)   through hands-on projects with measurable outcomes",
+          "Develop Shopify & Liquid Templating (themes, customizations, e-commerce workflows)   through hands-on projects with measurable outcomes",
+          "Build portfolio showcasing relevant work with metrics and impact",
+          "Pursue certifications or training in identified skill gaps"
+        ],
+        "fit_assessment": {
+          "label": "poor",
+          "reason": "Below threshold in critical skills or overall low match"
+        },
+        "best_role_fit": [
+          "General Specialist",
+          "Professional Role"
+        ],
+        "red_flags": []
+      }
+    }
+  ],
+  "analyzed_at": "2025-08-19 19:52:28.055668"
+}

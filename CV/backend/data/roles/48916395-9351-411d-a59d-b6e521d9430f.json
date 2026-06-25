@@ -1,0 +1,32 @@
+{
+  "title": "Digital Marketing Specialist",
+  "description": "Looking for a skilled digital marketing specialist with expertise in SEO, paid advertising, social media, and email marketing automation.",
+  "required_skills": [
+    {
+      "name": "SEO & Content Marketing",
+      "weight": 0.25,
+      "is_bonus": false,
+      "category": "Marketing"
+    },
+    {
+      "name": "Paid Advertising (Google Ads / Meta Ads)",
+      "weight": 0.3,
+      "is_bonus": false,
+      "category": "Marketing"
+    },
+    {
+      "name": "Social Media Strategy & Management",
+      "weight": 0.2,
+      "is_bonus": false,
+      "category": "Marketing"
+    },
+    {
+      "name": "Email Marketing & Automation",
+      "weight": 0.25,
+      "is_bonus": false,
+      "category": "Marketing"
+    }
+  ],
+  "id": "48916395-9351-411d-a59d-b6e521d9430f",
+  "created_at": "2025-08-17 02:48:24.401194"
+}

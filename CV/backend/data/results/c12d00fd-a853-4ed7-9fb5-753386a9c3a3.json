@@ -1,0 +1,209 @@
+{
+  "role_id": "c12d00fd-a853-4ed7-9fb5-753386a9c3a3",
+  "results": [
+    {
+      "candidate_id": "3a3f47ee-bb4a-438d-ba89-7ba2935e5ef6",
+      "file_name": "test_data_scientist_cv.txt",
+      "fit_score": 10.0,
+      "why": [
+        "**Python** (Core skill): Strong proficiency demonstrated - 85% match - 2021 - present developed machine learning models for customer churn prediction, improving retention ...",
+        "**Machine Learning** (Core skill): Strong proficiency demonstrated - 85% match - 2021 - present developed machine learning models for customer churn prediction, improving retention ...",
+        "**SQL** (Important skill): Strong proficiency demonstrated - 80% match - 2021 - present developed machine learning models for customer churn prediction, improving retention ...",
+        "**Statistics** (Important skill): Strong proficiency demonstrated - 80% match - 2021 - present developed machine learning models for customer churn prediction, improving retention ...",
+        "**Data Visualization** (Supporting skill): Strong proficiency demonstrated - 85% match - 2021 - present developed machine learning models for customer churn prediction, improving retention ..."
+      ],
+      "cv_summary": "Senior candidate with 5 years of professional experience. Specialized experience: 5 years in data science. Strong proficiency in Python, Machine Learning, SQL. Excellent match for Data Scientist position (10.0/10).",
+      "suggested_roles": [
+        "Data Scientist",
+        "Python Developer",
+        "Database Developer",
+        "AI Developer"
+      ],
+      "red_flags": [],
+      "years_experience": 5.0,
+      "last_role": "Not specified",
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": {
+        "Python": {
+          "score": 8.5,
+          "evidence": [
+            "2021 - present developed machine learning models for customer churn prediction, ...",
+            "technical skills programming languages: python, r, sql, javascript machine learn...",
+            "proficient in python, r, and sql with extensive experience in building predictiv..."
+          ],
+          "years_experience": null
+        },
+        "Machine Learning": {
+          "score": 8.5,
+          "evidence": [
+            "2021 - present developed machine learning models for customer churn prediction, ...",
+            "technical skills programming languages: python, r, sql, javascript machine learn...",
+            "john smith - data scientist professional summary experienced data scientist with..."
+          ],
+          "years_experience": null
+        },
+        "SQL": {
+          "score": 8.0,
+          "evidence": [
+            "2021 - present developed machine learning models for customer churn prediction, ...",
+            "technical skills programming languages: python, r, sql, javascript machine learn...",
+            "proficient in python, r, and sql with extensive experience in building predictiv..."
+          ],
+          "years_experience": null
+        },
+        "Statistics": {
+          "score": 8.0,
+          "evidence": [
+            "2021 - present developed machine learning models for customer churn prediction, ...",
+            "technical skills programming languages: python, r, sql, javascript machine learn...",
+            "john smith - data scientist professional summary experienced data scientist with..."
+          ],
+          "years_experience": null
+        },
+        "Data Visualization": {
+          "score": 8.5,
+          "evidence": [
+            "2021 - present developed machine learning models for customer churn prediction, ...",
+            "technical skills programming languages: python, r, sql, javascript machine learn...",
+            "john smith - data scientist professional summary experienced data scientist with..."
+          ],
+          "years_experience": null
+        }
+      }
+    },
+    {
+      "candidate_id": "d79d6524-5cec-4218-864d-69c40f4226c4",
+      "file_name": "test_marketing_analytics_cv.txt",
+      "fit_score": 6.0,
+      "why": [
+        "**Python** (Core skill): Some experience evident - 40% match - 2021 - 2022 executed social media marketing campaigns across linkedin, twitter, facebook analyzed ca...",
+        "**Machine Learning** (Core skill): Strong proficiency demonstrated - 75% match - 2021 - 2022 executed social media marketing campaigns across linkedin, twitter, facebook analyzed ca...",
+        "**SQL** (Important skill): Strong proficiency demonstrated - 85% match - 2021 - 2022 executed social media marketing campaigns across linkedin, twitter, facebook analyzed ca...",
+        "**Statistics** (Important skill): No clear evidence found - 0% match - Limited evidence found for Statistics",
+        "**Data Visualization** (Supporting skill): Strong proficiency demonstrated - 85% match - 2021 - 2022 executed social media marketing campaigns across linkedin, twitter, facebook analyzed ca..."
+      ],
+      "cv_summary": "Mid-level candidate with 3 years of professional experience. Specialized experience: 3 years in data science, 3 years in marketing. Strong proficiency in Machine Learning, SQL, Data Visualization. Potential candidate for Data Scientist position (6.0/10).",
+      "suggested_roles": [
+        "Junior Data Scientist",
+        "Database Developer",
+        "AI Developer",
+        "Backend Developer"
+      ],
+      "red_flags": [],
+      "years_experience": 3.0,
+      "last_role": "Not specified",
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": {
+        "Python": {
+          "score": 4.0,
+          "evidence": [
+            "2021 - 2022 executed social media marketing campaigns across linkedin, twitter, ..."
+          ],
+          "years_experience": null
+        },
+        "Machine Learning": {
+          "score": 7.5,
+          "evidence": [
+            "2021 - 2022 executed social media marketing campaigns across linkedin, twitter, ...",
+            "2022 - present analyzed marketing campaign performance using google analytics an...",
+            "core competencies google analytics google tag manager sql database analysis a/b ..."
+          ],
+          "years_experience": null
+        },
+        "SQL": {
+          "score": 8.5,
+          "evidence": [
+            "2021 - 2022 executed social media marketing campaigns across linkedin, twitter, ...",
+            "2022 - present analyzed marketing campaign performance using google analytics an...",
+            "core competencies google analytics google tag manager sql database analysis a/b ..."
+          ],
+          "years_experience": null
+        },
+        "Statistics": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of Statistics expertise found in CV"
+          ],
+          "years_experience": null
+        },
+        "Data Visualization": {
+          "score": 8.5,
+          "evidence": [
+            "2021 - 2022 executed social media marketing campaigns across linkedin, twitter, ...",
+            "2022 - present analyzed marketing campaign performance using google analytics an...",
+            "core competencies google analytics google tag manager sql database analysis a/b ..."
+          ],
+          "years_experience": null
+        }
+      }
+    },
+    {
+      "candidate_id": "236222d6-97b3-43ce-bddb-57125cc65d57",
+      "file_name": "test_junior_developer_cv.txt",
+      "fit_score": 0.2,
+      "why": [
+        "**Python** (Core skill): No clear evidence found - 0% match - Limited evidence found for Python",
+        "**Machine Learning** (Core skill): Some experience evident - 40% match - mike johnson - junior developer education bachelor of computer science state university 2024 (recent...",
+        "**SQL** (Important skill): No clear evidence found - 0% match - Limited evidence found for SQL",
+        "**Statistics** (Important skill): No clear evidence found - 0% match - Limited evidence found for Statistics",
+        "**Data Visualization** (Supporting skill): No clear evidence found - 0% match - Limited evidence found for Data Visualization"
+      ],
+      "cv_summary": "Entry-level candidate with 0 years of professional experience. Limited alignment for Data Scientist position (0.2/10).",
+      "suggested_roles": [
+        "Entry-level Data Scientist",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [
+        "\ud83d\udea8 No professional experience mentioned",
+        "\ud83d\udd34 Weak proficiency in critical skills: Python",
+        "\u274c Poor overall skill alignment with role requirements",
+        "\ud83d\udccb Limited evidence of technical skills in CV content"
+      ],
+      "years_experience": 0.0,
+      "last_role": "Not specified",
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": {
+        "Python": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of Python expertise found in CV"
+          ],
+          "years_experience": null
+        },
+        "Machine Learning": {
+          "score": 4.0,
+          "evidence": [
+            "mike johnson - junior developer education bachelor of computer science state uni..."
+          ],
+          "years_experience": null
+        },
+        "SQL": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of SQL expertise found in CV"
+          ],
+          "years_experience": null
+        },
+        "Statistics": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of Statistics expertise found in CV"
+          ],
+          "years_experience": null
+        },
+        "Data Visualization": {
+          "score": 0.0,
+          "evidence": [
+            "No clear evidence of Data Visualization expertise found in CV"
+          ],
+          "years_experience": null
+        }
+      }
+    }
+  ],
+  "analyzed_at": "2025-08-17 02:47:04.355528"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "sample-role-123",
+  "title": "Shopify Frontend Developer",
+  "description": "We're looking for an experienced frontend developer to build and customize Shopify themes and storefronts. You'll work on high-converting e-commerce experiences using Liquid, HTML/CSS, and modern JavaScript frameworks.",
+  "required_skills": [
+    {
+      "name": "Liquid",
+      "weight": 0.35
+    },
+    {
+      "name": "Shopify development",
+      "weight": 0.25
+    },
+    {
+      "name": "HTML/CSS",
+      "weight": 0.15
+    },
+    {
+      "name": "JavaScript/React",
+      "weight": 0.15
+    },
+    {
+      "name": "Performance optimization",
+      "weight": 0.10
+    }
+  ],
+  "created_at": "2025-08-16T10:00:00Z"
+}

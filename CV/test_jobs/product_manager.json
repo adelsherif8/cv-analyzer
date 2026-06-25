@@ -1,0 +1,14 @@
+{
+  "title": "Product Manager",
+  "description": "Lead product strategy and execution for our B2B SaaS platform. You'll define product roadmaps, work with cross-functional teams, analyze user data, and drive feature development from concept to launch.",
+  "required_skills": [
+    {"name": "Product Strategy & Roadmap Planning", "weight": 0.9},
+    {"name": "Agile/Scrum Methodologies", "weight": 0.8},
+    {"name": "Data Analysis & User Analytics", "weight": 0.8},
+    {"name": "Market Research & Competitive Analysis", "weight": 0.7},
+    {"name": "Stakeholder Management", "weight": 0.8},
+    {"name": "A/B Testing & Experimentation", "weight": 0.7},
+    {"name": "Technical Understanding (APIs, Databases)", "weight": 0.6},
+    {"name": "User Story Writing & Requirements", "weight": 0.7}
+  ]
+}

@@ -1,0 +1,35 @@
+Adel Atya - Digital Marketing Specialist
+
+PROFESSIONAL SUMMARY
+Digital marketing specialist with 2 years of experience in web development and SEO optimization. Strong background in creating landing pages, payment integration, and conversion optimization. Proven track record in improving website performance and user engagement.
+
+PROFESSIONAL EXPERIENCE
+
+Freelance Web Developer | Self-Employed | Jan 2022 - Present
+• Built fully responsive websites using modern web technologies
+• Designed and developed landing page for ISA-fitness-certification-india
+• Implemented payment integration and SEO optimization strategies
+• Optimized pages for SEO using best practices in speed, metadata, and on-page structure
+• Achieved performance score optimization for improved user experience
+• Created SEO-optimized landing pages and forms focused on increasing engagement
+• Designed quote automation system using WordPress logic for pricing instant quotes
+
+TECHNICAL SKILLS
+• Frontend Development: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS
+• CMS Builders: Shopify (Liquid templates), WordPress
+• Programming: JavaScript (intermediate), Java (basic)
+• SEO Tools: Google Analytics, metadata optimization, on-page SEO
+
+EDUCATION
+Computer Science Coursework | Verified on Coursera
+• Web Development, Java, Software Engineering, UI/UX Design
+• Capstone Project completed with certification
+
+LANGUAGES
+• English: Highly proficient in speaking and writing  
+• Arabic: Native speaker
+
+INTERESTS
+• UI/UX Design
+• Travel and photography
+• Technology trends

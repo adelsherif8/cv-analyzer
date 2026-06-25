@@ -1,0 +1,31 @@
+{
+  "role_id": "90ae0f10-650a-4c12-874b-fa31940b2d2d",
+  "results": [
+    {
+      "candidate_id": "cc5b549e-2268-47c2-a00a-8224e7ba1a18",
+      "file_name": "test_marketing_cv.txt",
+      "fit_score": 8.8,
+      "why": [
+        "Google Analytics: 95.0% match - core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link... | expert in google analytics, ppc campaigns, and email marketing automation.",
+        "SEO: 62.0% match - core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link... | sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y...",
+        "Social Media Marketing: 95.0% match - core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link... | sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y... | expert in google analytics, ppc campaigns, and email marketing automation.",
+        "Content Marketing: 95.0% match - core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link... | sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y... | expert in google analytics, ppc campaigns, and email marketing automation.",
+        "Email Marketing: 95.0% match - core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link... | sarah johnson - digital marketing specialist professional summary results-driven digital marketing professional with 4 y... | expert in google analytics, ppc campaigns, and email marketing automation.",
+        "PPC Advertising: 95.0% match - core competencies seo sem: keyword research, on-page optimization, link building social media: facebook, instagram, link... | expert in google analytics, ppc campaigns, and email marketing automation."
+      ],
+      "cv_summary": "Candidate with 4.0 years of experience, strong in Google Analytics, SEO, Social Media Marketing. Overall fit score: 8.8/10 for Digital Marketing Manager position.",
+      "suggested_roles": [
+        "Digital Marketing Manager",
+        "Software Developer",
+        "Technical Specialist"
+      ],
+      "red_flags": [],
+      "years_experience": 4.0,
+      "last_role": "Not specified",
+      "is_favorite": false,
+      "is_deleted": false,
+      "skill_analysis": null
+    }
+  ],
+  "analyzed_at": "2025-08-17 02:16:42.591849"
+}
