@@ -7,7 +7,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 
-**▶️ Live demo:** _deploying — see [Quick Start](#quick-start) for now_
+**▶️ Live demo:** _paste your URL here after deploy_ · 🚀 **Deploy it yourself in ~10 min:** [DEPLOY.md](./DEPLOY.md) (Vercel + Render, free)
 
 ---
 

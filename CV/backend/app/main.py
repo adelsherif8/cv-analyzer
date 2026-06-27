@@ -20,13 +20,25 @@ app = FastAPI(
 )
 
 # CORS middleware
+# Allowed origins come from the ALLOWED_ORIGINS env var (comma-separated).
+# Defaults to local dev; set it to your deployed frontend URL(s) in production.
+import os
+_default_origins = "http://localhost:3000,http://127.0.0.1:3000"
+allowed_origins = [
+    o.strip() for o in os.getenv("ALLOWED_ORIGINS", _default_origins).split(",") if o.strip()
+]
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=allowed_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Lightweight health check for uptime pings / platform health probes
+@app.get("/health", tags=["Health"])
+def health():
+    return {"status": "ok"}
 
 # Include routers
 app.include_router(roles.router, prefix="/roles", tags=["Roles"])
