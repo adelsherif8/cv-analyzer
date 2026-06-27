@@ -129,6 +129,9 @@ class CandidateResult(BaseModel):
     skill_analysis: Optional[Dict[str, SkillAnalysis]] = Field(default=None, description="Detailed skill analysis")
     # Add new field for full analysis result
     full_analysis: Optional[AnalysisResult] = Field(default=None, description="Complete analysis per specification")
+    # RAG: the CV passages retrieved to ground the summary (semantic or TF-IDF)
+    retrieved_context: Optional[List[str]] = Field(default=None, description="Top CV passages retrieved for the job (RAG evidence)")
+    retrieval_mode: Optional[str] = Field(default=None, description="Retrieval backend used: embeddings | tfidf | none")
 
 class AnalyzeResponse(BaseModel):
     role_id: str

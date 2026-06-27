@@ -8,6 +8,7 @@ PyMuPDF==1.23.8
 python-docx==1.1.0
 pdfminer.six==20221105
 httpx==0.25.2
+numpy==1.26.4
 reportlab==4.0.7
 # weasyprint/redis/celery removed: not imported anywhere in the app and they
 # require native system libs / a broker that break free-tier builds. Re-add only

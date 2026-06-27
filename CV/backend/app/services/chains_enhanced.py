@@ -11,6 +11,7 @@ import re
 from typing import Dict, List, Any, Optional
 from app.schemas import CandidateResult, JobProfile, CandidateDetails, SkillAnalysis
 from app.services.cv_analyzer_agent import cv_analyzer
+from app.services.rag import CVRetriever
 import logging
 
 logger = logging.getLogger(__name__)
@@ -50,16 +51,30 @@ async def run_enhanced_pipeline(
         # Step 1: Run the deterministic CV analyzer agent
         logger.info(f"Running CV analyzer agent for candidate {candidate_id}")
         analysis_result = cv_analyzer.analyze_candidate(
-            cv_content, 
-            job_profile, 
+            cv_content,
+            job_profile,
             candidate_id
         )
-        
+
+        # Step 1b: RAG — index the CV and retrieve the passages most relevant to
+        # the job requirements. These ground the summary instead of a blind truncation.
+        retriever = CVRetriever().build(cv_content)
+        rag_query = f"{job_profile.title}. Required skills: " + ", ".join(
+            s.name for s in job_profile.required_skills
+        )
+        retrieved = retriever.retrieve(rag_query, k=4)
+        retrieved_passages = [chunk for chunk, _score in retrieved]
+        logger.info(
+            f"RAG: retrieved {len(retrieved_passages)} passages via {retriever.mode}"
+        )
+
         # Step 2: Extract additional candidate details using OpenAI
         candidate_details = await extract_candidate_details_with_ai(cv_content, model_name)
-        
-        # Step 3: Generate enhanced narrative summary using OpenAI
-        cv_summary = await generate_enhanced_summary(cv_content, analysis_result, model_name)
+
+        # Step 3: Generate enhanced narrative summary using OpenAI, grounded on RAG passages
+        cv_summary = await generate_enhanced_summary(
+            cv_content, analysis_result, model_name, retrieved_passages
+        )
         
         # Step 4: Generate markdown narrative
         markdown_narrative = cv_analyzer.generate_narrative_output(analysis_result, cv_content)
@@ -87,9 +102,11 @@ async def run_enhanced_pipeline(
             last_role=extract_last_role_from_cv(cv_content),
             candidate_details=candidate_details,
             skill_analysis=skill_analysis,
-            full_analysis=analysis_result  # Include complete analysis
+            full_analysis=analysis_result,  # Include complete analysis
+            retrieved_context=retrieved_passages,
+            retrieval_mode=retriever.mode,
         )
-        
+
         return result
         
     except Exception as e:
@@ -149,11 +166,12 @@ If any field is not found, use null.
         logger.error(f"Error extracting candidate details: {str(e)}")
         return None
 
-async def generate_enhanced_summary(cv_content: str, analysis_result, model_name: str) -> str:
-    """Generate enhanced CV summary using OpenAI"""
+async def generate_enhanced_summary(cv_content: str, analysis_result, model_name: str,
+                                    retrieved_passages: Optional[List[str]] = None) -> str:
+    """Generate enhanced CV summary using OpenAI, grounded on RAG-retrieved passages."""
     try:
         client = get_openai_client()
-        
+
         # Create context from analysis
         context = f"""
 Candidate Analysis Summary:
@@ -162,21 +180,30 @@ Candidate Analysis Summary:
 - Top Skills: {', '.join([r.skill for r in analysis_result.ratings[:3] if r.rating >= 6.0])}
 - Fit Assessment: {analysis_result.fit_assessment.label}
 """
-        
+
+        # RAG: prefer retrieved passages (most relevant to the role) over a blind
+        # truncation of the CV. Fall back to the first 1500 chars if retrieval is empty.
+        if retrieved_passages:
+            cv_context = "\n".join(f"- {p}" for p in retrieved_passages)
+            cv_context_label = "Retrieved CV passages (most relevant to the role)"
+        else:
+            cv_context = cv_content[:1500]
+            cv_context_label = "CV Content (first 1500 chars)"
+
         prompt = f"""
 Write a concise 2-3 sentence executive summary for this candidate based on their CV and analysis:
 
 {context}
 
-CV Content (first 1500 chars):
-{cv_content[:1500]}
+{cv_context_label}:
+{cv_context}
 
 Focus on:
 - Professional background and experience level
 - Key strengths and expertise areas
 - Overall fit for the role
 
-Keep it professional, factual, and recruiter-friendly.
+Ground every claim in the retrieved passages above. Keep it professional, factual, and recruiter-friendly.
 """
         
         response = client.chat.completions.create(
