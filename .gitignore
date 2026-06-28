@@ -25,3 +25,5 @@ Thumbs.db
 
 # Runtime data (uploads, results, roles) — never commit (may contain real CVs/PII)
 CV/backend/data/
+
+.vercel

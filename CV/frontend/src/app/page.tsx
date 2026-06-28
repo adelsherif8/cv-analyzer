@@ -70,19 +70,21 @@ export default function HomePage() {
         </div>
       </div>
 
-      {/* Demo Video Placeholder */}
-      <div className="bg-gray-200 mb-16 p-12 rounded-lg text-center">
-        <div className="mx-auto max-w-2xl">
-          <div className="flex justify-center items-center bg-gray-300 mx-auto mb-4 rounded-full w-16 h-16">
-            <div className="ml-1 border-t-4 border-t-transparent border-b-4 border-b-transparent border-l-8 border-l-gray-600 w-0 h-0"></div>
-          </div>
-          <h3 className="mb-2 font-semibold text-gray-700 text-xl">60 Second Demo</h3>
-          <p className="text-gray-600">
-            Watch how to create a job profile, upload CVs, and get AI-powered analysis results
-          </p>
-          <p className="mt-4 text-gray-500 text-sm">
-            Note: This is a placeholder. In production, replace with actual demo video.
-          </p>
+      {/* Demo Video */}
+      <div className="mb-16 text-center">
+        <h3 className="mb-1 font-semibold text-gray-900 text-xl">See it in action</h3>
+        <p className="mb-5 text-gray-600">
+          Create a job profile, upload CVs, and get AI-powered ranked results — in under a minute.
+        </p>
+        <div className="mx-auto max-w-3xl rounded-xl overflow-hidden shadow-lg ring-1 ring-gray-200">
+          <video
+            className="w-full"
+            src="/demo.mp4"
+            controls
+            playsInline
+            preload="metadata"
+            poster="/demo-poster.png"
+          />
         </div>
       </div>
 
